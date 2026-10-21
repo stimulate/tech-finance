@@ -1,5 +1,265 @@
 [
   {
+    "id": "a476c59d50c23695ff",
+    "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+    "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+    "summary": "Group to create new class of non-voting shares to allow stock sales without diluting the founder’s control",
+    "published": "2026-10-21T21:43:52Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "687faa021ce945cbe7",
+    "title": "FirstFT: Scott Bessent shrugs off ‘systemic’ AI risks at private event with investors",
+    "url": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
+    "summary": "Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery makers race to invest abroad",
+    "published": "2026-10-21T21:42:48Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "fa40af9b7c92c32726",
+    "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
+    "url": "https://www.wsj.com/tech/meta-is-getting-creative-to-fund-its-massive-ai-investments-c6fa41b7?mod=rss_Technology",
+    "summary": "Plus, the Starlink slowdown hurt Ukraine’s ability to stop Russian attacks, and U.S. special envoy Steve Witkoff praised Vladimir Putin as a ‘humanitarian.’",
+    "published": "2026-10-21T21:41:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "7351af867a39a28fb4",
+    "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
+    "url": "https://www.wsj.com/tech/meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-dea99fdd?mod=rss_Technology",
+    "summary": "A state jury found the social-media giant liable for misleading the state’s consumers.",
+    "published": "2026-10-21T21:37:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "64aba77751d4aa0e89",
+    "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+    "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_Technology",
+    "summary": "Bullish signals from three different links of the AI chain helped the Nasdaq Composite undo most of Friday’s selloff.",
+    "published": "2026-10-21T21:36:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "91216720fcac2946b2",
+    "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+    "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=rss_Technology",
+    "summary": "The company, which reported record revenue of $64.6 billion for the third quarter, said the new stock won’t affect Mark Zuckerberg’s voting control.",
+    "published": "2026-10-21T21:33:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "a34d9ce29e5f15676f",
+    "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+    "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+    "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
+    "published": "2026-10-21T21:21:31Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "22208ac79b5b70c0a0",
+    "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
+    "url": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+    "summary": "HN points: 40 | comments: 7",
+    "published": "2026-10-21T21:12:59Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "de5e48ad4338cf1950",
+    "title": "Tesla’s profits slip on weaker vehicle sales",
+    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+    "summary": "Musk’s carmaker reports flat revenue as it considers merger with SpaceX",
+    "published": "2026-10-21T20:44:43Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "25303ca3006e85430b",
+    "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
+    "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
+    "summary": "Detroit automaker’s chief product officer Sterling Anderson plans to put fully self-driving private autos on the road by 2028",
+    "published": "2026-10-21T20:10:13Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "e23215a792037997dc",
+    "title": "Opinion | Elon Musk Blunders in the Indian Market",
+    "url": "https://www.wsj.com/opinion/elon-musk-blunders-in-the-indian-market-f1af21a4?mod=rss_Technology",
+    "summary": "To bring his Starlink satellite internet network to the country, he will need to rethink his diplomatic approach.",
+    "published": "2026-10-21T20:04:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "071596a8b59893b5ff",
+    "title": "Opinion | AI Splits the American University in Two",
+    "url": "https://www.wsj.com/opinion/ai-splits-the-american-university-in-two-2d633630?mod=rss_Technology",
+    "summary": "The technology should be severely restricted for undergraduates, but it’s vital for researchers.",
+    "published": "2026-10-21T19:34:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "34005f8f6f86a8c6bd",
+    "title": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices",
+    "url": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_Technology",
+    "summary": "Silicon Data founder Carmen Li is joining with CME Group to launch compute derivatives.",
+    "published": "2026-10-21T19:32:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "168348610cb2978482",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "summary": "HN points: 215 | comments: 185",
+    "published": "2026-10-21T19:14:01Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "6dd75700deee996d0c",
+    "title": "Google's Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "summary": "HN points: 111 | comments: 80",
+    "published": "2026-10-21T19:11:57Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 11
+  },
+  {
+    "id": "4c50ade16846b2536b",
+    "title": "GitLab Critical Patch Release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released",
+    "summary": "HN points: 148 | comments: 31",
+    "published": "2026-10-21T19:01:12Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "549d1dc5d4a5e4789d",
+    "title": "Potential third critical PHP CVE",
+    "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+    "summary": "HN points: 46 | comments: 14",
+    "published": "2026-10-21T18:57:52Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 24
+  },
+  {
+    "id": "e6137ea9fd03ba7a28",
+    "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+    "url": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+    "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
+    "published": "2026-10-21T18:46:59Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "1fa49eff9c1aaf85dc",
+    "title": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
+    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+    "summary": "Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world",
+    "published": "2026-10-21T18:46:43Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "11bff69f3e7a2aba89",
+    "title": "Canary Tokens",
+    "url": "https://canarytokens.org/",
+    "summary": "HN points: 89 | comments: 18",
+    "published": "2026-10-21T18:45:04Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 20
+  },
+  {
     "id": "2926724d085d2f5d20",
     "title": "Anthropic's Public Benefit Charter",
     "url": "https://www.anthropic.com/public-benefit-charter",
@@ -11,19 +271,6 @@
     "language": "en",
     "category": "tech",
     "rank": 16
-  },
-  {
-    "id": "7351af867a39a28fb4",
-    "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
-    "url": "https://www.wsj.com/tech/meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-dea99fdd?mod=rss_Technology",
-    "summary": "A state jury found the social-media giant liable for misleading the state’s consumers.",
-    "published": "2026-10-21T18:24:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
   },
   {
     "id": "dc7ad7b7b045e758cf",
@@ -42,14 +289,14 @@
     "id": "efbc1a6bdfb80200c2",
     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "HN points: 29 | comments: 12",
+    "summary": "HN points: 226 | comments: 132",
     "published": "2026-10-21T17:45:13Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 22
+    "rank": 10
   },
   {
     "id": "2219ba196265404e1e",
@@ -68,18 +315,18 @@
     "id": "5655e6b6c956262f62",
     "title": "EA is shutting down BioWare",
     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "summary": "HN points: 135 | comments: 62",
+    "summary": "HN points: 409 | comments: 251",
     "published": "2026-10-21T17:29:33Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 12
   },
   {
     "id": "04a51ea88409094be2",
-    "title": "Tesla-SpaceX: a huge corporate constellation with Musk at its centre",
+    "title": "What Elon Musk stands to gain from a Tesla-SpaceX merger",
     "url": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
     "summary": "A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today",
     "published": "2026-10-21T17:25:53Z",
@@ -89,6 +336,32 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "04444d3d88a361ebbc",
+    "title": "Patch the Planet — OpenAI",
+    "url": "https://patchtheplanet.org/",
+    "summary": "Working with frontier AI and security experts to help secure open source and make our digital infrastructure more secure",
+    "published": "2026-10-21T17:03:55Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
+    "id": "17f1a607431d82fdba",
+    "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens - GitHub Changelog",
+    "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+    "summary": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a rot",
+    "published": "2026-10-21T17:00:45Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 17
   },
   {
     "id": "b6b9f513b358387ead",
@@ -120,14 +393,14 @@
     "id": "40ff622cebf38d8d54",
     "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
     "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-    "summary": "HN points: 27 | comments: 11",
+    "summary": "HN points: 80 | comments: 21",
     "published": "2026-10-21T16:20:37Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 15
   },
   {
     "id": "e9e368bfdb9be13983",
@@ -146,40 +419,53 @@
     "id": "c374408a30c52fa602",
     "title": "The bridge to agent-scale Git infrastructure",
     "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
-    "summary": "HN points: 19 | comments: 2",
+    "summary": "HN points: 43 | comments: 11",
     "published": "2026-10-21T16:09:28Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 23
   },
   {
     "id": "2e4a994f7fc7e753c6",
-    "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+    "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
     "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise",
-    "summary": "HN points: 31 | comments: 14",
+    "summary": "HN points: 47 | comments: 22",
     "published": "2026-10-21T16:05:05Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 25
+  },
+  {
+    "id": "7d40d5b89f52baed6a",
+    "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480",
+    "summary": "プログラミング言語「PHP」開発プロジェクトは10月21日（協定世界時）、「緊急」レベルの脆弱性2件を修正したPHP 8.5.12／8.4.27／8.3.36／8.2.35を公開したと発表した。20日に予告していたセキュリティアップデートに関するもので、攻撃者が遠隔で任意のコードを実行できてしまう脆弱性などを修正する。「全てのPHPユー...",
+    "published": "2026-10-21T16:04:10Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 6
   },
   {
     "id": "7e1cf9e18dc3abe626",
     "title": "Today's PHP security release, and how we're strengthening security",
     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
-    "summary": "HN points: 302 | comments: 154",
+    "summary": "HN points: 540 | comments: 279",
     "published": "2026-10-21T15:48:56Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "4a0d11280dfe9115d4",
@@ -205,20 +491,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 19
   },
   {
     "id": "f5eab443e9e34d4c2b",
     "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
     "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "summary": "HN points: 102 | comments: 61",
+    "summary": "HN points: 150 | comments: 80",
     "published": "2026-10-21T15:20:04Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 16
   },
   {
     "id": "2aaf8acc360ecf3bd3",
@@ -231,7 +517,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 7
+  },
+  {
+    "id": "20555b0c53044716f6",
+    "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+    "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+    "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convict",
+    "published": "2026-10-21T15:02:28Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
   },
   {
     "id": "aef5b9c10f2a6a6ef2",
@@ -270,7 +569,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 10
+  },
+  {
+    "id": "42eb8ae0ed55614716",
+    "title": "プログラム言語PHPに重大欠陥 ウェブ7割で使用、攻撃の恐れ（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/58d44be22eb9b20ce344a8e50791b0276153e5e5",
+    "summary": "国家サイバー統括室がX（旧ツイッター）に投稿した「PHP」の脆弱性に関する注意喚起（KYODONEWS） 経済産業省が所管する独立行政法人の情報処理推進機構（IPA）は21日、ウェブページに使われているプログラミング言語「PHP」にシステムの重大な欠陥に当たる脆弱性が見つかったと発表した。同日深夜に公開された修正プロ...",
+    "published": "2026-10-21T14:25:05Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 15
   },
   {
     "id": "a2e364da40dcadc904",
@@ -283,46 +595,46 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 2
   },
   {
     "id": "63d4b503c315738776",
     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "summary": "HN points: 173 | comments: 102",
+    "summary": "HN points: 206 | comments: 133",
     "published": "2026-10-21T14:03:43Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 13
   },
   {
     "id": "0cd5c2945e2a7d6ba6",
     "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "summary": "HN points: 263 | comments: 29",
+    "summary": "HN points: 331 | comments: 38",
     "published": "2026-10-21T14:01:22Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "622ac279a54135e859",
     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
-    "summary": "HN points: 239 | comments: 92",
+    "summary": "HN points: 360 | comments: 118",
     "published": "2026-10-21T14:00:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 4
   },
   {
     "id": "3224b583e2fff7ffc0",
@@ -361,7 +673,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 21
   },
   {
     "id": "005c1ead4b67355ee1",
@@ -374,7 +686,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 28
   },
   {
     "id": "8f1135c5da19e5ecd9",
@@ -387,7 +699,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 23
   },
   {
     "id": "c5cbd4b355d587556b",
@@ -419,14 +731,27 @@
     "id": "0defae2984d61d2c73",
     "title": "PHP 8.2.35",
     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "summary": "HN points: 839 | comments: 471",
+    "summary": "HN points: 929 | comments: 520",
     "published": "2026-10-21T13:45:33Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 18
+  },
+  {
+    "id": "e825e3d3865d75d66e",
+    "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
+    "url": "https://togetter.com/li/2761220",
+    "summary": "防犯カメラの数、尋常じゃない...！ セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提...",
+    "published": "2026-10-21T13:45:32Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 12
   },
   {
     "id": "dc37845847dd452fe3",
@@ -439,7 +764,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 29
   },
   {
     "id": "528cf7fdd043a96b67",
@@ -458,14 +783,14 @@
     "id": "786872d0ea92eb68d6",
     "title": "Using thousands of AI agents to uncover new leads in biological data",
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "summary": "HN points: 91 | comments: 38",
+    "summary": "HN points: 118 | comments: 63",
     "published": "2026-10-21T13:37:00Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 19
   },
   {
     "id": "b8296edab8ebb6b0b1",
@@ -491,7 +816,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 24
   },
   {
     "id": "6baaa0ff9259c7db65",
@@ -556,7 +881,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 25
   },
   {
     "id": "1405f5f453530e30f7",
@@ -569,7 +894,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 3
   },
   {
     "id": "c013a558d0c31d0330",
@@ -582,7 +907,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 14
   },
   {
     "id": "440e6069c281e84017",
@@ -595,20 +920,33 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 26
   },
   {
     "id": "d3d0f76935ca29c3a4",
     "title": "OpenAI models are coming to Google Cloud",
     "url": "https://openai.com/index/openai-models-google-cloud",
-    "summary": "HN points: 122 | comments: 35",
+    "summary": "HN points: 189 | comments: 87",
     "published": "2026-10-21T12:53:11Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 17
+  },
+  {
+    "id": "7a4818963def90af08",
+    "title": "モーターたった1個で飛行も方向転換もできるドローンをエンジニアが自作",
+    "url": "https://gigazine.net/news/20261021-drone-with-one-motor",
+    "summary": "一般的なドローンは複数のモーターを使って飛行や方向転換を行いますが、ソフトウェアエンジニアのジョシュア・バード氏がモーター1個だけで飛行と方向転換ができるドローンを自作しました。3Dプリンターで製作した特殊なプロペラとモーターの回転を高速で調整する仕組みにより、寝室での飛行実験に成功したとのことです...",
+    "published": "2026-10-21T12:51:38Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "c1401af1cb2c397f0e",
@@ -621,7 +959,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 20
   },
   {
     "id": "a9c9f66944cf666d1a",
@@ -673,7 +1011,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 22
   },
   {
     "id": "b1bfa5cf52bac584a9",
@@ -712,7 +1050,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 3
   },
   {
     "id": "035585433c75eca066",
@@ -725,7 +1063,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 9
   },
   {
     "id": "d4da409963efe4207b",
@@ -738,7 +1076,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 18
   },
   {
     "id": "f9cc8d4341b1ee1ea6",
@@ -777,7 +1115,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 4
+  },
+  {
+    "id": "7ccbbb15f8e47a22e8",
+    "title": "「高市推し」のSNS重視層の勢いに変化が 政権発足1年 朝日世論：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBN1DK6VBNUZPS001M.html",
+    "summary": "政策などについて、SNSのX（旧ツイッター）での連投もいとわない高市早苗首相。これまでの首相とひと味違う情報発信のスタイルは、「高市推し」とも呼ばれるネット空間のターゲットゾーンを意識してのことでし…",
+    "published": "2026-10-21T10:18:57Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 2
   },
   {
     "id": "6ab21fdaeec52d00ec",
@@ -803,7 +1154,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 19
   },
   {
     "id": "18e3ec0ee4a6357512",
@@ -832,6 +1183,19 @@
     "rank": null
   },
   {
+    "id": "388ff4c5528e91695d",
+    "title": "対立候補の母親使って個人攻撃 米知事選、共和陣営広告 全米で最も醜悪な選挙戦",
+    "url": "https://www.sankei.com/article/20261021-KTUPPXUGFBO7FPAAIW45XMZHQM",
+    "summary": "米中間選挙に向けたキャンペーンで演説する共和党候補のラマスワミ氏。奥はトランプ大統領＝10月12日、ヤングスタウン（ロイター） 米中間選挙の中西部オハイオ州知事選で、共和党候補のビベック・ラマスワミ氏の陣営が、対立候補の民主党エイミー・アクトン氏の母親を選挙広告に起用し、個人攻撃をしていることが20日明...",
+    "published": "2026-10-21T09:55:35Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 1
+  },
+  {
     "id": "1bf2b8c682ea24bbbc",
     "title": "北朝鮮、新たな火力部隊が「射撃位置に就いた」 韓国に警告",
     "url": "https://www.afpbb.com/articles/-/3658750",
@@ -842,7 +1206,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 15
   },
   {
     "id": "3c74a62de6d755c698",
@@ -924,16 +1288,16 @@
   },
   {
     "id": "959a98dda0c3e702c7",
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds",
-    "summary": "HN points: 687 | comments: 323",
+    "summary": "HN points: 776 | comments: 384",
     "published": "2026-10-21T09:08:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "4626c41bfe71b62bc2",
@@ -998,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 4
   },
   {
     "id": "d3dbe1c99be5fea8a0",
@@ -1076,7 +1440,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 9
   },
   {
     "id": "38773257edeb289f2b",
@@ -1102,7 +1466,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 7
   },
   {
     "id": "e7755a81a9249f6bf2",
@@ -1115,7 +1479,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 17
   },
   {
     "id": "f4ff2b92fa131747e1",
@@ -1235,6 +1599,19 @@
     "rank": 20
   },
   {
+    "id": "950b002959cbb946ed",
+    "title": "バーミキュラの中華鍋登場 炒め/揚げ/蒸しができる - 家電 Watch",
+    "url": "https://kaden.watch.impress.co.jp/docs/news/2149892.html",
+    "summary": "",
+    "published": "2026-10-21T05:34:51Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 27
+  },
+  {
     "id": "50f4477202f31e248e",
     "title": "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材 - BBCニュース",
     "url": "https://www.bbc.com/japanese/articles/cjzxlpz2vpn6o",
@@ -1245,7 +1622,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 13
   },
   {
     "id": "ff76a909547668a60e",
@@ -1258,7 +1635,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 27
+    "rank": 30
   },
   {
     "id": "401eb226641363bca3",
@@ -1362,7 +1739,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 11
   },
   {
     "id": "94c60e7c0b47d9ab19",
@@ -1375,7 +1752,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 16
   },
   {
     "id": "8814ba1c1234714378",
@@ -1388,7 +1765,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 10
   },
   {
     "id": "4fd29686fd19577f5e",
@@ -1492,7 +1869,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "18ec284b472939e2ba",
@@ -1570,7 +1947,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 22
   },
   {
     "id": "72483b1dc8f714ad14",
@@ -1596,7 +1973,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 28
   },
   {
     "id": "da37c4f722bd57a743",
@@ -1609,7 +1986,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 8
   },
   {
     "id": "29995b4ef41112b253",
@@ -1687,7 +2064,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 20
   },
   {
     "id": "351d437f20b7cc140f",
@@ -1791,7 +2168,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 24
   },
   {
     "id": "6f9179bab3facfe4a1",
@@ -1869,7 +2246,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 30
+    "rank": 29
   },
   {
     "id": "1b4152b439748141ce",
@@ -1895,7 +2272,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 6
   },
   {
     "id": "4c6f1d92bf39af76ab",
@@ -1934,7 +2311,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 28
+    "rank": 30
   },
   {
     "id": "00749286b659860160",
@@ -2129,7 +2506,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 27
   },
   {
     "id": "7d8e727af0219202f4",
@@ -2244,19 +2621,6 @@
     "source": "WSJ · Technology",
     "source_type": "publisher",
     "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a34d9ce29e5f15676f",
-    "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
-    "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
-    "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
-    "published": "2026-10-20T20:57:44Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
     "language": "en",
     "category": "tech",
     "rank": null
@@ -2584,7 +2948,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 25
   },
   {
     "id": "4b96c0199e4fad22d7",
@@ -2636,7 +3000,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 21
   },
   {
     "id": "8ef3812304d22950f1",
@@ -2689,6 +3053,19 @@
     "language": "en",
     "category": "finance",
     "rank": null
+  },
+  {
+    "id": "100ba782cb6e4525a1",
+    "title": "A Place Among the Fiddlers",
+    "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music",
+    "summary": "HN points: 12 | comments: 0",
+    "published": "2026-10-20T14:08:33Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 22
   },
   {
     "id": "a7d726fc4db8ebef9f",
@@ -2805,7 +3182,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 23
   },
   {
     "id": "d3eb1d25e1125db723",
@@ -3221,7 +3598,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 8
   },
   {
     "id": "15fd22fb366d7d1f32",
@@ -3331,14 +3708,14 @@
     "id": "228664b7a68827f2ef",
     "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
     "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "summary": "HN points: 74 | comments: 7",
+    "summary": "HN points: 126 | comments: 23",
     "published": "2026-10-20T06:20:54Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 14
   },
   {
     "id": "290493ae08b1297373",
@@ -3456,6 +3833,19 @@
     "language": "ja",
     "category": "finance",
     "rank": 18
+  },
+  {
+    "id": "6df9bbf69515c8dddc",
+    "title": "No More Icons in Every Menu by Default",
+    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu",
+    "summary": "HN points: 42 | comments: 23",
+    "published": "2026-10-20T04:27:08Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
   },
   {
     "id": "9c9b7c5a362fba7edc",
@@ -3624,7 +4014,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 12
   },
   {
     "id": "29737a5583a46bb067",
@@ -3741,7 +4131,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 14
   },
   {
     "id": "9ab27e04e8d5b5ee1b",
@@ -3755,6 +4145,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "de42cc3e5a819fbbf9",
+    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it",
+    "summary": "HN points: 93 | comments: 56",
+    "published": "2026-10-20T00:14:03Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
   },
   {
     "id": "9164ba2dae7c97a068",
@@ -3903,14 +4306,14 @@
     "id": "453f4b730443f32143",
     "title": "Drupal is now light-years ahead of its reputation",
     "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-    "summary": "HN points: 74 | comments: 88",
+    "summary": "HN points: 102 | comments: 107",
     "published": "2026-10-19T21:38:02Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 21
   },
   {
     "id": "b98ac5ca217dd0dcbb",
@@ -4833,45 +5236,6 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
-  },
-  {
-    "id": "e88a218bd3c4bbb03f",
-    "title": "Apple Joins Nvidia in the $5 Trillion Valuation Club",
-    "url": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?mod=rss_Technology",
-    "summary": "To power the iPhone maker’s next phase, Chief Executive John Ternus needs to raise its AI game.",
-    "published": "2026-10-14T20:55:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "3f0403276c7a6827d8",
-    "title": "Opinion | America Needs More Capital",
-    "url": "https://www.wsj.com/opinion/america-needs-more-capital-43428ee0?mod=rss_Technology",
-    "summary": "Economic growth will solve the debt problem and keep us ahead in AI. That will require new investors.",
-    "published": "2026-10-14T20:31:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "c46781c0963cb7b892",
-    "title": "OpenAI’s London staff receive average of £2.3m per person annually",
-    "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
-    "summary": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-maker poured Premier Lea",
-    "published": "2026-10-14T19:15:14Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
+    "rank": 18
   }
 ]
