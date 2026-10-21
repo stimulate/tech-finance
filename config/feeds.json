@@ -1,0 +1,11 @@
+[
+  {"name":"The Guardian · Technology","url":"https://www.theguardian.com/technology/rss","lang":"en","category":"tech","type":"publisher","publisher":"The Guardian","ranked":false},
+  {"name":"The Guardian · Business","url":"https://www.theguardian.com/business/rss","lang":"en","category":"finance","type":"publisher","publisher":"The Guardian","ranked":false},
+  {"name":"36氪 · 综合","url":"https://36kr.com/feed","lang":"zh","category":"tech","type":"publisher","publisher":"36氪","ranked":false},
+  {"name":"36氪 · 快讯","url":"https://36kr.com/feed-newsflash","lang":"zh","category":"finance","type":"publisher","publisher":"36氪","ranked":false},
+  {"name":"Zenn · Trending","url":"https://zenn.dev/feed","lang":"ja","category":"tech","type":"community","publisher":"Zenn","ranked":true},
+  {"name":"はてな · IT Hotentry","url":"https://b.hatena.ne.jp/hotentry/it.rss","lang":"ja","category":"tech","type":"aggregator","publisher":"はてな","ranked":true},
+  {"name":"はてな · Economics","url":"https://b.hatena.ne.jp/hotentry/economics.rss","lang":"ja","category":"finance","type":"aggregator","publisher":"はてな","ranked":true},
+  {"name":"FT · Technology","url":"https://www.ft.com/technology?format=rss","lang":"en","category":"tech","type":"publisher","publisher":"Financial Times","ranked":false},
+  {"name":"WSJ · Technology","url":"https://feeds.content.dowjones.io/public/rss/RSSWSJD","lang":"en","category":"tech","type":"publisher","publisher":"Wall Street Journal","ranked":false}
+]

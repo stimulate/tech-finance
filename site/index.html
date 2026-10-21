@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Multilingual tech and finance news radar">
+  <title>Tech & Finance Radar</title>
+  <style>
+    :root {color-scheme:light dark; --bg:#f6f8fc;--fg:#17233a;--muted:#64748b;--card:#fff;--line:#dfe5f0;--accent:#285ce6}
+    @media (prefers-color-scheme:dark){:root{--bg:#101621;--fg:#ecf3ff;--muted:#a4b1c5;--card:#1b2533;--line:#324155;--accent:#80a8ff}}
+    *{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,"Noto Sans CJK JP","Noto Sans CJK SC",sans-serif;margin:0;background:var(--bg);color:var(--fg)}
+    .wrap{max-width:1060px;margin:auto;padding:26px 18px 70px}.head{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+    h1{font-size:29px;margin:0}h2{margin:0;font-size:19px;line-height:1.5}.muted{color:var(--muted)}.meta{font-size:13px;color:var(--muted)}
+    .eyebrow{letter-spacing:1.5px;text-transform:uppercase;font-size:12px;font-weight:bold;color:var(--accent)}
+    .stats{display:flex;gap:14px;flex-wrap:wrap;margin:18px 0}.stat{padding:12px 16px;background:var(--card);border:1px solid var(--line);border-radius:12px;min-width:130px}
+    .stat strong{display:block;font-size:21px}.toolbar{display:flex;gap:9px;flex-wrap:wrap;margin:22px 0}.toolbar select,.toolbar input,.toolbar button{background:var(--card);border:1px solid var(--line);border-radius:9px;padding:11px;color:var(--fg);font:inherit}.toolbar input{flex:1;min-width:190px}
+    article{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:12px;padding:19px}.titleRow{display:flex;gap:12px}.rank{font-size:19px;font-weight:bold;color:var(--muted);min-width:25px}.score{margin-left:auto;text-align:right;font-size:24px;font-weight:bold;color:var(--accent);white-space:nowrap}.score small{display:block;font-size:11px;color:var(--muted);font-weight:normal}
+    .pill{display:inline-block;border:1px solid var(--line);border-radius:50px;padding:2px 8px;margin:4px 6px 5px 0;font-size:12px;color:var(--muted)}
+    details{margin-top:11px;border-top:1px solid var(--line);padding-top:10px}summary{cursor:pointer;color:var(--accent);font-size:13px;font-weight:600}
+    ul{padding-left:22px}li{padding:7px 0;border-bottom:1px dotted var(--line)}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.summary{font-size:12px;color:var(--muted);margin-top:4px}
+    .empty{padding:38px 20px;text-align:center;background:var(--card);border-radius:12px}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header class="head">
+      <div><div class="eyebrow">Tech & Finance Intelligence</div><h1>Tech & Finance Radar</h1><p class="muted">中 · 英 · 日 AI 新闻事件聚合 · 热度排名</p></div>
+      <div class="meta" id="updated">正在读取新闻数据…</div>
+    </header>
+    <section class="stats"><div class="stat"><strong id="eventNum">—</strong><span class="meta">新闻事件</span></div><div class="stat"><strong id="articleNum">—</strong><span class="meta">原始文章</span></div><div class="stat"><strong id="sourceNum">—</strong><span class="meta">成功采集的来源</span></div></section>
+    <section class="toolbar" aria-label="筛选与排序">
+      <select id="category" aria-label="类别"><option value="all">全部分类</option><option value="tech">科技 / IT</option><option value="finance">金融 / 财经</option></select>
+      <select id="language" aria-label="语言"><option value="all">全部语言</option><option value="zh">中文</option><option value="en">英文</option><option value="ja">日文</option></select>
+      <select id="sort" aria-label="排序"><option value="score">综合热度</option><option value="new">最新发布</option><option value="sources">来源最多</option></select>
+      <input id="search" type="search" placeholder="搜索公司、产品、关键词…" aria-label="新闻搜索">
+      <button id="refresh" type="button">刷新页面</button>
+    </section>
+    <p class="meta" id="status">数据来自公开 RSS / API；点击事件可以展开所有来源。部分文章可能需要订阅。</p>
+    <div id="events" aria-live="polite"></div>
+  </main>
+<script>
+"use strict";
+const state={events:[]};
+const $=id=>document.getElementById(id);
+const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"})[c]);
+const safeUrl=u=>{try{const x=new URL(u);return ["https:","http:"].includes(x.protocol)?x.href:"#"}catch{return "#"}};
+const localDate=s=>{const d=new Date(s);return Number.isNaN(+d)?"时间未知":d.toLocaleString("zh-CN",{timeZone:"Asia/Tokyo",hour12:false})+" JST"};
+function paint(){
+  const cat=$("category").value,lang=$("language").value,sort=$("sort").value,q=$("search").value.trim().toLowerCase();
+  let arr=state.events.filter(e=>(cat==="all"||e.category===cat)&&(lang==="all"||e.languages.includes(lang))&&(!q||[e.title,...e.articles.map(a=>a.title)].join(" ").toLowerCase().includes(q)));
+  arr.sort((a,b)=>sort==="score"?b.score-a.score:sort==="sources"?b.media_count-a.media_count:new Date(b.published)-new Date(a.published));
+  $("events").innerHTML=arr.length?arr.map((e,i)=>{
+    const sources=e.articles.map(a=>`<li><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a><div class="meta">${esc(a.source)} · ${esc(a.language.toUpperCase())} · ${esc(localDate(a.published))}${a.rank?` · 榜单 #${esc(a.rank)}`:""}</div>${a.summary?`<div class="summary">${esc(a.summary)}</div>`:""}</li>`).join("");
+    return `<article><div class="titleRow"><div class="rank">${i+1}.</div><div style="flex:1"><h2>${esc(e.title)}</h2><div><span class="pill">${e.category==="tech"?"科技 / IT":"金融 / 财经"}</span><span class="pill">${esc(e.languages.join(" / ").toUpperCase())}</span><span class="pill">${e.media_count} 个独立出版方</span><span class="pill">${e.article_count} 条记录</span></div><div class="meta">最近发布：${esc(localDate(e.published))}</div></div><div class="score">${esc(e.score)}<small>热度</small></div></div><details><summary>展开原文链接、摘要与排名依据 (${e.article_count})</summary><div class="meta">评分因子：榜单 ${e.components.rank} · 覆盖 ${e.components.coverage} · 新鲜度 ${e.components.freshness} · 兴趣 ${e.components.relevance}</div><ul>${sources}</ul></details></article>`;
+  }).join(""):`<div class="empty">没有匹配的新闻，请调整筛选条件。</div>`;
+}
+async function load(){
+  try{
+    const r=await fetch("./data/events.json?v="+Date.now(),{cache:"no-store"});
+    if(!r.ok)throw Error("HTTP "+r.status);
+    const data=await r.json();state.events=data.events||[];
+    $("updated").textContent=data.updated_at?"最后更新："+localDate(data.updated_at):"等待首次自动采集";
+    $("eventNum").textContent=state.events.length;
+    $("articleNum").textContent=data.article_count||0;
+    $("sourceNum").textContent=data.feeds_ok||0;
+    if((data.feeds_failed||[]).length)$("status").textContent="部分新闻源暂时不可用："+data.feeds_failed.join("、")+"。现有内容正常显示。";
+    paint();
+  }catch(e){$("status").textContent="无法读取新闻数据："+e.message;$("events").innerHTML="<div class='empty'>请检查 Actions 是否成功部署以及数据路径。</div>";}
+}
+["category","language","sort","search"].forEach(id=>$(id).addEventListener(id==="search"?"input":"change",paint));
+$("refresh").addEventListener("click",()=>location.reload());
+load();
+</script>
+</body>
+</html>
