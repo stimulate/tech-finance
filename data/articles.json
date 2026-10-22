@@ -1,16 +1,211 @@
 [
   {
-    "id": "a476c59d50c23695ff",
-    "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
-    "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-    "summary": "Group to create new class of non-voting shares to allow stock sales without diluting the founder’s control",
-    "published": "2026-10-21T21:43:52Z",
+    "id": "91216720fcac2946b2",
+    "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+    "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=rss_Technology",
+    "summary": "The company, which reported record revenue of $64.6 billion for the third quarter, said the new stock won’t affect Mark Zuckerberg’s voting control.",
+    "published": "2026-10-22T00:32:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "ce8f1b8e4b081467bb",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "summary": "HN points: 62 | comments: 17",
+    "published": "2026-10-21T23:51:37Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "39d9eb16724ce55db2",
+    "title": "PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486",
+    "summary": "米OpenAIは10月21日（現地時間）、PHPの重大な脆弱性2件のうち1件について、米セキュリティ企業のCalifが同社の「GPT-5.6 Sol」を使って発見したと発表した。 同社は「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。 「GPT-5.6 Sol」「Gemi...",
+    "published": "2026-10-21T23:49:31Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 20
+  },
+  {
+    "id": "3ce8ed2a6522ca3f21",
+    "title": "How Does the Ukrainian Military Use Starlink?",
+    "url": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_Technology",
+    "summary": "Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features",
+    "published": "2026-10-21T23:49:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "095514b28c05a85f4c",
+    "title": "労働時間を減らすことで会社と労働者に何が起こるのか？──『週休3日の経済学: 人生を変えるイノベーション』 - 基本読書",
+    "url": "https://huyukiitoichi.hatenadiary.jp/entry/2026/10/22/080000",
+    "summary": "週休３日の経済学: 人生を変えるイノベーション 作者:ジュリエット・Ｂ・ショア東洋経済新報社Amazonこの『週休3日の経済学』は、『働きすぎのアメリカ人』などの著作がある労働問題の専門家・経済学者である著者による、週休3日制度について書かれた一冊だ。週休3日といっても複数あるが(1日10時間で4日働くとか)、ここ...",
+    "published": "2026-10-21T23:47:09Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 5
+  },
+  {
+    "id": "768aae5bf654deeea8",
+    "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
+    "summary": "",
+    "published": "2026-10-21T23:31:06Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 10
+  },
+  {
+    "id": "de5e48ad4338cf1950",
+    "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+    "summary": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
+    "published": "2026-10-21T23:30:29Z",
     "source": "FT · Technology",
     "source_type": "publisher",
     "publisher": "Financial Times",
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "0f79a4b5342f4596f4",
+    "title": "Κ = 0.003 for integer multiplication crossed",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+    "summary": "HN points: 11 | comments: 3",
+    "published": "2026-10-21T23:22:21Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 23
+  },
+  {
+    "id": "1fa49eff9c1aaf85dc",
+    "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+    "summary": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+    "published": "2026-10-21T23:20:30Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "fcbaf85f2621ca076d",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit",
+    "summary": "HN points: 77 | comments: 24",
+    "published": "2026-10-21T23:13:27Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "a476c59d50c23695ff",
+    "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+    "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+    "summary": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control",
+    "published": "2026-10-21T22:58:30Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f92fc88ad34750f314",
+    "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN21C340R21C26A0000000",
+    "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】世界のウェブサイトの7割に使われている開発言語「PHP」に深刻な脆弱性が見つかり、各国が対応に追われている。サイトを一時停止する企業もある。人工知能（AI）によるサイバー攻撃の脅威が高まる中、米当局はソフト更新を急ぐよう呼びかけた。PHPはウェブサイトを動か...",
+    "published": "2026-10-21T22:44:13Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 28
+  },
+  {
+    "id": "cda3ecf647577c83ec",
+    "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483",
+    "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
+    "published": "2026-10-21T22:16:49Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "1999df7f78a79951b0",
+    "title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
+    "url": "https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life",
+    "summary": "2010年にメキシコ湾で起きたディープウォーター・ホライズン原油流出事故から16年が経過した2026年10月19日、アメリカのノバ・サウスイースタン大学などの研究チームが深海生物の個体数に関する研究結果を発表しました。2011～2023年の調査データを分析したところ、調査が終了した2023年になっても個体数は2011年初めの...",
+    "published": "2026-10-21T22:09:53Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 7
+  },
+  {
+    "id": "c5cbd4b355d587556b",
+    "title": "AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
+    "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?mod=rss_Technology",
+    "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
+    "published": "2026-10-21T22:05:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f1d21c9fd9cdd487cb",
+    "title": "Railway Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "summary": "HN points: 271 | comments: 124",
+    "published": "2026-10-21T21:58:03Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
   },
   {
     "id": "687faa021ce945cbe7",
@@ -24,6 +219,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "28d389ee749930b9a7",
+    "title": "本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2150099.html",
+    "summary": "",
+    "published": "2026-10-21T21:42:08Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
   },
   {
     "id": "fa40af9b7c92c32726",
@@ -65,19 +273,6 @@
     "rank": null
   },
   {
-    "id": "91216720fcac2946b2",
-    "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
-    "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=rss_Technology",
-    "summary": "The company, which reported record revenue of $64.6 billion for the third quarter, said the new stock won’t affect Mark Zuckerberg’s voting control.",
-    "published": "2026-10-21T21:33:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
     "id": "a34d9ce29e5f15676f",
     "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
     "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
@@ -92,35 +287,35 @@
   },
   {
     "id": "22208ac79b5b70c0a0",
-    "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
-    "url": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
-    "summary": "HN points: 40 | comments: 7",
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws",
+    "summary": "HN points: 103 | comments: 26",
     "published": "2026-10-21T21:12:59Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 25
   },
   {
-    "id": "de5e48ad4338cf1950",
-    "title": "Tesla’s profits slip on weaker vehicle sales",
-    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-    "summary": "Musk’s carmaker reports flat revenue as it considers merger with SpaceX",
-    "published": "2026-10-21T20:44:43Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
+    "id": "f44f8e4e9150af1f7a",
+    "title": "eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖",
+    "url": "https://gigazine.net/news/20261022-emudhra-problem",
+    "summary": "2026年10月20日、eMudhraの中間認証局(CA)証明書8件の秘密鍵が侵害されたことが明らかになりました。侵害された証明書はMozilla・Microsoft・Apple・Chromeなどの主要なルートプログラムおよび多くの下流トラストストアによって信頼されているルートに連鎖していたため、攻撃者は侵害された中間CAの秘密鍵を悪用して様々...",
+    "published": "2026-10-21T21:01:52Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
     "category": "tech",
-    "rank": null
+    "rank": 23
   },
   {
     "id": "25303ca3006e85430b",
     "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
     "url": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
-    "summary": "Detroit automaker’s chief product officer Sterling Anderson plans to put fully self-driving private autos on the road by 2028",
+    "summary": "Detroit carmaker’s chief product officer Sterling Anderson plans to put fully self-driving private vehicles on the road by 2028",
     "published": "2026-10-21T20:10:13Z",
     "source": "FT · Technology",
     "source_type": "publisher",
@@ -128,6 +323,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "72075d0b0f502c6af0",
+    "title": "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演",
+    "url": "https://www.yomiuri.co.jp/national/20261021-GYT1T00443",
+    "summary": "【読売新聞】 企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、 脆弱 （ ぜいじゃく ） 性の診断から個人情報の収",
+    "published": "2026-10-21T20:05:05Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 21
   },
   {
     "id": "e23215a792037997dc",
@@ -141,6 +349,45 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "0aa01caa37e4c32457",
+    "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+    "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+    "summary": "PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されま...",
+    "published": "2026-10-21T20:01:05Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 19
+  },
+  {
+    "id": "1c6217a33b5bb65957",
+    "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
+    "url": "https://togetter.com/li/2761269",
+    "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php...",
+    "published": "2026-10-21T19:46:46Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "16e822fa01e07a5238",
+    "title": "Introducing Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "summary": "Today, we’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent. It comes to you with what needs your attention, completes tasks you ask of it, keeps working even when you step away, and checks with",
+    "published": "2026-10-21T19:37:25Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 18
   },
   {
     "id": "071596a8b59893b5ff",
@@ -169,43 +416,56 @@
     "rank": null
   },
   {
+    "id": "b9e5da46cb7f085132",
+    "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」",
+    "url": "https://togetter.com/li/2761260",
+    "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php...",
+    "published": "2026-10-21T19:27:17Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 1
+  },
+  {
     "id": "168348610cb2978482",
     "title": "Claude Duet",
     "url": "https://claude.com/product/claude-duet",
-    "summary": "HN points: 215 | comments: 185",
+    "summary": "HN points: 300 | comments: 256",
     "published": "2026-10-21T19:14:01Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 16
   },
   {
     "id": "6dd75700deee996d0c",
     "title": "Google's Rust Style Guide",
     "url": "https://google.github.io/styleguide/rustguide.html",
-    "summary": "HN points: 111 | comments: 80",
+    "summary": "HN points: 186 | comments: 111",
     "published": "2026-10-21T19:11:57Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 6
   },
   {
     "id": "4c50ade16846b2536b",
     "title": "GitLab Critical Patch Release",
     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released",
-    "summary": "HN points: 148 | comments: 31",
+    "summary": "HN points: 235 | comments: 58",
     "published": "2026-10-21T19:01:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 5
   },
   {
     "id": "549d1dc5d4a5e4789d",
@@ -226,19 +486,6 @@
     "url": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
     "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
     "published": "2026-10-21T18:46:59Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "1fa49eff9c1aaf85dc",
-    "title": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
-    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-    "summary": "Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world",
-    "published": "2026-10-21T18:46:43Z",
     "source": "FT · Technology",
     "source_type": "publisher",
     "publisher": "Financial Times",
@@ -273,6 +520,19 @@
     "rank": 16
   },
   {
+    "id": "6142a4df2e04d1d392",
+    "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
+    "url": "https://www.sem-r.com/entry/20261022/1792605105",
+    "summary": "サイトメンテナンス時の正しいHTTP応答 緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数...",
+    "published": "2026-10-21T18:03:07Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 5
+  },
+  {
     "id": "dc7ad7b7b045e758cf",
     "title": "The compiler was supposed to end programming too",
     "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming",
@@ -289,14 +549,14 @@
     "id": "efbc1a6bdfb80200c2",
     "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "HN points: 226 | comments: 132",
+    "summary": "HN points: 337 | comments: 206",
     "published": "2026-10-21T17:45:13Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 11
   },
   {
     "id": "2219ba196265404e1e",
@@ -312,17 +572,30 @@
     "rank": 25
   },
   {
+    "id": "8c1d227afb265dc020",
+    "title": "ゼレンスキー氏の支持率が急伸 トランプ氏の圧力にウクライナ国民反発 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGR21BZO0R21C26A0000000",
+    "summary": "【ウィーン=金子夏樹】トランプ米大統領がウクライナに対する圧力を強めるなか、同国のゼレンスキー大統領の支持率が急伸した。トランプ氏はロシア国内の製油所に対する攻撃停止を要求し、指導者の交代にまで言及した。圧力に対するウクライナ国民の反発が反映された。キーウ国際社会学研究所が10月8〜16日に実施した世...",
+    "published": "2026-10-21T17:31:39Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 2
+  },
+  {
     "id": "5655e6b6c956262f62",
     "title": "EA is shutting down BioWare",
     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "summary": "HN points: 409 | comments: 251",
+    "summary": "HN points: 501 | comments: 299",
     "published": "2026-10-21T17:29:33Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 19
   },
   {
     "id": "04a51ea88409094be2",
@@ -348,7 +621,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 17
   },
   {
     "id": "17f1a607431d82fdba",
@@ -361,7 +634,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 25
   },
   {
     "id": "b6b9f513b358387ead",
@@ -452,20 +725,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 9
   },
   {
     "id": "7e1cf9e18dc3abe626",
     "title": "Today's PHP security release, and how we're strengthening security",
     "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
-    "summary": "HN points: 540 | comments: 279",
+    "summary": "HN points: 665 | comments: 330",
     "published": "2026-10-21T15:48:56Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "4a0d11280dfe9115d4",
@@ -491,20 +764,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 26
   },
   {
     "id": "f5eab443e9e34d4c2b",
     "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
     "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "summary": "HN points: 150 | comments: 80",
+    "summary": "HN points: 166 | comments: 80",
     "published": "2026-10-21T15:20:04Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 20
   },
   {
     "id": "2aaf8acc360ecf3bd3",
@@ -517,7 +790,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 13
+  },
+  {
+    "id": "2ea7b149eebffea293",
+    "title": "楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ 21日夜～",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2150133.html",
+    "summary": "",
+    "published": "2026-10-21T15:11:37Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "20555b0c53044716f6",
@@ -569,7 +855,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 15
+  },
+  {
+    "id": "e2fb2de3741e7b92d5",
+    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+    "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+    "summary": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr...",
+    "published": "2026-10-21T14:50:46Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
   },
   {
     "id": "42eb8ae0ed55614716",
@@ -595,13 +894,13 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 6
   },
   {
     "id": "63d4b503c315738776",
     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "summary": "HN points: 206 | comments: 133",
+    "summary": "HN points: 228 | comments: 155",
     "published": "2026-10-21T14:03:43Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -614,27 +913,27 @@
     "id": "0cd5c2945e2a7d6ba6",
     "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "summary": "HN points: 331 | comments: 38",
+    "summary": "HN points: 357 | comments: 43",
     "published": "2026-10-21T14:01:22Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 14
   },
   {
     "id": "622ac279a54135e859",
     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
-    "summary": "HN points: 360 | comments: 118",
+    "summary": "HN points: 423 | comments: 131",
     "published": "2026-10-21T14:00:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 7
   },
   {
     "id": "3224b583e2fff7ffc0",
@@ -702,19 +1001,6 @@
     "rank": 23
   },
   {
-    "id": "c5cbd4b355d587556b",
-    "title": "AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
-    "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?mod=rss_Technology",
-    "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
-    "published": "2026-10-21T13:51:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
     "id": "2fd66f05e5ede2b279",
     "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
     "url": "https://www.php.net/index.php",
@@ -731,14 +1017,14 @@
     "id": "0defae2984d61d2c73",
     "title": "PHP 8.2.35",
     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "summary": "HN points: 929 | comments: 520",
+    "summary": "HN points: 963 | comments: 532",
     "published": "2026-10-21T13:45:33Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 24
   },
   {
     "id": "e825e3d3865d75d66e",
@@ -751,7 +1037,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 11
   },
   {
     "id": "dc37845847dd452fe3",
@@ -829,7 +1115,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 3
   },
   {
     "id": "4204d2c808924182a1",
@@ -894,7 +1180,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 12
   },
   {
     "id": "c013a558d0c31d0330",
@@ -907,7 +1193,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 22
+  },
+  {
+    "id": "91d6ce86b1932470ab",
+    "title": "Kiro Crewで「みのるん式」仕事術やってみた",
+    "url": "https://speakerdeck.com/minorun365/kiro-crew-de-minoru-nshiki-shigotojutsu-ya-te-mita",
+    "summary": "JAWS-UG東京 2026秋 〜AWSライトニングトークNight〜 - connpass https://jawsug.connpass.com/event/407526/",
+    "published": "2026-10-21T12:54:22Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 27
   },
   {
     "id": "440e6069c281e84017",
@@ -926,14 +1225,14 @@
     "id": "d3d0f76935ca29c3a4",
     "title": "OpenAI models are coming to Google Cloud",
     "url": "https://openai.com/index/openai-models-google-cloud",
-    "summary": "HN points: 189 | comments: 87",
+    "summary": "HN points: 227 | comments: 98",
     "published": "2026-10-21T12:53:11Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 15
   },
   {
     "id": "7a4818963def90af08",
@@ -946,7 +1245,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 30
   },
   {
     "id": "c1401af1cb2c397f0e",
@@ -986,6 +1285,19 @@
     "language": "en",
     "category": "tech",
     "rank": 11
+  },
+  {
+    "id": "39c7ba365507eb7319",
+    "title": "デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475",
+    "summary": "デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこの...",
+    "published": "2026-10-21T12:22:50Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 2
   },
   {
     "id": "42bb163e3a93eddeea",
@@ -1050,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 6
   },
   {
     "id": "035585433c75eca066",
@@ -1076,7 +1388,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 19
   },
   {
     "id": "f9cc8d4341b1ee1ea6",
@@ -1115,7 +1427,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 8
   },
   {
     "id": "7ccbbb15f8e47a22e8",
@@ -1128,7 +1440,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 4
   },
   {
     "id": "6ab21fdaeec52d00ec",
@@ -1154,7 +1466,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 20
   },
   {
     "id": "18e3ec0ee4a6357512",
@@ -1206,7 +1518,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 16
   },
   {
     "id": "3c74a62de6d755c698",
@@ -1290,14 +1602,14 @@
     "id": "959a98dda0c3e702c7",
     "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds",
-    "summary": "HN points: 776 | comments: 384",
+    "summary": "HN points: 835 | comments: 400",
     "published": "2026-10-21T09:08:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 8
   },
   {
     "id": "4626c41bfe71b62bc2",
@@ -1336,7 +1648,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "f0608d56ba23e2acdf",
@@ -1404,6 +1716,19 @@
     "rank": 27
   },
   {
+    "id": "9696b0c2123f80dc3e",
+    "title": "当社への不正アクセスに関するお知らせとお詫び｜デジタルアーツ株式会社",
+    "url": "https://www.daj.jp/webtopics/1354",
+    "summary": "当社は、昨今のサイバー攻撃の増加を受け、2026年10月9日、AI を活用して当社のシステム・製品および社内環境の総点検を実施いたしました。その結果、従来の点検では発見に至らなかった、当社クラウドサービスの運用環境および社内環境に対する不正アクセスの痕跡を発見いたしました。発見した痕跡には、2025年7月頃にさ...",
+    "published": "2026-10-21T08:02:18Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 24
+  },
+  {
     "id": "9ada5234687e450073",
     "title": "Don’t underestimate Netflix’s power to flip the script",
     "url": "https://www.ft.com/content/67a2f314-730b-477b-b52f-f7495394ceec?syn-25a6b1a6=1",
@@ -1440,7 +1765,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 18
   },
   {
     "id": "38773257edeb289f2b",
@@ -1466,7 +1791,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 10
   },
   {
     "id": "e7755a81a9249f6bf2",
@@ -1479,7 +1804,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 25
   },
   {
     "id": "f4ff2b92fa131747e1",
@@ -1511,14 +1836,14 @@
     "id": "5887cd221ffe77fed9",
     "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
     "url": "https://alterauth.com/",
-    "summary": "HN points: 18 | comments: 16",
+    "summary": "HN points: 52 | comments: 20",
     "published": "2026-10-21T06:42:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 22
   },
   {
     "id": "91f846b3a9d90cbd28",
@@ -1622,7 +1947,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 21
   },
   {
     "id": "ff76a909547668a60e",
@@ -1739,7 +2064,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 29
   },
   {
     "id": "94c60e7c0b47d9ab19",
@@ -1752,7 +2077,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 17
   },
   {
     "id": "8814ba1c1234714378",
@@ -1765,7 +2090,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 15
   },
   {
     "id": "4fd29686fd19577f5e",
@@ -1869,7 +2194,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 28
   },
   {
     "id": "18ec284b472939e2ba",
@@ -1947,7 +2272,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 23
   },
   {
     "id": "72483b1dc8f714ad14",
@@ -1973,7 +2298,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 28
+    "rank": 27
   },
   {
     "id": "da37c4f722bd57a743",
@@ -2064,7 +2389,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 22
   },
   {
     "id": "351d437f20b7cc140f",
@@ -2246,7 +2571,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 29
+    "rank": 30
   },
   {
     "id": "1b4152b439748141ce",
@@ -2259,7 +2584,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 12
   },
   {
     "id": "463dc0debd5f591f1e",
@@ -2272,7 +2597,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 11
   },
   {
     "id": "4c6f1d92bf39af76ab",
@@ -2948,7 +3273,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "4b96c0199e4fad22d7",
@@ -3000,7 +3325,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 29
   },
   {
     "id": "8ef3812304d22950f1",
@@ -3598,7 +3923,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 9
   },
   {
     "id": "15fd22fb366d7d1f32",
@@ -3708,14 +4033,14 @@
     "id": "228664b7a68827f2ef",
     "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
     "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "summary": "HN points: 126 | comments: 23",
+    "summary": "HN points: 147 | comments: 25",
     "published": "2026-10-20T06:20:54Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 14
+    "rank": 12
   },
   {
     "id": "290493ae08b1297373",
@@ -3838,14 +4163,14 @@
     "id": "6df9bbf69515c8dddc",
     "title": "No More Icons in Every Menu by Default",
     "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu",
-    "summary": "HN points: 42 | comments: 23",
+    "summary": "HN points: 150 | comments: 109",
     "published": "2026-10-20T04:27:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 9
   },
   {
     "id": "9c9b7c5a362fba7edc",
@@ -4014,7 +4339,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 14
   },
   {
     "id": "29737a5583a46bb067",
@@ -4131,7 +4456,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 13
   },
   {
     "id": "9ab27e04e8d5b5ee1b",
@@ -4150,14 +4475,14 @@
     "id": "de42cc3e5a819fbbf9",
     "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
     "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it",
-    "summary": "HN points: 93 | comments: 56",
+    "summary": "HN points: 126 | comments: 90",
     "published": "2026-10-20T00:14:03Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 10
   },
   {
     "id": "9164ba2dae7c97a068",
@@ -4420,6 +4745,19 @@
     "rank": 21
   },
   {
+    "id": "1bda1f2660e5c4ae92",
+    "title": "Chain of Thought for Humans",
+    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
+    "summary": "HN points: 9 | comments: 0",
+    "published": "2026-10-19T16:06:22Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 18
+  },
+  {
     "id": "9a022550457b1bf723",
     "title": "Roche Partners With China’s Hansoh in Deal That Could Top $15 Billion",
     "url": "https://www.wsj.com/health/pharma/roche-partners-with-chinas-hansoh-in-deal-that-could-top-15-billion-a6681938?mod=rss_Technology",
@@ -4446,6 +4784,19 @@
     "rank": null
   },
   {
+    "id": "9c89f8125be9a361ba",
+    "title": "Code is clay now",
+    "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "summary": "HN points: 70 | comments: 38",
+    "published": "2026-10-19T15:19:45Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 17
+  },
+  {
     "id": "661ee69dec196f1347",
     "title": "Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話",
     "url": "https://zenn.dev/masaru21/articles/2100616bb5110d",
@@ -4470,6 +4821,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "174338902436805bbd",
+    "title": "The Rise and Fall of the Plasma Screen",
+    "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+    "summary": "HN points: 22 | comments: 14",
+    "published": "2026-10-19T14:20:04Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
   },
   {
     "id": "28d7e15af3c46d65d6",
@@ -5224,18 +5588,5 @@
     "language": "en",
     "category": "tech",
     "rank": null
-  },
-  {
-    "id": "19525637b653c1e56d",
-    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-    "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-    "summary": "Commercial support for versions past the Maintenance LTS phase is available through our OpenJS Ecosystem Sustainability Program partners Summary The Node.js project will release new versions of the 26.x, 24.x, 22.x releases lines on or shor",
-    "published": "2026-10-14T23:31:16Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 18
   }
 ]
