@@ -1,9 +1,308 @@
 [
   {
+    "id": "4ef108ed67f6089de3",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "summary": "HN points: 24 | comments: 4",
+    "published": "2026-10-22T18:44:36Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 18
+  },
+  {
+    "id": "30c88773d523c9d03f",
+    "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+    "url": "https://3d.camilleworld.com/play",
+    "summary": "HN points: 4 | comments: 1",
+    "published": "2026-10-22T18:39:39Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 24
+  },
+  {
+    "id": "e8a6e9d01e18c47647",
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "summary": "HN points: 22 | comments: 4",
+    "published": "2026-10-22T18:32:57Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "79eb4e8e0ec51695b9",
+    "title": "Award-Winning AI Literature",
+    "url": "https://jamesyu.org/award-winning-ai-literature",
+    "summary": "HN points: 21 | comments: 4",
+    "published": "2026-10-22T18:28:26Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "bc7bf10526bae63cbd",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "summary": "HN points: 22 | comments: 3",
+    "published": "2026-10-22T18:28:16Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 11
+  },
+  {
+    "id": "8ab8872e2cb61eb39b",
+    "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+    "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+    "summary": "US Treasuries rally strongly as traders rush into haven assets",
+    "published": "2026-10-22T18:15:32Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "8cf7ea8c534e960b9c",
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "summary": "HN points: 28 | comments: 19",
+    "published": "2026-10-22T18:02:54Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 14
+  },
+  {
+    "id": "6607148a8c6b6a2c33",
+    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+    "url": "https://github.com/rbartoli/agent-usage-guard",
+    "summary": "HN points: 11 | comments: 6",
+    "published": "2026-10-22T18:02:38Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 17
+  },
+  {
+    "id": "8a8cc723a3dfdc00c5",
+    "title": "Nvidia OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "summary": "HN points: 99 | comments: 47",
+    "published": "2026-10-22T17:44:06Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "ff2a14c532b1ee7bfd",
+    "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
+    "url": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
+    "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
+    "published": "2026-10-22T17:20:01Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "1f58ea3cb4bf7f62f3",
+    "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+    "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+    "summary": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC ",
+    "published": "2026-10-22T17:18:12Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "46b97d9e3735bb019b",
+    "title": "What to Know About the AI-Triggered Cybersecurity Crisis",
+    "url": "https://www.wsj.com/tech/cybersecurity/php-cybersecurity-bug-explained-000955c6?mod=rss_Technology",
+    "summary": "PHP, a technology that powers up to 70% of the world’s websites, is under threat. Here’s how the tech world is racing to fix it.",
+    "published": "2026-10-22T16:46:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "e27e3855f1029f2ddf",
+    "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+    "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing webs",
+    "published": "2026-10-22T16:42:54Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "acbc66e3cd81d273b1",
+    "title": "Starlink saga shows why Europe must catch up in space",
+    "url": "https://www.ft.com/content/73986a48-b513-458b-b8ea-f9e11ed3e941?syn-25a6b1a6=1",
+    "summary": "US tech is far ahead, but Brussels still needs its own satellite networks and launch capacity",
+    "published": "2026-10-22T16:39:02Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "c44519be25b782878a",
+    "title": "A farewell to Arc browser",
+    "url": "https://arc.net/",
+    "summary": "HN points: 142 | comments: 108",
+    "published": "2026-10-22T16:27:47Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 13
+  },
+  {
+    "id": "fc3be6333698cb88a1",
+    "title": "デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000542237.html",
+    "summary": "1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件...",
+    "published": "2026-10-22T16:19:51Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 19
+  },
+  {
+    "id": "d726dddf0a04a035d5",
+    "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+    "summary": "HN points: 17 | comments: 4",
+    "published": "2026-10-22T16:16:45Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 19
+  },
+  {
+    "id": "d7aea28834c1a4b6cb",
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "url": "https://www.taler.net/en/news/2026-13.html",
+    "summary": "HN points: 110 | comments: 33",
+    "published": "2026-10-22T16:14:31Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "91a36a74a1f3b85c70",
+    "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social me",
+    "published": "2026-10-22T15:40:03Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "efb652dc7f914c13fb",
+    "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social me",
+    "published": "2026-10-22T15:40:03Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "7e29b965971ceaff27",
+    "title": "Google cleared 300 hectares of Finnish forest",
+    "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+    "summary": "HN points: 266 | comments: 184",
+    "published": "2026-10-22T15:32:46Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 15
+  },
+  {
+    "id": "cf3b1f51951ac5d405",
+    "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "summary": "HN points: 191 | comments: 69",
+    "published": "2026-10-22T15:26:22Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
+    "id": "f65cab15d3bc21ed4b",
+    "title": "【速報】中国政府系がAIで攻撃、MSが発表",
+    "url": "https://www.47news.jp/15123221.html",
+    "summary": "【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。",
+    "published": "2026-10-22T15:13:42Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
+  },
+  {
     "id": "a34d9ce29e5f15676f",
-    "title": "Live reader Q&A — Could Anthropic’s IPO be a turning point for AI?",
+    "title": "Could Anthropic’s IPO be a turning point for AI? You asked, we answered",
     "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
-    "summary": "Take part in a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, now",
+    "summary": "Tech writer at large Richard Waters and venture capital correspondent George Hammond replied to reader questions",
     "published": "2026-10-22T15:00:13Z",
     "source": "FT · Technology",
     "source_type": "publisher",
@@ -13,29 +312,42 @@
     "rank": null
   },
   {
-    "id": "8ab8872e2cb61eb39b",
-    "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
-    "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-    "summary": "Social media group’s market value tumbles more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
-    "published": "2026-10-22T14:58:27Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
+    "id": "50c6ea804f19588f2a",
+    "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List - Phoronix",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "summary": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List Written by Michael Larabel in Linux Security on 22 October 2026 at 06:05 AM EDT. 11 Comments Seemingly as an accident, overnight several new Linux kernel",
+    "published": "2026-10-22T14:46:13Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
     "category": "tech",
-    "rank": null
+    "rank": 21
   },
   {
     "id": "f7d73e07dd960498ce",
     "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
     "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-    "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being ",
+    "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The j",
     "published": "2026-10-22T14:39:29Z",
     "source": "The Guardian · Technology",
     "source_type": "publisher",
     "publisher": "The Guardian",
     "language": "en",
     "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "84063f419a4b97982b",
+    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+    "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+    "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The j",
+    "published": "2026-10-22T14:39:29Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
     "rank": null
   },
   {
@@ -55,27 +367,40 @@
     "id": "720853dd7e6fc0268f",
     "title": "Quad9 (DNS Resolver) to Exit France",
     "url": "https://quad9.net/news/blog/au-revoir-france",
-    "summary": "HN points: 104 | comments: 21",
+    "summary": "HN points: 573 | comments: 209",
     "published": "2026-10-22T14:32:38Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 1
+  },
+  {
+    "id": "509febd6a8b253a628",
+    "title": "MPs moving to restrict gambling ads in Canada",
+    "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+    "summary": "HN points: 169 | comments: 70",
+    "published": "2026-10-22T14:26:40Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
   },
   {
     "id": "aa9774a9bca9fee8e8",
     "title": "What's Getting Pwned",
     "url": "https://pwn.watch/",
-    "summary": "HN points: 94 | comments: 66",
+    "summary": "HN points: 255 | comments: 130",
     "published": "2026-10-22T14:08:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "a476c59d50c23695ff",
@@ -101,20 +426,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 12
   },
   {
     "id": "e5ed3f9cd01732fc66",
-    "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+    "title": "eMudhra to exit global SSL/TLS certificate business",
     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-    "summary": "HN points: 336 | comments: 217",
+    "summary": "HN points: 749 | comments: 541",
     "published": "2026-10-22T13:33:39Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "18018ec4e7007be309",
@@ -140,7 +465,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 17
   },
   {
     "id": "5d84b48ca5519fa4eb",
@@ -166,7 +491,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 24
   },
   {
     "id": "b4a7970843186b18c2",
@@ -218,33 +543,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "e27e3855f1029f2ddf",
-    "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-    "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-    "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? Websites around the world have been hit by millions of attempts to ",
-    "published": "2026-10-22T12:40:10Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
+    "rank": 18
   },
   {
     "id": "2273edf327411c68dc",
     "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
     "url": "https://lastmuseum.com/",
-    "summary": "HN points: 35 | comments: 8",
+    "summary": "HN points: 73 | comments: 25",
     "published": "2026-10-22T12:40:04Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 23
   },
   {
     "id": "29931111ade0fe41a9",
@@ -273,6 +585,19 @@
     "rank": null
   },
   {
+    "id": "5ae966103342ce9b71",
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise | Microsoft Security Blog",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise",
+    "summary": "As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of the",
+    "published": "2026-10-22T12:32:15Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 20
+  },
+  {
     "id": "f66c8c9dce54b78f08",
     "title": "Why we’re still so obsessed with Elizabeth Holmes - video",
     "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
@@ -296,7 +621,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 9
+  },
+  {
+    "id": "1614a244694929f411",
+    "title": "阪急電鉄と阪神電鉄、AIで忘れ物検索 チャットで問い合わせ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF224ZQ0S6A021C2000000",
+    "summary": "阪急電鉄と阪神電気鉄道は22日、忘れ物の問い合わせ対応に人工知能（AI）を使ったサービスを導入すると発表した。利用者が忘れ物の特徴を専用サイト上にチャットで入力すると、AIが拾得物のデータベースと照合して探す仕組み。返却までにかかる時間を短縮する。阪神電鉄では11月10日から、阪急電鉄では11月19日からサー...",
+    "published": "2026-10-22T12:04:47Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 26
   },
   {
     "id": "01fb01802bc6f61cd6",
@@ -309,7 +647,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 30
+    "rank": 28
   },
   {
     "id": "03a9d057be8d018358",
@@ -322,7 +660,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 7
   },
   {
     "id": "b0c6e3348208fe5da8",
@@ -452,7 +790,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "a721255a366ca163bd",
@@ -465,7 +803,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 4
   },
   {
     "id": "348bfb0deb669889bc",
@@ -478,7 +816,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 3
   },
   {
     "id": "a55ea094297cb69aac",
@@ -520,32 +858,6 @@
     "rank": null
   },
   {
-    "id": "91a36a74a1f3b85c70",
-    "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "summary": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax tar",
-    "published": "2026-10-22T10:10:03Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "efb652dc7f914c13fb",
-    "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "summary": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social",
-    "published": "2026-10-22T10:10:03Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
     "id": "d05db802986d9cca6d",
     "title": "高市首相G7オンライン会合欠席は「業者が間に合わなかった」は本当か？ オソマツ対応で損なわれる国益｜日刊ゲンダイDIGITAL",
     "url": "https://www.nikkan-gendai.com/articles/view/news/394514",
@@ -569,20 +881,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 16
   },
   {
     "id": "ffd16ee8666b574804",
     "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
     "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons",
-    "summary": "HN points: 136 | comments: 24",
+    "summary": "HN points: 173 | comments: 35",
     "published": "2026-10-22T09:31:18Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 20
   },
   {
     "id": "b26ef6da0a3f043e16",
@@ -673,7 +985,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 10
   },
   {
     "id": "f9058bf494f1c8150e",
@@ -728,6 +1040,19 @@
     "rank": null
   },
   {
+    "id": "109e7076e554b08ad6",
+    "title": "French borrowing costs overtake US amid budget turmoil",
+    "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+    "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after publ",
+    "published": "2026-10-22T08:40:36Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
     "id": "e36c77249839dfec85",
     "title": "Fixing Britain’s welfare state and the limits of AI policymaking",
     "url": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89?syn-25a6b1a6=1",
@@ -751,7 +1076,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 30
   },
   {
     "id": "cb90816eb6ba6e1250",
@@ -764,7 +1089,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 5
   },
   {
     "id": "f9a142d6063aa9bfc1",
@@ -803,7 +1128,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 23
   },
   {
     "id": "19638dc1a15bf47d6a",
@@ -816,7 +1141,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 10
   },
   {
     "id": "a66a844999c6c86b6c",
@@ -855,20 +1180,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 12
   },
   {
     "id": "2baef3f308ac0ac4af",
     "title": "Jailbreaking the Switch 2",
     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
-    "summary": "HN points: 413 | comments: 153",
+    "summary": "HN points: 584 | comments: 209",
     "published": "2026-10-22T08:01:52Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 10
   },
   {
     "id": "2db855e1f47e3c3318",
@@ -884,6 +1209,19 @@
     "rank": 1
   },
   {
+    "id": "42184871d7a19a3153",
+    "title": "【お知らせ】システム障害に伴う影響について | 【公式なら最安値】ルートインホテルズ | ホテル・ビジネスホテルの宿泊予約",
+    "url": "https://www.route-inn.co.jp/news/395",
+    "summary": "北海道内の全ホテル検索 ホテルルートイン札幌駅前北口 ホテルルートイン札幌中央 ホテルルートイン札幌北四条 ホテルルートイン札幌白石 BIZCOURT CABINすすきの（ビズコートキャビンすすきの） ホテルルートインGrand旭川駅前 ホテルルートイン旭川駅前一条通 ホテルルートイン千歳駅前 ホテルルートイン釧路駅前 ホテ...",
+    "published": "2026-10-22T07:47:27Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 29
+  },
+  {
     "id": "7be862f61aaa9bb2d1",
     "title": "パスワードを使い回すなとは言うものの、あらゆるサービスに会員登録させられるし普通に手入力が必要な場面も多くてどうしたらいいんだ？",
     "url": "https://togetter.com/li/2761441",
@@ -894,7 +1232,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 4
   },
   {
     "id": "f83219922d6316d371",
@@ -924,7 +1262,7 @@
   },
   {
     "id": "7443eecc0276306af1",
-    "title": "バルテック、「PHPの脆弱性を標的としたサイバー攻撃」によりサービス停止、情報流出の可能性",
+    "title": "バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正）",
     "url": "https://internet.watch.impress.co.jp/docs/news/2150396.html",
     "summary": "",
     "published": "2026-10-22T06:49:30Z",
@@ -933,7 +1271,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 25
   },
   {
     "id": "a206cdeb806d079c1c",
@@ -1027,6 +1365,19 @@
     "rank": 13
   },
   {
+    "id": "6bfb554b2c6d638b7a",
+    "title": "世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149953.html",
+    "summary": "",
+    "published": "2026-10-22T05:15:28Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 22
+  },
+  {
     "id": "c26de35fe87de5302f",
     "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
     "url": "https://www.afpbb.com/articles/-/3658879",
@@ -1037,7 +1388,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 9
   },
   {
     "id": "9421bf4cf590312403",
@@ -1180,7 +1531,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 27
+  },
+  {
+    "id": "b0cdb330858909d271",
+    "title": "これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う",
+    "url": "https://posfie.com/@golden_haniwa/p/LQ90sis",
+    "summary": "該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、...",
+    "published": "2026-10-22T03:54:28Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
   },
   {
     "id": "1d5ffb998834afbf2f",
@@ -1297,7 +1661,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 17
   },
   {
     "id": "f5ba0b9f61e978c87a",
@@ -1323,20 +1687,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 13
   },
   {
     "id": "c9d9738d1e29929453",
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "url": "https://simedw.com/2026/10/21/world-model-terminal",
-    "summary": "HN points: 397 | comments: 123",
+    "summary": "HN points: 455 | comments: 145",
     "published": "2026-10-22T02:18:41Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 25
   },
   {
     "id": "d84f80ae9b6dc7f379",
@@ -1375,7 +1739,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "d5ca02e5c267ad8599",
@@ -1414,7 +1778,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 14
   },
   {
     "id": "cb19f04814890e4139",
@@ -1466,7 +1830,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 15
   },
   {
     "id": "83f324af9d9fe8f650",
@@ -1492,7 +1856,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 15
   },
   {
     "id": "ff6ac272a05081984d",
@@ -1518,7 +1882,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 19
   },
   {
     "id": "1bc26a6110a7670152",
@@ -1583,7 +1947,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 18
   },
   {
     "id": "4bedca451dad975cd4",
@@ -1674,7 +2038,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 11
   },
   {
     "id": "e93143333f0ae1f6ec",
@@ -2077,7 +2441,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 16
   },
   {
     "id": "071596a8b59893b5ff",
@@ -2285,7 +2649,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 20
   },
   {
     "id": "5655e6b6c956262f62",
@@ -2597,7 +2961,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 23
   },
   {
     "id": "e601b597c52c943fee",
@@ -2779,7 +3143,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 26
   },
   {
     "id": "2fd66f05e5ede2b279",
@@ -2896,7 +3260,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 27
+    "rank": 30
   },
   {
     "id": "4204d2c808924182a1",
@@ -2967,14 +3331,14 @@
     "id": "6f44c1096ca82a4357",
     "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
     "url": "https://uberblok.storagebits.workers.dev/",
-    "summary": "HN points: 5 | comments: 0",
+    "summary": "HN points: 42 | comments: 13",
     "published": "2026-10-21T13:04:25Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 22
   },
   {
     "id": "c013a558d0c31d0330",
@@ -3000,7 +3364,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 22
   },
   {
     "id": "91d6ce86b1932470ab",
@@ -3338,7 +3702,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 27
   },
   {
     "id": "1bf2b8c682ea24bbbc",
@@ -3585,7 +3949,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 24
   },
   {
     "id": "9ada5234687e450073",
@@ -4067,6 +4431,19 @@
     "language": "en",
     "category": "tech",
     "rank": 13
+  },
+  {
+    "id": "a75248594f00c50b3f",
+    "title": "ダークストアのスタートアップがVCから2億円調達して全て溶かした話",
+    "url": "https://mesh-ai.net/blog/introduction",
+    "summary": "VCから2億円調達。盛り上がる業界、寄せられる期待Meshはダークストア型のクイックコマース事業を立ち上げるために2億円を調達したスタートアップでした。 ダークストア型スーパーマーケットのMesh、シードラウンドで約2億円を調達株式会社Meshのプレスリリース（2022年3月16日 08時00分）ダークストア型スーパーマーケ...",
+    "published": "2026-10-21T03:37:33Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 8
   },
   {
     "id": "29c457ee3367555147",
@@ -4834,6 +5211,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "05313711cb8f89f5a9",
+    "title": "Show HN: Turn regular JavaScript into a neural net",
+    "url": "https://chenglou.me/handwired",
+    "summary": "HN points: 6 | comments: 1",
+    "published": "2026-10-20T21:32:23Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "8f0344d7c362bfe443",
@@ -6799,6 +7189,19 @@
     "rank": 16
   },
   {
+    "id": "6bf4fdaa0789143289",
+    "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+    "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack",
+    "summary": "HN points: 78 | comments: 9",
+    "published": "2026-10-19T16:06:40Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 12
+  },
+  {
     "id": "1bda1f2660e5c4ae92",
     "title": "Chain of Thought for Humans",
     "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
@@ -7140,14 +7543,14 @@
     "id": "ba31df66eff80cc591",
     "title": "What Is Gridifcation",
     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-    "summary": "HN points: 199 | comments: 77",
+    "summary": "HN points: 310 | comments: 153",
     "published": "2026-10-19T09:13:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "c212a0bd0439cf0a60",
@@ -7603,18 +8006,5 @@
     "language": "en",
     "category": "tech",
     "rank": null
-  },
-  {
-    "id": "ecc8c279e4966ef6d7",
-    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-    "summary": "HN points: 245 | comments: 94",
-    "published": "2026-10-15T19:09:34Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 20
   }
 ]
