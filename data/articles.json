@@ -1,5 +1,174 @@
 [
   {
+    "id": "fbbe0f0a50f517844e",
+    "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+    "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?mod=rss_Technology",
+    "summary": "OpenAI fired three safety researchers for mishandling sensitive information. They had been fighting to keep the workings of AI systems visible—and to let outsiders look.",
+    "published": "2026-10-23T01:00:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f749fb7843fa70e5fe",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "summary": "HN points: 12 | comments: 7",
+    "published": "2026-10-23T00:52:01Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "4454cb7c28ae0517e9",
+    "title": "トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533",
+    "summary": "トランプ氏は、対象となる大洋は大西洋と太平洋の2つだけだと前置きした上で、大西洋の改称を真剣に検討したと述べた。「湖の件で素晴らしい対応をしてくれた」というGoogleに電話し、ピチャイ氏と直接協議したことを明かした。トランプ氏によると、大西洋の変更に対応できるかと尋ねたところ、ピチャイ氏は「大洋は話が...",
+    "published": "2026-10-23T00:14:21Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 25
+  },
+  {
+    "id": "97766300d875cc25fb",
+    "title": "中国、「冷戦思考による陣営形成」に反対 EUの北極圏計画受け",
+    "url": "https://www.afpbb.com/articles/-/3658974",
+    "summary": "【10月23日 AFP】欧州連合（EU）が北極圏における中国とロシアの協力を安全保障上の懸念と結び付けたことを受け、中国は22日、北極圏をめぐる対立をあおるために「冷戦思考」を用いることに反対すると表明した。 EUは20日、北極圏の監視強化や砕氷船の増強を推進する方針を発表し、中国が「ロシアとの連携を深める中で、...",
+    "published": "2026-10-23T00:00:27Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 5
+  },
+  {
+    "id": "83e5f38a20f4c68416",
+    "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+    "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_Technology",
+    "summary": "AI-linked stocks drove $138 billion in gains across 13 public-pension funds since 2022, helping them dig out of losses from the last financial crisis.",
+    "published": "2026-10-23T00:00:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "0473cdd52b620b9bf5",
+    "title": "Mapping the Northern Sky",
+    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere",
+    "summary": "HN points: 13 | comments: 4",
+    "published": "2026-10-22T23:56:39Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 14
+  },
+  {
+    "id": "e590f3035e5ae7e6d7",
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "summary": "HN points: 101 | comments: 33",
+    "published": "2026-10-22T23:45:56Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "10864a04fb3bd7b358",
+    "title": "AI compute is the new oil–and needs a new market",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "summary": "HN points: 14 | comments: 7",
+    "published": "2026-10-22T23:45:16Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 10
+  },
+  {
+    "id": "c9997e4e523ad7d690",
+    "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+    "url": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
+    "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
+    "published": "2026-10-22T23:29:39Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "ebacd873d85d9e8abf",
+    "title": "トランプ氏、民主党候補の実母起用した攻撃広告を擁護「とても良い」",
+    "url": "https://www.afpbb.com/articles/-/3658972",
+    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月23日 AFP】米中間選挙の中西部オハイオ州知事選で、共和党候補のビベック・ラマスワミ氏が、民主党候補のエイミー・アクトン氏（60）の絶縁状態にある実母を選挙...",
+    "published": "2026-10-22T23:25:50Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 3
+  },
+  {
+    "id": "571a28992d89806f56",
+    "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+    "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+    "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
+    "published": "2026-10-22T23:13:15Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "37e5c6c2d007e5f0a7",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "summary": "HN points: 102 | comments: 50",
+    "published": "2026-10-22T22:54:43Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "7a4cc634112fc86761",
+    "title": "衛星通信網「マスク氏が復旧」 トランプ氏がウクライナ軍の利用制限解除要請 米報道",
+    "url": "https://www.sankei.com/article/20261023-WOTSIIWJDVLYNJXSWUXDF6N37E",
+    "summary": "米ホワイトハウスの大統領執務室で話すトランプ大統領（右）とイーロン・マスク氏＝5月30日、ワシントン（AP＝共同） 【ワシントン＝杉本康士】米紙ウォールストリート・ジャーナル（WSJ）は22日、トランプ米大統領が米宇宙開発企業スペースXを率いる実業家イーロン・マスク氏に対し、衛星通信システムのウクライナ軍向...",
+    "published": "2026-10-22T22:26:56Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 7
+  },
+  {
     "id": "73403cab57cd7d5b0a",
     "title": "The Wall Street Journal Investigation That Exposed Elizabeth Holmes",
     "url": "https://www.wsj.com/health/healthcare/elizabeth-holmes-sentencing-a-history-of-the-wsj-theranos-investigation-11668741222?mod=rss_Technology",
@@ -11,6 +180,84 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "ee3112e69577e77763",
+    "title": "サンマ不漁が外食を直撃、大戸屋は提供制限 スーパーは仕入れ7割減 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC06ANJ0W6A001C2000000",
+    "summary": "秋の味覚サンマの不漁が消費者を直撃している。大戸屋は産地直送のサンマ定食を一部店舗に限定して提供する。仕入れ量が前年比7割減となるスーパーも出てきた。不安定な漁獲量が続く中、各社は調達や販売方法の見直しを迫られている。外食大手コロワイド傘下の大戸屋ホールディングスは定食店「大戸屋ごはん処」で「生さ...",
+    "published": "2026-10-22T22:17:55Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 1
+  },
+  {
+    "id": "3caff0ee601223b2e6",
+    "title": "あなたのJava、いますぐアップデート、が必要か確認する - きしだのHatena",
+    "url": "https://nowokay.hatenablog.com/entry/2026/10/23/035709",
+    "summary": "eMudhraという認証局の中間証明書の秘密鍵が8ビットしか有効じゃなく偽造放題ということで、これらの中間証明書を無効にする必要があります。じゃないと偽物のサイトに接続してしまう可能性があります。 eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp で、...",
+    "published": "2026-10-22T22:15:27Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 29
+  },
+  {
+    "id": "a19cf89fe79b8a1224",
+    "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000",
+    "summary": "【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。クラウド最大手アマゾン、顧...",
+    "published": "2026-10-22T22:15:14Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 6
+  },
+  {
+    "id": "9434ff6cb9d73065d1",
+    "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002530",
+    "summary": "米Amazonの脅威インテリジェンスチーム「Amazon Threat Intelligence」は10月21日（米国時間）、PHPの「緊急」レベルの脆弱性2件（CVE-2026-109618、CVE-2026-109619、通称「PHP2Shell」）を悪用しようとする試みを、脆弱性公表の4日前に当たる10月17日に観測していたと、AWSの公式ブログで明らかにした。攻撃者をおびき...",
+    "published": "2026-10-22T22:08:24Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
+    "id": "5cc12a490db1dcf3af",
+    "title": "プーチン氏、米・ウクライナとの3者協議に意欲 「停戦ではなく和平合意」目指す",
+    "url": "https://www.afpbb.com/articles/-/3658966",
+    "summary": "【10月23日 AFP】ロシアのウラジーミル・プーチン大統領は22日、米国、ウクライナとの3者協議を再開する用意があると述べ、一時停戦ではなく和平に関する「最終合意」を目指す考えを明らかにした。 プーチン氏は国営テレビに対し、3か国による「協議の目的は、ウクライナとロシアの双方の安全保障を確保する問題に取り組...",
+    "published": "2026-10-22T21:57:11Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 4
+  },
+  {
+    "id": "fec4f89b8452b058a7",
+    "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/23/news012.html",
+    "summary": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（1/3 ページ） AIを搭載したロボットが現実世界を認知して動く「フィジカルAI」への注目が高まっている。人の代わりに作業を実行し、人手不足の解消や生産性の向上につながる技術として期待されているためだ。 一方、ロボ...",
+    "published": "2026-10-22T21:52:31Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 24
   },
   {
     "id": "e4d70231bee31f732f",
@@ -94,14 +341,27 @@
     "id": "1ead7ffd412173864c",
     "title": "Railpass",
     "url": "https://train.samismith.com/",
-    "summary": "HN points: 13 | comments: 3",
+    "summary": "HN points: 44 | comments: 14",
     "published": "2026-10-22T21:38:32Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 20
+  },
+  {
+    "id": "7abe8ae530eec5e84a",
+    "title": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+    "summary": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…",
+    "published": "2026-10-22T21:29:08Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 21
   },
   {
     "id": "88c2c2fca18ebb8ef5",
@@ -130,6 +390,19 @@
     "rank": 14
   },
   {
+    "id": "2f1a8af6cf7e67f705",
+    "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+    "summary": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison. The deal comes alongsi",
+    "published": "2026-10-22T21:23:39Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
     "id": "ad389284c58946dcbd",
     "title": "【笠原一輝のユビキタス情報局】 NVIDIA参入で「2030年にArm CPUがPC市場の過半数」が現実味",
     "url": "https://pc.watch.impress.co.jp/docs/column/ubiq/2150505.html",
@@ -156,6 +429,19 @@
     "rank": null
   },
   {
+    "id": "a27ce31af88c609c17",
+    "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
+    "summary": "2026年10月18日、Mozillaは、認証局eMudhraの中間CA証明書の秘密鍵が危殆化したインシデントをBugzillaに起票し、10月20日に公開しました。ここでは関連する情報をまとめます。 危殆化したのは中間CA8件 eMudhra(emSignブランドの認証局)の中間CA証明書のうち、TLS用6件とコード署名用2件の秘密鍵が、公開鍵から誰でも求...",
+    "published": "2026-10-22T20:51:20Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 5
+  },
+  {
     "id": "8ab8872e2cb61eb39b",
     "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
     "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
@@ -179,20 +465,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 19
   },
   {
     "id": "4ef108ed67f6089de3",
     "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
     "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-    "summary": "HN points: 91 | comments: 20",
+    "summary": "HN points: 133 | comments: 28",
     "published": "2026-10-22T18:44:36Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 12
   },
   {
     "id": "30c88773d523c9d03f",
@@ -237,14 +523,14 @@
     "id": "bc7bf10526bae63cbd",
     "title": "AI and the Enclosure of the Scientific Commons",
     "url": "https://arxiv.org/abs/2610.27251",
-    "summary": "HN points: 90 | comments: 49",
+    "summary": "HN points: 112 | comments: 65",
     "published": "2026-10-22T18:28:16Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 17
   },
   {
     "id": "8cf7ea8c534e960b9c",
@@ -273,17 +559,30 @@
     "rank": 17
   },
   {
+    "id": "e045f558cf4d3879bc",
+    "title": "Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した",
+    "url": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
+    "summary": "! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE のおそれ）や、TLS 証明書のホスト名チェックを回避できるものなど、High が4件あります。 https://nodejs.org/en/blog/vulnerability/o",
+    "published": "2026-10-22T17:52:59Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 1
+  },
+  {
     "id": "8a8cc723a3dfdc00c5",
     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
     "url": "https://github.com/NVIDIA/OpenShell",
-    "summary": "HN points: 245 | comments: 129",
+    "summary": "HN points: 298 | comments: 156",
     "published": "2026-10-22T17:44:06Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 4
   },
   {
     "id": "ce1311d3ca8be79d76",
@@ -296,7 +595,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 18
+  },
+  {
+    "id": "e6db06d12ca3dd9074",
+    "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+    "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+    "summary": "! クライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。 1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。 Claude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。 最近はClaude CodeやCodexに作業を並列でお願いすることが多く、そのたびにGitのwor",
+    "published": "2026-10-22T17:21:33Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 2
   },
   {
     "id": "ff2a14c532b1ee7bfd",
@@ -335,7 +647,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 20
   },
   {
     "id": "ccdb56d293504bdd83",
@@ -348,7 +660,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 22
   },
   {
     "id": "46b97d9e3735bb019b",
@@ -432,27 +744,27 @@
     "id": "d7aea28834c1a4b6cb",
     "title": "Getting ready to operate GNU Taler in Germany",
     "url": "https://www.taler.net/en/news/2026-13.html",
-    "summary": "HN points: 197 | comments: 69",
+    "summary": "HN points: 227 | comments: 85",
     "published": "2026-10-22T16:14:31Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 8
   },
   {
     "id": "60f362c9e81f26d6f2",
     "title": "Every AI model has the same \"controversial\" take on humans",
     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-    "summary": "HN points: 158 | comments: 173",
+    "summary": "HN points: 240 | comments: 302",
     "published": "2026-10-22T16:08:00Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 7
   },
   {
     "id": "b621a9b7fc1acd0503",
@@ -508,16 +820,16 @@
   },
   {
     "id": "cf3b1f51951ac5d405",
-    "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "title": "Run full iOS 16.5 firmware on Android Devices",
     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-    "summary": "HN points: 283 | comments: 106",
+    "summary": "HN points: 325 | comments: 124",
     "published": "2026-10-22T15:26:22Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "f65cab15d3bc21ed4b",
@@ -530,7 +842,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 4
+  },
+  {
+    "id": "e859b0f494db3c2d20",
+    "title": "2000年代初頭、女性オタクの中にはHTML/CSSを手打ちして個人サイトを作る人もいたが、その審美眼が今やAIの利便性を前に溶けている印象がある",
+    "url": "https://togetter.com/li/2761573",
+    "summary": "あ @5vVba77P0tjsDKS ホンマにガチでコレ真理だと断言したい。2000年代初頭、女性オタク層はみんなメモ帳でHTML/CSSを手打ちして個人サイトを作っていた。 あの情熱とスキルが当時「仕事」として評価されていれば、日本のIT人手不足はかなりマシだったはず。でも悲しいのは、当時テーブルレイアウトやCSSと格闘していた...",
+    "published": "2026-10-22T15:07:01Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "a34d9ce29e5f15676f",
@@ -556,7 +881,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 1
   },
   {
     "id": "91d94a88af6f3d4d74",
@@ -569,7 +894,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 14
   },
   {
     "id": "50c6ea804f19588f2a",
@@ -595,7 +920,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 11
   },
   {
     "id": "f7d73e07dd960498ce",
@@ -640,14 +965,14 @@
     "id": "720853dd7e6fc0268f",
     "title": "Quad9 (DNS Resolver) to Exit France",
     "url": "https://quad9.net/news/blog/au-revoir-france",
-    "summary": "HN points: 885 | comments: 329",
+    "summary": "HN points: 998 | comments: 360",
     "published": "2026-10-22T14:32:38Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 3
   },
   {
     "id": "509febd6a8b253a628",
@@ -673,7 +998,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 7
   },
   {
     "id": "aa9774a9bca9fee8e8",
@@ -712,20 +1037,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 23
   },
   {
     "id": "e5ed3f9cd01732fc66",
     "title": "eMudhra to exit global SSL/TLS certificate business",
     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-    "summary": "HN points: 881 | comments: 601",
+    "summary": "HN points: 932 | comments: 630",
     "published": "2026-10-22T13:33:39Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 15
   },
   {
     "id": "18018ec4e7007be309",
@@ -751,7 +1076,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 30
   },
   {
     "id": "5d84b48ca5519fa4eb",
@@ -780,10 +1105,23 @@
     "rank": 24
   },
   {
+    "id": "1890072022859639bd",
+    "title": "自宅サーバーの定期バックアップの失敗に気付かなかった話",
+    "url": "https://zenn.dev/komorebi_note/articles/d9df64e7e1da82",
+    "summary": "はじめに はじめまして。現在はLinuxを勉強中で、中古パソコンに写真管理サーバーを動かしています。 この記事では、設定したはずのバックアップが機能していなかったので、その過程を書きます。 背景 Googleフォトに頼らず写真を自分で管理すべくImmichを使用している。スマホで撮った写真はImmichに自動で保存し、スマホからは手動で削除している。つまり写真はサーバーにしかないため、サーバーが壊れたら全ての写真が無くなる。そこで、rcloneでGoogleドライブに暗号化し",
+    "published": "2026-10-22T13:11:28Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 3
+  },
+  {
     "id": "6a3fafc32f3d91363f",
     "title": "Woman faces six years in prison over Cash App account she never opened",
     "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-    "summary": "HN points: 390 | comments: 375",
+    "summary": "HN points: 495 | comments: 512",
     "published": "2026-10-22T13:11:00Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -803,7 +1141,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 10
   },
   {
     "id": "b4a7970843186b18c2",
@@ -868,7 +1206,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 9
   },
   {
     "id": "4a5823c275b790b04c",
@@ -998,7 +1336,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 8
   },
   {
     "id": "b0c6e3348208fe5da8",
@@ -1037,7 +1375,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "316436b40d1dc666ab",
@@ -1056,14 +1394,14 @@
     "id": "001a11a16b5fa9a5c5",
     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
     "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought",
-    "summary": "HN points: 153 | comments: 171",
+    "summary": "HN points: 204 | comments: 200",
     "published": "2026-10-22T11:42:03Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 19
   },
   {
     "id": "251323d1a3d3319a8d",
@@ -1089,7 +1427,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 27
   },
   {
     "id": "b5692ce42ec79dbbfc",
@@ -1128,7 +1466,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 26
   },
   {
     "id": "b58ac5c3dd206e9967",
@@ -1167,7 +1505,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "a721255a366ca163bd",
@@ -1180,7 +1518,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 9
   },
   {
     "id": "348bfb0deb669889bc",
@@ -1193,7 +1531,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 12
   },
   {
     "id": "a55ea094297cb69aac",
@@ -1206,7 +1544,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 8
   },
   {
     "id": "1ba2ff1d1e65105c99",
@@ -1238,14 +1576,14 @@
     "id": "ff34f7af5267d267aa",
     "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
     "url": "https://news.ycombinator.com/item?id=50193416",
-    "summary": "HN points: 285 | comments: 123",
+    "summary": "HN points: 368 | comments: 156",
     "published": "2026-10-22T10:11:44Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 18
   },
   {
     "id": "25e330cd8833602878",
@@ -1258,7 +1596,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 29
+    "rank": 15
   },
   {
     "id": "d05db802986d9cca6d",
@@ -1271,7 +1609,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 10
   },
   {
     "id": "8691a386fe59687840",
@@ -1284,7 +1622,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 19
   },
   {
     "id": "ffd16ee8666b574804",
@@ -1310,7 +1648,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 28
   },
   {
     "id": "c218205e9ed70703bb",
@@ -1388,7 +1726,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 18
   },
   {
     "id": "f9058bf494f1c8150e",
@@ -1583,20 +1921,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 13
   },
   {
     "id": "2baef3f308ac0ac4af",
     "title": "Jailbreaking the Switch 2",
     "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
-    "summary": "HN points: 670 | comments: 236",
+    "summary": "HN points: 721 | comments: 250",
     "published": "2026-10-22T08:01:52Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 11
   },
   {
     "id": "2db855e1f47e3c3318",
@@ -1700,7 +2038,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 5
   },
   {
     "id": "4087894ea45ab178c5",
@@ -1726,7 +2064,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 6
   },
   {
     "id": "e5b396a022adb94bc4",
@@ -1778,7 +2116,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 17
   },
   {
     "id": "c26de35fe87de5302f",
@@ -1791,7 +2129,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 21
   },
   {
     "id": "9421bf4cf590312403",
@@ -1947,7 +2285,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 3
   },
   {
     "id": "1d5ffb998834afbf2f",
@@ -1973,7 +2311,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 17
   },
   {
     "id": "8c5b9fcc4cfd99416d",
@@ -2064,7 +2402,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 24
   },
   {
     "id": "f5ba0b9f61e978c87a",
@@ -2090,7 +2428,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 14
   },
   {
     "id": "c9d9738d1e29929453",
@@ -2142,7 +2480,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 12
   },
   {
     "id": "d5ca02e5c267ad8599",
@@ -2181,7 +2519,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 15
   },
   {
     "id": "cb19f04814890e4139",
@@ -2207,7 +2545,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 7
   },
   {
     "id": "6057ea929e8f18408a",
@@ -2259,7 +2597,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 16
   },
   {
     "id": "ff6ac272a05081984d",
@@ -2285,7 +2623,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 23
   },
   {
     "id": "1bc26a6110a7670152",
@@ -2350,7 +2688,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 20
   },
   {
     "id": "e4cac1e6fd39cfb211",
@@ -2376,7 +2714,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 8
   },
   {
     "id": "ce8f1b8e4b081467bb",
@@ -2441,7 +2779,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "095514b28c05a85f4c",
@@ -2454,7 +2792,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 22
   },
   {
     "id": "e93143333f0ae1f6ec",
@@ -2571,7 +2909,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 25
   },
   {
     "id": "f92fc88ad34750f314",
@@ -2818,7 +3156,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 9
   },
   {
     "id": "1c6217a33b5bb65957",
@@ -2961,7 +3299,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 10
   },
   {
     "id": "e6137ea9fd03ba7a28",
@@ -3065,7 +3403,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 30
   },
   {
     "id": "5655e6b6c956262f62",
@@ -3182,7 +3520,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 11
   },
   {
     "id": "623ec6f3530682e709",
@@ -3195,7 +3533,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 11
   },
   {
     "id": "e9e368bfdb9be13983",
@@ -3377,7 +3715,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 27
   },
   {
     "id": "e601b597c52c943fee",
@@ -3747,14 +4085,14 @@
     "id": "6f44c1096ca82a4357",
     "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
     "url": "https://uberblok.storagebits.workers.dev/",
-    "summary": "HN points: 65 | comments: 21",
+    "summary": "HN points: 79 | comments: 20",
     "published": "2026-10-21T13:04:25Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 20
+    "rank": 25
   },
   {
     "id": "c013a558d0c31d0330",
@@ -3780,7 +4118,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 28
   },
   {
     "id": "91d6ce86b1932470ab",
@@ -4365,7 +4703,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 29
   },
   {
     "id": "9ada5234687e450073",
@@ -4521,7 +4859,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 12
   },
   {
     "id": "a0db532a8318b22605",
@@ -4703,7 +5041,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 13
   },
   {
     "id": "33cb3e31bb53cb5bee",
@@ -5015,7 +5353,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 14
   },
   {
     "id": "29995b4ef41112b253",
@@ -5954,6 +6292,19 @@
     "rank": null
   },
   {
+    "id": "4063d497b124aa2dfb",
+    "title": "Color Names",
+    "url": "https://names.color.pizza/",
+    "summary": "HN points: 10 | comments: 1",
+    "published": "2026-10-20T16:27:56Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 22
+  },
+  {
     "id": "2f38434df760684860",
     "title": "Voxtral 3",
     "url": "https://mistral.ai/news/voxtral-3",
@@ -6173,6 +6524,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "aaacf3012c3b421381",
+    "title": "How to Design Flowers",
+    "url": "https://www.asimov.press/p/flowers",
+    "summary": "HN points: 16 | comments: 2",
+    "published": "2026-10-20T14:00:07Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
   },
   {
     "id": "99488cae944cb2b2d6",
@@ -6653,7 +7017,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 15
   },
   {
     "id": "a5ed8810041bd8f97f",
@@ -6719,6 +7083,19 @@
     "language": "ja",
     "category": "finance",
     "rank": 21
+  },
+  {
+    "id": "3b8284fe5706dd694c",
+    "title": "The Secret Life of Circuits is now in stock everywhere",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+    "summary": "HN points: 5 | comments: 0",
+    "published": "2026-10-20T07:15:12Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "15fd22fb366d7d1f32",
@@ -7121,7 +7498,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 16
   },
   {
     "id": "c34f09ed0714788561",
@@ -7186,7 +7563,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 17
   },
   {
     "id": "c66ac491cdc8538d06",
@@ -7264,7 +7641,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 18
   },
   {
     "id": "cff75de389312ec524",
@@ -7355,7 +7732,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 19
   },
   {
     "id": "d8d819844efc12c0fb",
@@ -7621,14 +7998,14 @@
     "id": "6bf4fdaa0789143289",
     "title": "Dungeon Generation in the Gnomish Mines of NetHack",
     "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack",
-    "summary": "HN points: 109 | comments: 12",
+    "summary": "HN points: 125 | comments: 16",
     "published": "2026-10-19T16:06:40Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 19
+    "rank": 24
   },
   {
     "id": "1bda1f2660e5c4ae92",
@@ -7907,14 +8284,14 @@
     "id": "05faa2e55e31f7eea5",
     "title": "Speeding up code review with `small-change`",
     "url": "https://lethain.com/small-changes",
-    "summary": "HN points: 4 | comments: 1",
+    "summary": "HN points: 23 | comments: 13",
     "published": "2026-10-19T10:35:14Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 21
+    "rank": 23
   },
   {
     "id": "29f0573a850e15279e",
@@ -7985,14 +8362,14 @@
     "id": "ba31df66eff80cc591",
     "title": "What Is Gridifcation",
     "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-    "summary": "HN points: 378 | comments: 185",
+    "summary": "HN points: 403 | comments: 200",
     "published": "2026-10-19T09:13:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 13
   },
   {
     "id": "c212a0bd0439cf0a60",
@@ -8083,7 +8460,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 20
   },
   {
     "id": "5e3a71aad52565b3b7",
@@ -8390,19 +8767,6 @@
     "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
     "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じました。1冊数千円すると、気になっても買うまでには至らない本がけっこうあります。そういう本も気軽に開けるなら、お得に入れる方法があるなら入ってもいいかな、と考えました。 そこで、まず",
     "published": "2026-10-16T02:53:28Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 20
-  },
-  {
-    "id": "14ebffbf99eeb817cf",
-    "title": "有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか",
-    "url": "https://zenn.dev/hand_dot/articles/ecb391d4322330",
-    "summary": "2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/2107027870019445007 But PRs don't work in this era. Contr",
-    "published": "2026-10-15T23:00:05Z",
     "source": "Zenn · Trending",
     "source_type": "community",
     "publisher": "Zenn",
