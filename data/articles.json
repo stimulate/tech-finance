@@ -1,16 +1,107 @@
 [
   {
-    "id": "d10dca1fce7ac2a742",
-    "title": "FreeDNS",
-    "url": "https://freedns.afraid.org/",
-    "summary": "HN points: 42 | comments: 3",
-    "published": "2026-10-24T15:20:01Z",
+    "id": "e8c64011890d0eccd0",
+    "title": "Danish Government silently drops plan to dump MS Office",
+    "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+    "summary": "HN points: 10 | comments: 0",
+    "published": "2026-10-24T18:31:48Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 25
+  },
+  {
+    "id": "a7d5039c53ad89f29b",
+    "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+    "summary": "HN points: 5 | comments: 1",
+    "published": "2026-10-24T18:19:05Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "ab386b6c0620013fd1",
+    "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+    "url": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_Technology",
+    "summary": "Engineer Abdulrahman Alfozan was accused of bugging a restricted conference room at the company’s offices.",
+    "published": "2026-10-24T17:07:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "32e6b3bbfc367cda1a",
+    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "url": "https://de.numista.com/9866",
+    "summary": "HN points: 53 | comments: 10",
+    "published": "2026-10-24T16:41:55Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "f583ff43b4df895757",
+    "title": "Roku developer repositories moved from GitHub to GitLab",
+    "url": "https://blog.roku.com/developer/gitlab-move",
+    "summary": "HN points: 155 | comments: 97",
+    "published": "2026-10-24T16:06:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
     "rank": 1
+  },
+  {
+    "id": "dc0a245196dcba2adb",
+    "title": "Neural chip decodes interactions between brain regions",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2",
+    "summary": "HN points: 53 | comments: 8",
+    "published": "2026-10-24T15:57:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
+    "id": "e7b5f125a9984dda7c",
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+    "summary": "HN points: 12 | comments: 8",
+    "published": "2026-10-24T15:35:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
+  },
+  {
+    "id": "d10dca1fce7ac2a742",
+    "title": "FreeDNS",
+    "url": "https://freedns.afraid.org/",
+    "summary": "HN points: 168 | comments: 41",
+    "published": "2026-10-24T15:20:01Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
   },
   {
     "id": "88bc4c38bda3b03a97",
@@ -24,6 +115,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "d2f70425eab21da321",
+    "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
+    "url": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257",
+    "summary": "【読売新聞】 ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因で個人投資家らのＦＸ（外国為替証拠金）の取引で生じた損害を補償する方針を発表した。今月１日に本格施行された能動的サイバ",
+    "published": "2026-10-24T12:20:15Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 5
   },
   {
     "id": "351191f412e5af4b13",
@@ -50,6 +154,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "5afebe69111cf6d066",
+    "title": "人間が時間を使うべきところはどこか",
+    "url": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time",
+    "summary": "この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ...",
+    "published": "2026-10-24T11:36:59Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 9
   },
   {
     "id": "54ab6cae24e9b79d01",
@@ -94,14 +211,14 @@
     "id": "6a7f3e8dc6d00695a0",
     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
     "url": "https://github.com/Zagitta/gpu-unlock",
-    "summary": "HN points: 44 | comments: 25",
+    "summary": "HN points: 105 | comments: 45",
     "published": "2026-10-24T09:58:27Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 13
   },
   {
     "id": "ce173c897cf85593db",
@@ -120,14 +237,14 @@
     "id": "d32248b4728c84574a",
     "title": "I Don't Understand Quantum Physics (2018)",
     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-    "summary": "HN points: 191 | comments: 134",
+    "summary": "HN points: 228 | comments: 157",
     "published": "2026-10-24T09:53:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 12
   },
   {
     "id": "ec03c0673604d39d4c",
@@ -140,7 +257,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 10
   },
   {
     "id": "2d304bcd41bd49a4bb",
@@ -153,7 +270,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 10
+  },
+  {
+    "id": "8bfd2ba4d3c4185ff5",
+    "title": "AIで加速するサイバー攻撃と、防御をめぐる動き ――脆弱性の修正から、AIエージェントの行動制御まで | gihyo.jp",
+    "url": "https://gihyo.jp/article/2026/10/ai-security-defense",
+    "summary": "AIで加速するサイバー攻撃と⁠⁠、防御をめぐる動き ――脆弱性の修正から⁠⁠、AIエージェントの行動制御まで 「約18カ月、持ちこたえる必要がある⁠」⁠。AnthropicのDeputy CISO（副最高情報セキュリティ責任者⁠）⁠、Jason D. Clinton氏は2026年10月22日、Xへの投稿で、サイバーセキュリティをめぐる直近4日間の深刻な状況に...",
+    "published": "2026-10-24T09:15:05Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 15
   },
   {
     "id": "e974a847044aeb6b23",
@@ -185,14 +315,14 @@
     "id": "6ec9138c555cfbbb13",
     "title": "GMO、不正取引の被害額を補償へ 見舞金5000円も 「お名前.com」FX用VPSへのサイバー攻撃で",
     "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566",
-    "summary": "GMOインターネットグループは10月24日、FX自動売買用VPS「お名前.com デスクトップクラウド」がサイバー攻撃を受け、利用者の取引口座が不正操作された問題をめぐり、サービス利用中の全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償することを発表した。また、システムに「セキュリティ...",
+    "summary": "GMOインターネットは10月24日、FX自動売買用VPS「お名前.com デスクトップクラウド」がサイバー攻撃を受け、利用者の取引口座が不正操作された問題をめぐり、サービス利用中の全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償することを発表した。また、システムに「セキュリティ上の問題...",
     "published": "2026-10-24T08:33:10Z",
     "source": "はてな · IT Hotentry",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 23
   },
   {
     "id": "541f63d9776bddb195",
@@ -206,6 +336,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "e20315c32cc6516cc3",
+    "title": "不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請",
+    "url": "https://www.watch.impress.co.jp/docs/news/2150944.html",
+    "summary": "",
+    "published": "2026-10-24T08:31:27Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
   },
   {
     "id": "3f4a6e735a55a30369",
@@ -237,7 +380,7 @@
     "id": "4741fedb49bb1deb74",
     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "summary": "HN points: 144 | comments: 70",
+    "summary": "HN points: 215 | comments: 100",
     "published": "2026-10-24T08:06:39Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -270,13 +413,13 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 21
   },
   {
     "id": "b0a99f543bd12ffaef",
     "title": "米中間選挙、共和党は下院での大敗回避に躍起 下院議長がトランプ氏に追加資金要請",
     "url": "https://www.cnn.co.jp/usa/35253918.html",
-    "summary": "アイオワ州ダベンポートにあるスコット郡共和党本部での選挙イベントで、ジョンソン下院議長がミラーミークス下院議員を支持する発言を行った＝10月9日/Scott Olson/Getty Images （CNN） 米中間選挙の選挙戦が最終盤に入る中、ジョンソン下院議長（共和党）がトランプ大統領に対し、厳しい戦いを強いられている共和党候...",
+    "summary": "アイオワ州ダベンポートにあるスコット郡共和党本部での選挙イベントで、ジョンソン下院議長がミラーミークス下院議員を支持する発言を行った＝10月9日/Scott Olson/Getty Images （CNN） 米中間選挙の選挙戦が最終盤に入る中、ジョンソン下院議長（共和党）がトランプ大統領に対し、苦戦を強いられている共和党候補に追...",
     "published": "2026-10-24T07:03:13Z",
     "source": "はてな · Economics",
     "source_type": "aggregator",
@@ -309,7 +452,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 25
   },
   {
     "id": "455caf95c10b58c523",
@@ -348,7 +491,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 22
   },
   {
     "id": "f54658aa092bdbdf90",
@@ -361,7 +504,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 28
   },
   {
     "id": "92a5c3dbe27300c0a2",
@@ -374,7 +517,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 30
   },
   {
     "id": "dbcb605602990c8f1b",
@@ -439,7 +582,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 7
   },
   {
     "id": "635a3ddbc1dc8a6180",
@@ -458,14 +601,14 @@
     "id": "21e0308ef6b7ba3602",
     "title": "OBS Studio 33",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "summary": "HN points: 334 | comments: 111",
+    "summary": "HN points: 393 | comments: 137",
     "published": "2026-10-24T04:49:58Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 6
   },
   {
     "id": "731045a93f4a6176dd",
@@ -478,7 +621,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 13
   },
   {
     "id": "59d4dacf97963254ff",
@@ -504,7 +647,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 27
   },
   {
     "id": "1ff0da46b732eef6a0",
@@ -530,7 +673,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 18
   },
   {
     "id": "73cb19a8df223eb03d",
@@ -543,7 +686,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 24
   },
   {
     "id": "fca1e811f76b2901d8",
@@ -621,20 +764,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 5
   },
   {
     "id": "a224bb9bc3c5df8aab",
     "title": "How close can pure functional programming get to C?",
     "url": "https://rtfeldman.com/fp-vs-c",
-    "summary": "HN points: 195 | comments: 52",
+    "summary": "HN points: 222 | comments: 61",
     "published": "2026-10-24T03:43:54Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 21
   },
   {
     "id": "547bb2e03fe659fda1",
@@ -647,7 +790,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 4
   },
   {
     "id": "98a34821ec48c68b64",
@@ -660,7 +803,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 18
   },
   {
     "id": "1a764973424002184b",
@@ -686,7 +829,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 16
   },
   {
     "id": "e9c852e5a18d06c4db",
@@ -699,7 +842,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 11
   },
   {
     "id": "6ea4f559241091ac3d",
@@ -712,7 +855,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 17
   },
   {
     "id": "5ec0144e31841ffcbe",
@@ -777,7 +920,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 20
   },
   {
     "id": "5ee6361bfc02b539ae",
@@ -803,7 +946,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 12
   },
   {
     "id": "5f40e14378b8584c69",
@@ -829,7 +972,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 8
   },
   {
     "id": "11205ae0cc8d09d368",
@@ -861,14 +1004,14 @@
     "id": "bfa9833cbdcf4d56d6",
     "title": "Twelve years of distributed SQLite",
     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite",
-    "summary": "HN points: 299 | comments: 45",
+    "summary": "HN points: 331 | comments: 51",
     "published": "2026-10-24T01:16:58Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 17
   },
   {
     "id": "0cc79120c442b4de1b",
@@ -933,7 +1076,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 11
   },
   {
     "id": "0f788ca9ba079abb4c",
@@ -946,7 +1089,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 9
   },
   {
     "id": "818d7f33c0a82516ff",
@@ -972,7 +1115,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 13
   },
   {
     "id": "851b78240f9e30ba6f",
@@ -1141,7 +1284,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 16
   },
   {
     "id": "e3f6306844c88d7d7d",
@@ -1407,14 +1550,14 @@
     "id": "8a5674337966e0fbf9",
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "summary": "HN points: 1013 | comments: 614",
+    "summary": "HN points: 1045 | comments: 638",
     "published": "2026-10-23T16:59:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 9
   },
   {
     "id": "e320d6fdff92b61383",
@@ -1485,14 +1628,14 @@
     "id": "d9ae6c2ee5cf23ea79",
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
     "url": "https://blog.calif.io/p/iphone",
-    "summary": "HN points: 1010 | comments: 635",
+    "summary": "HN points: 1047 | comments: 652",
     "published": "2026-10-23T16:21:50Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 14
   },
   {
     "id": "596f54f87d29ff2e69",
@@ -1609,7 +1752,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 12
   },
   {
     "id": "8f539bba05804b99a4",
@@ -1791,7 +1934,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "0628c37ce75a9e4496",
@@ -1836,14 +1979,14 @@
     "id": "3b4fcd47dbe4e3222d",
     "title": "Apple Music 404 Not Found",
     "url": "https://music.apple.com/this-url-doesnt-exist",
-    "summary": "HN points: 854 | comments: 248",
+    "summary": "HN points: 887 | comments: 263",
     "published": "2026-10-23T12:28:47Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 14
+    "rank": 19
   },
   {
     "id": "592f4ba27a96a09265",
@@ -1908,7 +2051,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 17
   },
   {
     "id": "260ff23d3e8d45a3cb",
@@ -2103,7 +2246,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 15
   },
   {
     "id": "297e667fc8056ef387",
@@ -2350,7 +2493,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 19
   },
   {
     "id": "5e2a933b4aa3676262",
@@ -2701,7 +2844,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 28
+    "rank": 30
   },
   {
     "id": "7d393fe010ea84664a",
@@ -2870,7 +3013,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 19
   },
   {
     "id": "54a68734db4022adfd",
@@ -3104,7 +3247,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 29
+    "rank": 28
   },
   {
     "id": "3af7df8af3390813d9",
@@ -3429,7 +3572,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 30
+    "rank": 29
   },
   {
     "id": "22418b8f48a04b17e4",
@@ -3812,14 +3955,14 @@
     "id": "67ddf214cf58d7cd2c",
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "url": "https://edjefferson.com/localwiki",
-    "summary": "HN points: 1470 | comments: 238",
+    "summary": "HN points: 1498 | comments: 240",
     "published": "2026-10-22T23:01:18Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 18
   },
   {
     "id": "37e5c6c2d007e5f0a7",
@@ -4904,14 +5047,14 @@
     "id": "1e41636d441baa6def",
     "title": "Parsing EDIFACT in Python with syntax trees",
     "url": "https://github.com/AmadeusITGroup/Edison",
-    "summary": "HN points: 3 | comments: 1",
+    "summary": "HN points: 16 | comments: 4",
     "published": "2026-10-22T14:07:48Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 19
+    "rank": 20
   },
   {
     "id": "9196591651d4494f8d",
@@ -5762,14 +5905,14 @@
     "id": "9554e8f7b0cbb62d71",
     "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
     "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu",
-    "summary": "HN points: 48 | comments: 6",
+    "summary": "HN points: 69 | comments: 13",
     "published": "2026-10-22T09:01:10Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 10
   },
   {
     "id": "26b8932ad048c49050",
@@ -7348,14 +7491,14 @@
     "id": "f0778e7625b40469c5",
     "title": "Physicists trap a single antimatter particle for a month",
     "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month",
-    "summary": "HN points: 174 | comments: 59",
+    "summary": "HN points: 232 | comments: 70",
     "published": "2026-10-21T19:40:01Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 11
   },
   {
     "id": "16e822fa01e07a5238",
@@ -8375,14 +8518,14 @@
     "id": "c5479d5c0828a7aecc",
     "title": "Tiling Noise – Procedural GPU Patterns",
     "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise",
-    "summary": "HN points: 22 | comments: 1",
+    "summary": "HN points: 41 | comments: 1",
     "published": "2026-10-21T13:04:07Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 23
+    "rank": 22
   },
   {
     "id": "8c30d707dc1b8471d3",
@@ -8448,6 +8591,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 30
+  },
+  {
+    "id": "3a0c98f3f92bf25ee0",
+    "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+    "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+    "summary": "HN points: 18 | comments: 0",
+    "published": "2026-10-21T12:40:46Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 15
   },
   {
     "id": "c1401af1cb2c397f0e",
@@ -8942,161 +9098,5 @@
     "language": "ja",
     "category": "tech",
     "rank": 26
-  },
-  {
-    "id": "3cb74e106b75d47408",
-    "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-    "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-    "summary": "HN points: 29 | comments: 8",
-    "published": "2026-10-21T08:17:35Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "a6b9e706ea53c83a50",
-    "title": "php2shell の告知を受けて、ALB の AWS WAF で multipart POST を止める・絞るルールを試してみた | DevelopersIO",
-    "url": "https://dev.classmethod.jp/articles/aws-waf-alb-block-multipart-post",
-    "summary": "",
-    "published": "2026-10-21T08:13:02Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "7a78c856db065778b1",
-    "title": "Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場",
-    "url": "https://gigazine.net/news/20261021-ornith-1-5-122b",
-    "summary": "AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 Aloha!🌺 Meet Ornith-1.5-122B: No Tradeoff Between Strong and Fast Stronger. Faster. Leaner. Ornith-1.5-122B delivers frontier-level capabilities...",
-    "published": "2026-10-21T08:08:07Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "9696b0c2123f80dc3e",
-    "title": "当社への不正アクセスに関するお知らせとお詫び｜デジタルアーツ株式会社",
-    "url": "https://www.daj.jp/webtopics/1354",
-    "summary": "当社は、昨今のサイバー攻撃の増加を受け、2026年10月9日、AI を活用して当社のシステム・製品および社内環境の総点検を実施いたしました。その結果、従来の点検では発見に至らなかった、当社クラウドサービスの運用環境および社内環境に対する不正アクセスの痕跡を発見いたしました。発見した痕跡には、2025年7月頃にさ...",
-    "published": "2026-10-21T08:02:18Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "ec99349162cf8e40f4",
-    "title": "「税金はどこかのくそ野郎の懐に」米中間選挙、隣人同士でも意見割れる",
-    "url": "https://www.afpbb.com/articles/-/3658726",
-    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月21日 AFP】米中西部ミシガン州で暮らす退職した元自動車製造工のマイクさん（67）とリッチさん（78）は、目と鼻の先に住む隣人同士だ。しかし、生活費の高騰とド...",
-    "published": "2026-10-21T08:02:07Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 29
-  },
-  {
-    "id": "9ada5234687e450073",
-    "title": "Don’t underestimate Netflix’s power to flip the script",
-    "url": "https://www.ft.com/content/67a2f314-730b-477b-b52f-f7495394ceec?syn-25a6b1a6=1",
-    "summary": "Focusing on making more Oscar winners would double down on territory YouTube has struggled to conquer",
-    "published": "2026-10-21T08:01:33Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "03ce5acbb1450af002",
-    "title": "個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した",
-    "url": "https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement",
-    "summary": "Flutter で作った蔵書管理アプリ「本棚（hondana）」を、個人事業主として App Store に出す準備をしています。2026年10月に開業届を出し、Apple と Google のアカウントを用意しました。 この記事は、その手続きで「思っていたのと違った」ところの記録です。個人事業主は Apple の「組織」を選べないこと、住所が公開される条件、有料アプリ契約が有効になるまでに納税フォームが2つ要ったこと、Google Play の個人アカウントだと住所が出るこ",
-    "published": "2026-10-21T07:43:30Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 7
-  },
-  {
-    "id": "69dbea302f92ee35fe",
-    "title": "高市政権1年、「自民支持と必ずしも一致しない」 推す有権者の姿は：朝日新聞",
-    "url": "https://www.asahi.com/articles/ASVBL7X0BVBLUPQJ005M.html",
-    "summary": "高市早苗首相の就任から1年。高支持率はなぜ続くのか。これまでの自民党政権との違いとは。大規模な政治意識調査から浮かび上がるのは、自民党そのものを上回る「高市個人」への支持だという。調査を続ける慶応大…",
-    "published": "2026-10-21T07:06:06Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 25
-  },
-  {
-    "id": "38773257edeb289f2b",
-    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-    "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
-    "summary": "本情報の対象となる2つの脆弱性について、現時点でIPAが悪用した攻撃を確認しているわけではありません。セキュリティリリースの公開後、速やかに適用できるよう、事前準備をお願いするものです。 PHPの脆弱性については、2024年7月にも悪用した攻撃に関する注意喚起を行っています（脚注1）。 今回の脆弱性についても悪...",
-    "published": "2026-10-21T06:53:37Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "b3d006f344a0b78c66",
-    "title": "中間選挙敗北の犯人さがしに怯えるトランプ氏の側近ら、「熾烈な」権力争いを展開",
-    "url": "https://www.cnn.co.jp/usa/35253827.html",
-    "summary": "（CNN） トランプ米大統領には、共和党が中間選挙で上下両院の過半数を維持し、大敗の予想を覆すための時間が2週間残されている。だが周囲の側近や盟友らは、トランプ氏がそれに失敗した場合に起きることに備え始めている。 政権当局者の間では、共和党が大幅に議席を失えば、政府全体で大規模な人事刷新が起きるとの見...",
-    "published": "2026-10-21T06:50:17Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 10
-  },
-  {
-    "id": "e7755a81a9249f6bf2",
-    "title": "サイトメンテナンス実施のお知らせ | 株式会社４Ｘ",
-    "url": "https://www.cnn.co.jp/world/35253822.html",
-    "summary": "平素より弊社サービスをご利用いただき、誠にありがとうございます。 システムの安全性および安定性向上のため、下記の日時より緊急メンテナンスを実施いたします。メンテナンス期間中は、対象サイトへのアクセスおよびすべてのサービス機能がご利用いただけなくなります。 メンテナンス日時 2026年10月21日（水）22:00 ...",
-    "published": "2026-10-21T06:47:08Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 28
-  },
-  {
-    "id": "f4ff2b92fa131747e1",
-    "title": "「蔵書をすべて紙で所有するのは物理的に不可能」シーモアやRenta!のサービス停止を受けて、電子書籍のメリットが議論に「紙は所持で電子は消費」",
-    "url": "https://togetter.com/li/2761014",
-    "summary": "田中ほさな@企画進行中&新連載準備中 @tanakahosana シーモアに続きRenta！がサービス停止とは。出版業界において紙から電子への切り換えが上手く行ったのはマンガのみ。これでマンガは安泰だろうと思っていたが、まさかそれが仇になるとは。 これ以上被害規模が拡大し、それが長期に渡った場合、マンガ家も出版社もどえ...",
-    "published": "2026-10-21T06:45:55Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 19
   }
 ]
