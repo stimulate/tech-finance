@@ -1,16 +1,120 @@
 [
   {
+    "id": "8fede53e09fe50608a",
+    "title": "You Were Once Smarter Than AI at Math. Yes, Even You.",
+    "url": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9?mod=rss_Technology",
+    "summary": "These basic problems stumped AI only a few years ago. Can you solve them?",
+    "published": "2026-10-24T01:00:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "0f788ca9ba079abb4c",
+    "title": "進路選択で父に「私就職しまーす進学しませーん！」と伝えたら「はいはーい」と二つ返事、母も「え高卒でいいの？」「勝手にどうぞー」とのこと…あっさりで拍子抜けした話",
+    "url": "https://togetter.com/li/2762148",
+    "summary": "しぐしぐれかもしれない @Shiguhisure 今日進路選択があって、お父さんに「私就職しまーす進学しませーん！！」って伝えたら「はいはーい」って二つ返事された 母も「え高卒でいいの？」に「勝手にどうぞー」って 娘の進路ってそう、この、あの、もっと話し合うものじゃないの…？ 子と親の意見の食い違いで戦うものじゃ...",
+    "published": "2026-10-24T00:19:01Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 8
+  },
+  {
+    "id": "818d7f33c0a82516ff",
+    "title": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+    "url": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c?mod=rss_Technology",
+    "summary": "Criminals are turning to next-generation, AI-powered hacking tools as a serious internet flaw has given birth to “Black October.”",
+    "published": "2026-10-24T00:00:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "caed49989b675f3d7a",
+    "title": "「やれ」トランプ氏、司法省に提訴指示 共和党敗北なら選挙結果承認差し止め",
+    "url": "https://www.afpbb.com/articles/-/3659175",
+    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月24日 AFP】ドナルド・トランプ米大統領は23日、中間選挙のアラスカ州連邦議会上院選で共和党現職のダン・サリバン氏が敗北した場合、州による選挙結果の承認を差...",
+    "published": "2026-10-23T23:34:00Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 3
+  },
+  {
+    "id": "851b78240f9e30ba6f",
+    "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "summary": "HN points: 80 | comments: 29",
+    "published": "2026-10-23T23:30:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "7c2540a9d92ad344bf",
+    "title": "UK sets up AI lab to monitor biosecurity threats",
+    "url": "https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1",
+    "summary": "Move comes amid widespread fears that users could create new viruses and bioweapons",
+    "published": "2026-10-23T23:01:00Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "3ed74f17db3f89f2c4",
+    "title": "メラニア夫人、ウクライナ南部の部分停戦を仲介 米政権、29日開始と発表",
+    "url": "https://www.afpbb.com/articles/-/3659167",
+    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月24日 AFP】米ホワイトハウスは23日、ウクライナ南部ヘルソン州オレシュキでロシアとウクライナが一時的に軍事行動を停止することで合意したと発表した。メラニア...",
+    "published": "2026-10-23T22:09:50Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 7
+  },
+  {
+    "id": "1ceb3d96cb6a67ce49",
+    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+    "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, hand",
+    "published": "2026-10-23T22:03:07Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
     "id": "f2b05eba3cafc9fea4",
     "title": "CVE Tracker",
     "url": "https://cve.0xosprey.com/",
-    "summary": "HN points: 62 | comments: 8",
+    "summary": "HN points: 108 | comments: 39",
     "published": "2026-10-23T21:21:47Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 4
   },
   {
     "id": "083550b9628cf02f1b",
@@ -23,46 +127,46 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 2
   },
   {
     "id": "6a79ab3313877f94b4",
     "title": "No Source Code? No Problem",
     "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-    "summary": "HN points: 23 | comments: 14",
+    "summary": "HN points: 34 | comments: 30",
     "published": "2026-10-23T20:38:06Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 18
   },
   {
     "id": "aebba7bf7daf4655a7",
-    "title": "A whirlwind tour of systemd-nspawn containers",
+    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
     "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers",
-    "summary": "HN points: 21 | comments: 3",
+    "summary": "HN points: 34 | comments: 7",
     "published": "2026-10-23T20:37:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 19
   },
   {
-    "id": "1ceb3d96cb6a67ce49",
-    "title": "Embattled Susan Collins announces exemptions for Maine from Trump Canada tariffs",
-    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-    "summary": "Republican facing tough re-election battle in state where Trump’s trade war with neighbor has stirred outrage Susan Collins, the embattled Republican senator for Maine, announced that several industries crucial to her state would be exempte",
-    "published": "2026-10-23T20:07:52Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
+    "id": "45514cea1303c29967",
+    "title": "ロシアとウクライナ、一部地域限定で軍事行動の一時停止に合意…トランプ大統領のメラニア夫人が主導か",
+    "url": "https://www.yomiuri.co.jp/world/20261023-GYT1T00504",
+    "summary": "【読売新聞】 【ワシントン＝上村健太】米ホワイトハウスは２３日、ロシアとウクライナが、人道危機が深刻な状況にあるウクライナ南部ヘルソン州オレシュキで軍事行動を一時停止することで合意したと発表した。トランプ米大統領のメラニア夫人が主導",
+    "published": "2026-10-23T20:18:27Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
     "category": "finance",
-    "rank": null
+    "rank": 4
   },
   {
     "id": "e3f6306844c88d7d7d",
@@ -94,40 +198,40 @@
     "id": "1b5111045463c89d91",
     "title": "Securing our frontier model training environment",
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "summary": "HN points: 60 | comments: 68",
+    "summary": "HN points: 75 | comments: 93",
     "published": "2026-10-23T19:50:56Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 14
+    "rank": 20
   },
   {
     "id": "ea5f9b3d223a66c6e3",
     "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
     "url": "https://corgi.computer/",
-    "summary": "HN points: 8 | comments: 0",
+    "summary": "HN points: 38 | comments: 5",
     "published": "2026-10-23T19:46:38Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 11
   },
   {
     "id": "1cec0bd70a35beb4b5",
     "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
     "url": "https://rune.build/blog/rune-1-3-release",
-    "summary": "HN points: 28 | comments: 7",
+    "summary": "HN points: 40 | comments: 9",
     "published": "2026-10-23T19:42:01Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 17
   },
   {
     "id": "7c908f96d22c57739a",
@@ -146,14 +250,14 @@
     "id": "22292788bf58ebffc7",
     "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
     "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "summary": "HN points: 218 | comments: 99",
+    "summary": "HN points: 280 | comments: 149",
     "published": "2026-10-23T19:34:15Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 13
   },
   {
     "id": "d010fb1ecfe690cae3",
@@ -185,7 +289,7 @@
     "id": "cafa02f45bc5ea5a4d",
     "title": "Dessa: the most authentic full-duplex speech model ever built",
     "url": "https://block.xyz/dessa",
-    "summary": "HN points: 179 | comments: 72",
+    "summary": "HN points: 236 | comments: 99",
     "published": "2026-10-23T19:09:54Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -198,14 +302,14 @@
     "id": "0e991200c0b72cadae",
     "title": "DNS: A Replacement for Finger",
     "url": "https://altchan.org/sh/42",
-    "summary": "HN points: 16 | comments: 16",
+    "summary": "HN points: 24 | comments: 19",
     "published": "2026-10-23T19:00:04Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 21
   },
   {
     "id": "8b0d77f48025c98928",
@@ -263,14 +367,14 @@
     "id": "1f30a3ec480db6b6c8",
     "title": "Air Purifiers as White Noise Machines",
     "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-    "summary": "HN points: 44 | comments: 62",
+    "summary": "HN points: 64 | comments: 96",
     "published": "2026-10-23T17:28:36Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 15
   },
   {
     "id": "a77ec1d572fbc78910",
@@ -302,20 +406,20 @@
     "id": "a93d525884b7ba6773",
     "title": "Animations for System Builders",
     "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-    "summary": "HN points: 29 | comments: 3",
+    "summary": "HN points: 35 | comments: 3",
     "published": "2026-10-23T17:02:24Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 23
   },
   {
     "id": "8a5674337966e0fbf9",
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "summary": "HN points: 651 | comments: 411",
+    "summary": "HN points: 727 | comments: 459",
     "published": "2026-10-23T16:59:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -406,27 +510,27 @@
     "id": "d9ae6c2ee5cf23ea79",
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
     "url": "https://blog.calif.io/p/iphone",
-    "summary": "HN points: 700 | comments: 460",
+    "summary": "HN points: 748 | comments: 507",
     "published": "2026-10-23T16:21:50Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 6
   },
   {
     "id": "596f54f87d29ff2e69",
     "title": "Reforming English Spelling",
     "url": "https://blog.oup.com/2026/10/reforming-english-spelling",
-    "summary": "HN points: 15 | comments: 63",
+    "summary": "HN points: 26 | comments: 79",
     "published": "2026-10-23T15:56:06Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 22
+    "rank": 24
   },
   {
     "id": "e97e94dad65e5a4ea9",
@@ -440,6 +544,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "1e450f614a10510ced",
+    "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+    "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
+    "summary": "",
+    "published": "2026-10-23T15:52:59Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 4
   },
   {
     "id": "0964e2f2fa95b29441",
@@ -478,7 +595,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 3
   },
   {
     "id": "7e2309d1fab4e9a151",
@@ -608,7 +725,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 10
   },
   {
     "id": "de7870e01aa9853038",
@@ -621,7 +738,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 6
   },
   {
     "id": "99cf16bab55f720ac9",
@@ -637,6 +754,19 @@
     "rank": 1
   },
   {
+    "id": "a507f5a57300f2eb46",
+    "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562",
+    "summary": "対象の情報は、日本国内のパナソニックグループの従業員約7万5000人、元従業員約17万8000人と、その家族計約8万1000人。従業員と元従業員については社員番号、住所、電話番号、メールアドレスが含まれ、氏名は含まれていない。一方、家族については、緊急連絡先として登録された氏名、住所、電話番号、メールアドレスが...",
+    "published": "2026-10-23T12:57:07Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
+  },
+  {
     "id": "319e90a1f644652af5",
     "title": "pwn.watch · live security incidents",
     "url": "https://pwn.watch/",
@@ -647,7 +777,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 27
   },
   {
     "id": "0628c37ce75a9e4496",
@@ -679,14 +809,14 @@
     "id": "3b4fcd47dbe4e3222d",
     "title": "Apple Music 404 Not Found",
     "url": "https://music.apple.com/this-url-doesnt-exist",
-    "summary": "HN points: 501 | comments: 173",
+    "summary": "HN points: 596 | comments: 193",
     "published": "2026-10-23T12:28:47Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 3
   },
   {
     "id": "592f4ba27a96a09265",
@@ -725,7 +855,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "260ff23d3e8d45a3cb",
@@ -738,7 +868,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 27
+    "rank": 30
   },
   {
     "id": "5d9a80882660e7692f",
@@ -751,7 +881,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 25
   },
   {
     "id": "c3eed53e8bb966b21e",
@@ -764,7 +894,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 23
   },
   {
     "id": "5d1ffc51fafd1bdaa4",
@@ -777,7 +907,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 19
   },
   {
     "id": "3ce8ed2a6522ca3f21",
@@ -832,6 +962,19 @@
     "rank": null
   },
   {
+    "id": "c4effbf1c2c4121649",
+    "title": "外部生成AIサービスへの個人情報アップロードに関するお詫びとお知らせ - パナソニック ホールディングス",
+    "url": "https://holdings.panasonic/jp/information/topics/20261023.html",
+    "summary": "パナソニック オペレーショナルエクセレンス株式会社（以下、当社）は、子会社のパナソニック デジタル株式会社（以下、PD）と進める人事情報システム導入プロジェクトにおいて、プロジェクトメンバーが従業員、元従業員およびご家族の個人情報を含むデータを、当社が利用を禁止している外部の生成AIサービスにアップロ...",
+    "published": "2026-10-23T11:20:47Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 15
+  },
+  {
     "id": "2873780dc8ae224832",
     "title": "PHP脆弱性「サイト停止500件超」 ソフトバンクは緊急速報配信停止 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000",
@@ -842,7 +985,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 26
   },
   {
     "id": "9ecea0ff6b5581765f",
@@ -894,7 +1037,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 2
   },
   {
     "id": "297e667fc8056ef387",
@@ -907,7 +1050,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 5
   },
   {
     "id": "cf4b1e9061fafc96f3",
@@ -985,7 +1128,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 8
   },
   {
     "id": "5d6abbf63ac8c3573c",
@@ -1141,7 +1284,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 17
   },
   {
     "id": "45ca3e4d3a3fa3ec00",
@@ -1167,7 +1310,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 24
   },
   {
     "id": "99f0e573310bc491a2",
@@ -1180,7 +1323,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 18
   },
   {
     "id": "d79b3fce2e83ef2f2a",
@@ -1193,7 +1336,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 17
   },
   {
     "id": "524af2a43375e599e4",
@@ -1206,7 +1349,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 10
   },
   {
     "id": "6f6793dfacf3a05e06",
@@ -1219,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 13
   },
   {
     "id": "30fe8e9304906bda57",
@@ -1258,7 +1401,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 20
   },
   {
     "id": "7fd7224aba0705cf04",
@@ -1271,7 +1414,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 29
   },
   {
     "id": "c29d243c531483a380",
@@ -1284,7 +1427,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 22
   },
   {
     "id": "469991b7fdea5994c4",
@@ -1336,7 +1479,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 11
   },
   {
     "id": "11ec0a56a199582572",
@@ -1375,7 +1518,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 6
   },
   {
     "id": "7d393fe010ea84664a",
@@ -1388,7 +1531,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 28
   },
   {
     "id": "f8265a61ca34c727cf",
@@ -1446,7 +1589,7 @@
     "id": "40245316647c575817",
     "title": "Show HN: Swurf – Swipe through the real web",
     "url": "https://swurf.org/",
-    "summary": "HN points: 52 | comments: 26",
+    "summary": "HN points: 59 | comments: 29",
     "published": "2026-10-23T06:54:52Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -1466,7 +1609,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 19
   },
   {
     "id": "2dcbeb2e17c4b3b98b",
@@ -1479,7 +1622,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 7
   },
   {
     "id": "0af899d54a9a5188b4",
@@ -1505,7 +1648,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 12
   },
   {
     "id": "1a8cbd15d23e3ec832",
@@ -1531,7 +1674,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "54a68734db4022adfd",
@@ -1571,6 +1714,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "97c1e3bc2b4e3d2f69",
+    "title": "野村証券、法人向けサービス「i-Port」で情報漏洩か 「委託先に不正アクセス」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000",
+    "summary": "野村証券は23日、金融機関など法人向けの運用資産管理ツール「i-Port」を利用する顧客のメールアドレスなどが外部に漏洩した可能性があると発表した。メール配信を委託するユミルリンクへの不正アクセスが原因としている。漏洩件数は調査中として明らかにしていない。対象となった金融機関などの顧客には個別に知らせる...",
+    "published": "2026-10-23T05:58:09Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
   },
   {
     "id": "5600aaf8a598697301",
@@ -1635,7 +1791,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 9
   },
   {
     "id": "e6023c769f8225bfef",
@@ -1648,7 +1804,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 25
   },
   {
     "id": "c634fbce28cba37614",
@@ -1716,6 +1872,19 @@
     "rank": 24
   },
   {
+    "id": "787a919395be997e5d",
+    "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
+    "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
+    "summary": "",
+    "published": "2026-10-23T04:46:55Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
+  },
+  {
     "id": "95c687051f5dd51a33",
     "title": "PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪",
     "url": "https://gigazine.net/news/20261023-php-rce-unknowingly",
@@ -1739,7 +1908,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 15
   },
   {
     "id": "392a88848288c6078e",
@@ -1843,7 +2012,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 23
+  },
+  {
+    "id": "b95dcb3603d308b47c",
+    "title": "Fixing Critical Node & PHP Flaws | Devin",
+    "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
+    "summary": "Cognition|October 22, 2026|11 min read|Copy link On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affect",
+    "published": "2026-10-23T03:28:59Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 9
   },
   {
     "id": "1b04f93d607f1c478b",
@@ -1856,7 +2038,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 24
   },
   {
     "id": "608401e76e447f11a7",
@@ -1908,7 +2090,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 14
   },
   {
     "id": "e4de34b6c7d85f8856",
@@ -1921,7 +2103,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 16
   },
   {
     "id": "c55b6d90dbe7abd27a",
@@ -1960,7 +2142,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 27
   },
   {
     "id": "21972153121688e5b9",
@@ -2038,7 +2220,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 18
   },
   {
     "id": "22418b8f48a04b17e4",
@@ -2064,7 +2246,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 12
   },
   {
     "id": "fdd3a5f6ca59b9a789",
@@ -2077,7 +2259,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 11
   },
   {
     "id": "fbbe0f0a50f517844e",
@@ -2233,7 +2415,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 29
   },
   {
     "id": "97766300d875cc25fb",
@@ -2246,7 +2428,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 28
   },
   {
     "id": "83e5f38a20f4c68416",
@@ -2291,14 +2473,14 @@
     "id": "8e2c946ca7d1728064",
     "title": "Show HN: Impossible Machines: declaratively program the physical world",
     "url": "https://www.impossiblemachines.xyz/",
-    "summary": "HN points: 53 | comments: 16",
+    "summary": "HN points: 67 | comments: 17",
     "published": "2026-10-22T23:54:28Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 19
+    "rank": 22
   },
   {
     "id": "e590f3035e5ae7e6d7",
@@ -2421,14 +2603,14 @@
     "id": "67ddf214cf58d7cd2c",
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "url": "https://edjefferson.com/localwiki",
-    "summary": "HN points: 1193 | comments: 223",
+    "summary": "HN points: 1248 | comments: 225",
     "published": "2026-10-22T23:01:18Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 7
   },
   {
     "id": "37e5c6c2d007e5f0a7",
@@ -2447,14 +2629,14 @@
     "id": "c50076535bbde8a528",
     "title": "Canadians are running out of time to oppose Bill C-22",
     "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-    "summary": "HN points: 288 | comments: 146",
+    "summary": "HN points: 334 | comments: 167",
     "published": "2026-10-22T22:43:19Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 9
   },
   {
     "id": "972623903430e7004a",
@@ -2480,7 +2662,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 30
   },
   {
     "id": "73403cab57cd7d5b0a",
@@ -3182,7 +3364,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 21
   },
   {
     "id": "acbc66e3cd81d273b1",
@@ -3767,7 +3949,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 26
   },
   {
     "id": "4a5823c275b790b04c",
@@ -3884,7 +4066,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 21
   },
   {
     "id": "99471b87cfcd02aa70",
@@ -4482,7 +4664,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 20
   },
   {
     "id": "cb90816eb6ba6e1250",
@@ -4768,7 +4950,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 22
   },
   {
     "id": "e5b396a022adb94bc4",
@@ -7426,14 +7608,14 @@
     "id": "3cb74e106b75d47408",
     "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
     "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-    "summary": "HN points: 11 | comments: 3",
+    "summary": "HN points: 29 | comments: 8",
     "published": "2026-10-21T08:17:35Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 14
   },
   {
     "id": "a6b9e706ea53c83a50",
@@ -7668,6 +7850,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 25
+  },
+  {
+    "id": "ab1ea5c77442c75e9f",
+    "title": "C vs. C#: racing VLC's Gaussian blur",
+    "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp",
+    "summary": "HN points: 9 | comments: 0",
+    "published": "2026-10-21T05:48:12Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 12
   },
   {
     "id": "39cc45e148384d43be",
@@ -8775,6 +8970,19 @@
     "rank": 16
   },
   {
+    "id": "db36570fd6f2a56402",
+    "title": "Bringing uv and ty together",
+    "url": "https://astral.sh/blog/uv-ty-integration",
+    "summary": "HN points: 19 | comments: 9",
+    "published": "2026-10-20T21:30:56Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 10
+  },
+  {
     "id": "8f0344d7c362bfe443",
     "title": "Joel Kaplan to step down as Meta global affairs chief",
     "url": "https://www.ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1",
@@ -8887,214 +9095,6 @@
     "source": "FT · Technology",
     "source_type": "publisher",
     "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "dfb23b54db614229ed",
-    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "url": "https://news-web.php.net/php.announce/509",
-    "summary": "HN points: 1337 | comments: 555",
-    "published": "2026-10-20T20:15:50Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 9
-  },
-  {
-    "id": "393daa06d2b1f64b9f",
-    "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
-    "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
-    "summary": "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interview Scott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequa",
-    "published": "2026-10-20T20:06:31Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "26862eb76b3e9929be",
-    "title": "Opinion | Did We Ever Get to Choose Our Technology?",
-    "url": "https://www.wsj.com/opinion/did-we-ever-get-to-choose-our-technology-2a9aee2d?mod=rss_Technology",
-    "summary": "Had our government not continued developing nuclear weapons we would probably be using a Cyrillic alphabet today.",
-    "published": "2026-10-20T19:45:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "eea4751a3c5bffa8ee",
-    "title": "eMudhra Intermediate CA Compromise",
-    "url": "https://emudhra.we-have-a-problem.com/",
-    "summary": "20th October 2026 The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. How do we kno",
-    "published": "2026-10-20T19:33:22Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 23
-  },
-  {
-    "id": "0e917a2f826f16411c",
-    "title": "Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs",
-    "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?mod=rss_Technology",
-    "summary": "In a new draft prospectus viewed by the Journal, the AI giant disclosed an $80.7 billion net loss for the first half of 2026 and a long list of risk factors.",
-    "published": "2026-10-20T19:30:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "bf5f78722a885d9454",
-    "title": "不正アクセスによる情報漏洩に関するお詫びとご報告",
-    "url": "https://pingcap.co.jp/trust-hub/security/security-update-october-2026",
-    "summary": "2026年9月9日から10月7日（米国時間、以下同じ）にかけて、第三者が不正取得したアカウントの認証情報を使用し、PingCAPの社内システムへのアクセス、データの複製を取得し、日本国内で最大約5万件の個人情報が漏洩したことが判明しました。PingCAPは10月7日に本インシデントを認識し、同日中に影響を受けた認証情報の無...",
-    "published": "2026-10-20T19:16:45Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "34a6e0ba7dd2df9821",
-    "title": "Americans, this is your chance to slap down the tech broligarchs",
-    "url": "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
-    "summary": "The midterms will be a referendum on the GOP’s alignment with tech overlords over the public they’re meant to serve Welcome back to How We Win, a Guardian opinion series with leading thinkers, offering bold ideas for America’s political fut",
-    "published": "2026-10-20T19:16:05Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "06ec3a9318bb964292",
-    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia",
-    "summary": "HN points: 135 | comments: 70",
-    "published": "2026-10-20T18:51:40Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 7
-  },
-  {
-    "id": "d657deda3d56779049",
-    "title": "Show HN: SimCity, but with Permits",
-    "url": "https://permit.petercai.com/",
-    "summary": "HN points: 856 | comments: 392",
-    "published": "2026-10-20T18:29:09Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 13
-  },
-  {
-    "id": "4ff2c3a305ce0533bf",
-    "title": "Announcing TypeScript 7.1 Beta - TypeScript",
-    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta",
-    "summary": "Today we’re excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let’s take a look at what’s new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are a",
-    "published": "2026-10-20T18:25:26Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "33465371135d5a230a",
-    "title": "What shall I teach my son?",
-    "url": "https://stevekrouse.com/ends",
-    "summary": "HN points: 369 | comments: 440",
-    "published": "2026-10-20T17:25:07Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "a5f1e7bc75b59a912d",
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "url": "https://research.poh.org/bot-benchmarking-2026",
-    "summary": "HN points: 28 | comments: 0",
-    "published": "2026-10-20T17:10:31Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 18
-  },
-  {
-    "id": "83a2bc1f9ca63c2c54",
-    "title": "The Real Kevin Bacon",
-    "url": "https://pudding.cool/2026/10/kevin-bacon",
-    "summary": "HN points: 214 | comments: 65",
-    "published": "2026-10-20T17:10:05Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 7
-  },
-  {
-    "id": "03fce4bfc49be7c6d7",
-    "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
-    "summary": "Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts say It happened again. A power outage hit a datacentre in London , and things cascaded from there: multiple banki",
-    "published": "2026-10-20T16:50:31Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "212e84cc691b8c3658",
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "summary": "HN points: 327 | comments: 74",
-    "published": "2026-10-20T16:40:24Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 18
-  },
-  {
-    "id": "20c973927f743b7b37",
-    "title": "Opinion | The Ukraine ‘Kill Zone’ Is AI’s Testing Ground",
-    "url": "https://www.wsj.com/opinion/the-ukraine-kill-zone-is-ais-testing-ground-982701c9?mod=rss_Technology",
-    "summary": "Artificial intelligence is transforming war in real time by analyzing data and automating weapons.",
-    "published": "2026-10-20T16:36:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
     "language": "en",
     "category": "tech",
     "rank": null
