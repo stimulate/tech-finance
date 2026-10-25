@@ -1,10 +1,23 @@
 [
   {
-    "id": "47bdf8ab57d1547e45",
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "url": "https://talkweb.eu/openweb/4558",
-    "summary": "HN points: 41 | comments: 1",
-    "published": "2026-10-25T17:30:55Z",
+    "id": "dcbcd10de814119f9f",
+    "title": "What goes into making an animated film?",
+    "url": "https://www.disneyanimation.com/process",
+    "summary": "HN points: 10 | comments: 3",
+    "published": "2026-10-25T20:27:09Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "2f1a8a2d9033f379eb",
+    "title": "Eunice is almost here",
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "summary": "HN points: 26 | comments: 21",
+    "published": "2026-10-25T19:40:27Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
@@ -13,17 +26,134 @@
     "rank": 2
   },
   {
-    "id": "c7106033b784a64248",
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "summary": "HN points: 18 | comments: 0",
-    "published": "2026-10-25T17:15:38Z",
+    "id": "4d985e01bf8f3aa3df",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42",
+    "summary": "HN points: 69 | comments: 11",
+    "published": "2026-10-25T19:29:16Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 19
+  },
+  {
+    "id": "8c4086b09ea89bbaad",
+    "title": "Why I Am a Programmer",
+    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "summary": "HN points: 26 | comments: 5",
+    "published": "2026-10-25T19:11:31Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
+    "id": "22cc8a3ed259968dae",
+    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+    "summary": "HN points: 15 | comments: 0",
+    "published": "2026-10-25T19:10:36Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "ab535a6b2c0632a9ba",
+    "title": "Opinion | ‘Effective Altruism’ Is Another Term for Media Bias",
+    "url": "https://www.wsj.com/opinion/effective-altruism-is-another-term-for-media-bias-c0b77469?mod=rss_Technology",
+    "summary": "The movement is now backing fellowships that train journalists to cover ‘AI safety.’",
+    "published": "2026-10-25T18:58:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "9430967060af64670d",
+    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+    "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing artificial intelligence ( AI ) company Anthropic for allegedly using",
+    "published": "2026-10-25T18:25:59Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "902f41bc77f63ca569",
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "summary": "HN points: 198 | comments: 31",
+    "published": "2026-10-25T18:23:54Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
     "rank": 1
+  },
+  {
+    "id": "cadb32c2105fe06ee5",
+    "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+    "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+    "summary": "HN points: 50 | comments: 11",
+    "published": "2026-10-25T18:11:38Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 20
+  },
+  {
+    "id": "b8431c3be523397041",
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee",
+    "summary": "HN points: 230 | comments: 53",
+    "published": "2026-10-25T18:04:11Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "47bdf8ab57d1547e45",
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558",
+    "summary": "HN points: 270 | comments: 131",
+    "published": "2026-10-25T17:30:55Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 6
+  },
+  {
+    "id": "c7106033b784a64248",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "summary": "HN points: 289 | comments: 143",
+    "published": "2026-10-25T17:15:38Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
   },
   {
     "id": "805735ac563b2f2087",
@@ -37,6 +167,19 @@
     "language": "en",
     "category": "tech",
     "rank": 5
+  },
+  {
+    "id": "398ddfde51952d63f9",
+    "title": "UTS #39: Unicode Security Mechanisms",
+    "url": "https://unicode.org/reports/tr39",
+    "summary": "HN points: 18 | comments: 0",
+    "published": "2026-10-25T16:40:37Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 17
   },
   {
     "id": "729e934d438e2e78a9",
@@ -68,14 +211,27 @@
     "id": "ea4190b678fb6b1858",
     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
     "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "summary": "HN points: 35 | comments: 51",
+    "summary": "HN points: 143 | comments: 227",
     "published": "2026-10-25T16:28:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 15
+  },
+  {
+    "id": "4e90f5fc643ae27434",
+    "title": "JetBrains Thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "summary": "HN points: 101 | comments: 59",
+    "published": "2026-10-25T16:27:12Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 9
   },
   {
     "id": "032fdcf3fe487475a4",
@@ -94,14 +250,14 @@
     "id": "dc693c50e92208ac79",
     "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
     "url": "https://bigwhalehunting.com/workforce",
-    "summary": "HN points: 125 | comments: 38",
+    "summary": "HN points: 154 | comments: 46",
     "published": "2026-10-25T15:05:39Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 24
   },
   {
     "id": "2546f1d0499b52537c",
@@ -140,7 +296,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 9
   },
   {
     "id": "bfa4acc006c8b8fc92",
@@ -185,14 +341,14 @@
     "id": "6ccd418ab4835806fb",
     "title": "Active incident at Dreamhost forcing password reset",
     "url": "https://www.dreamhoststatus.com/",
-    "summary": "HN points: 23 | comments: 8",
+    "summary": "HN points: 78 | comments: 30",
     "published": "2026-10-25T13:09:16Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 14
   },
   {
     "id": "df6bea3e2de7da28d5",
@@ -244,20 +400,33 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 16
+  },
+  {
+    "id": "92c600131237d6443e",
+    "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
+    "url": "https://note.com/npaka/n/na5ad6472d68c",
+    "summary": "1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報...",
+    "published": "2026-10-25T12:07:57Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
   },
   {
     "id": "27d6a3aec777f35c54",
     "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
     "url": "https://github.com/ihhub/fheroes2",
-    "summary": "HN points: 170 | comments: 57",
+    "summary": "HN points: 185 | comments: 65",
     "published": "2026-10-25T11:09:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 23
   },
   {
     "id": "ee3f6499c79dca3347",
@@ -296,7 +465,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 12
+  },
+  {
+    "id": "c287078a8438031c85",
+    "title": "高市内閣支持率、横ばい62% 簗前農相の辞任「首相対応に問題」48% - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA217630R21C26A0000000",
+    "summary": "日本経済新聞社とテレビ東京は23~25日に世論調査をした。高市早苗内閣の支持率は62%と9月の前回調査から横ばいだった。不支持は31%で2ポイント低下した。簗和生氏の農相辞任に関して首相の対応に「問題があったと思う」は48%だった。内閣を「支持する」と答えたのは自民党支持層で89%と前回からほぼ横ばいだった。野党支...",
+    "published": "2026-10-25T10:04:54Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 4
   },
   {
     "id": "833e6869f0ab1c1cda",
@@ -348,7 +530,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 10
   },
   {
     "id": "f4c676f8d528836e2e",
@@ -439,7 +621,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "9bf53487786835745d",
@@ -478,7 +660,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 26
+    "rank": 27
   },
   {
     "id": "9963e4a3dd9be964c7",
@@ -517,7 +699,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 20
   },
   {
     "id": "1d0a6da78e29f01877",
@@ -569,7 +751,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 6
   },
   {
     "id": "2e86348ff5a0b7bfbd",
@@ -595,7 +777,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 17
   },
   {
     "id": "dccd8d492a83b54b1a",
@@ -621,7 +803,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 14
   },
   {
     "id": "983a3727181e8b4c6a",
@@ -660,7 +842,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "808eb00d9be53d6b91",
@@ -751,7 +933,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 8
   },
   {
     "id": "54f573d6a0656ce846",
@@ -764,20 +946,33 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 9
   },
   {
     "id": "0443a5db6f38b7e1c6",
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "summary": "HN points: 308 | comments: 109",
+    "summary": "HN points: 338 | comments: 121",
     "published": "2026-10-25T01:33:49Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 18
+  },
+  {
+    "id": "27760ea381b6b62937",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "summary": "HN points: 20 | comments: 7",
+    "published": "2026-10-25T01:30:13Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 13
   },
   {
     "id": "798d83c7686b681783",
@@ -794,7 +989,7 @@
   },
   {
     "id": "042073ebea272590e6",
-    "title": "めっちゃいい人ばっかの会社で給料も申し分ない何も言う事のない会社に転職出来たはいいけど、有給制度無いよって言われて言われた",
+    "title": "めっちゃいい人ばっかの会社で給料も申し分ない何も言う事のない会社に転職出来たはいいけど、有給制度無いよって言われた",
     "url": "https://togetter.com/li/2762519",
     "summary": "むぅ＿炭酸水爆発バックアタック @m_m_m_0921 めっちゃいい人ばっかの会社で給料も申し分ない何も言う事のない会社に転職出来たはいいけど、有給制度無いよって言われて言われたんだが これってアウト案件だよね....? 2026-10-24 20:50:39 梢@ﾓﾊﾞｴﾑくんがいつまでも実家だよ @aqua_mrine @m_m_m_0921 労働基準法 第四章 ...",
     "published": "2026-10-25T01:28:16Z",
@@ -803,7 +998,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 12
   },
   {
     "id": "2ecdedf8649e72bbfc",
@@ -829,7 +1024,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "e3b36a6042841efb5a",
@@ -842,7 +1037,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 7
   },
   {
     "id": "0895920bc6b7a73fbd",
@@ -855,7 +1050,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 10
   },
   {
     "id": "5c54b8ffd586b5394d",
@@ -933,7 +1128,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 11
   },
   {
     "id": "44a50a3af6c2367a6e",
@@ -952,14 +1147,14 @@
     "id": "5fdd409a2289565230",
     "title": "We should be more ambitious with the software we build",
     "url": "https://danluu.com/ambitious",
-    "summary": "HN points: 633 | comments: 610",
+    "summary": "HN points: 709 | comments: 653",
     "published": "2026-10-24T21:47:31Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 12
   },
   {
     "id": "7530ef8f6a2b6042a3",
@@ -1011,7 +1206,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 18
   },
   {
     "id": "feae1b770b8f615b67",
@@ -1024,7 +1219,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 23
   },
   {
     "id": "59e4262ea5ff772087",
@@ -1082,14 +1277,14 @@
     "id": "578a644ed8a3be073c",
     "title": "The Goose Programming Language",
     "url": "https://aardappel.github.io/goose",
-    "summary": "HN points: 524 | comments: 323",
+    "summary": "HN points: 546 | comments: 341",
     "published": "2026-10-24T19:06:55Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 22
   },
   {
     "id": "7e348cc878575e1695",
@@ -1167,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 15
   },
   {
     "id": "181bdd329c3884dc58",
@@ -1186,14 +1381,14 @@
     "id": "b53dc4bc97f16eba65",
     "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
     "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-    "summary": "HN points: 14 | comments: 1",
+    "summary": "HN points: 34 | comments: 9",
     "published": "2026-10-24T17:42:08Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 11
   },
   {
     "id": "15d77a424d34a0135b",
@@ -1375,7 +1570,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 23
   },
   {
     "id": "d10dca1fce7ac2a742",
@@ -1401,7 +1596,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 5
   },
   {
     "id": "698664eb4758fdd5ff",
@@ -1427,7 +1622,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 14
   },
   {
     "id": "b1dd4be4065750e19b",
@@ -1466,7 +1661,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 21
   },
   {
     "id": "88bc4c38bda3b03a97",
@@ -1505,7 +1700,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "ac92e54e4c57d66328",
@@ -1531,7 +1726,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 16
   },
   {
     "id": "425e3c040687bc84f7",
@@ -1609,7 +1804,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 20
   },
   {
     "id": "b2dc169ffa6290bd8f",
@@ -1622,7 +1817,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "a9fe9a139346d488dd",
@@ -1713,7 +1908,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 25
   },
   {
     "id": "8bfd2ba4d3c4185ff5",
@@ -1856,7 +2051,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 24
   },
   {
     "id": "66fb6a2bb54e729935",
@@ -1895,7 +2090,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 28
+    "rank": 29
   },
   {
     "id": "06fa163150e7dc38ac",
@@ -1977,16 +2172,16 @@
   },
   {
     "id": "be8d2183a888f88d9c",
-    "title": "Samsung TV privacy issues",
+    "title": "Root shell on Samsung TV",
     "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-    "summary": "HN points: 600 | comments: 483",
+    "summary": "HN points: 687 | comments: 535",
     "published": "2026-10-24T05:49:57Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 21
   },
   {
     "id": "dc21492845d9055130",
@@ -2077,7 +2272,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 8
   },
   {
     "id": "f2f97e0485b371dd0d",
@@ -2103,7 +2298,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 27
+    "rank": 28
   },
   {
     "id": "11b5421ec7255b6d17",
@@ -2129,7 +2324,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 27
   },
   {
     "id": "635a3ddbc1dc8a6180",
@@ -2376,7 +2571,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 27
+    "rank": 30
   },
   {
     "id": "d84c8c543537886af8",
@@ -2441,7 +2636,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 24
   },
   {
     "id": "d73e9cf79d73cded86",
@@ -2545,7 +2740,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 29
+    "rank": 30
   },
   {
     "id": "11205ae0cc8d09d368",
@@ -2740,7 +2935,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 25
   },
   {
     "id": "7c2540a9d92ad344bf",
@@ -3455,7 +3650,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 18
   },
   {
     "id": "6b55d7b00ea2a9b8aa",
@@ -6539,6 +6734,19 @@
     "rank": 15
   },
   {
+    "id": "072b4eda765ada601f",
+    "title": "The U.S. Power Grid",
+    "url": "https://nomagicpill.site/knowledge/powergrid.html",
+    "summary": "HN points: 18 | comments: 5",
+    "published": "2026-10-22T15:20:04Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 10
+  },
+  {
     "id": "f65cab15d3bc21ed4b",
     "title": "【速報】中国政府系がAIで攻撃、MSが発表",
     "url": "https://www.47news.jp/15123221.html",
@@ -6693,6 +6901,19 @@
     "language": "en",
     "category": "tech",
     "rank": 21
+  },
+  {
+    "id": "af32c3aa1ce558932e",
+    "title": "Recreate the Apollo Guidance Computer",
+    "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer",
+    "summary": "HN points: 29 | comments: 1",
+    "published": "2026-10-22T14:21:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "19d5a23b34a0fec1dd",
@@ -7309,14 +7530,14 @@
     "id": "7b39de0fa33d2caa5e",
     "title": "How Japanese Dried Bonito Is Made",
     "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-    "summary": "HN points: 154 | comments: 41",
+    "summary": "HN points: 173 | comments: 47",
     "published": "2026-10-22T11:31:03Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 25
   },
   {
     "id": "251323d1a3d3319a8d",
@@ -8877,226 +9098,5 @@
     "language": "ja",
     "category": "finance",
     "rank": 22
-  },
-  {
-    "id": "e93143333f0ae1f6ec",
-    "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-    "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
-    "summary": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in ",
-    "published": "2026-10-21T23:33:34Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "768aae5bf654deeea8",
-    "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
-    "summary": "",
-    "published": "2026-10-21T23:31:06Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 6
-  },
-  {
-    "id": "de5e48ad4338cf1950",
-    "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-    "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-    "summary": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
-    "published": "2026-10-21T23:30:29Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "0f79a4b5342f4596f4",
-    "title": "Κ = 0.003 for integer multiplication crossed",
-    "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
-    "summary": "HN points: 11 | comments: 3",
-    "published": "2026-10-21T23:22:21Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 23
-  },
-  {
-    "id": "f00a8de319be665cb0",
-    "title": "ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]",
-    "url": "https://pc.watch.impress.co.jp/docs/topic/special/2147630.html",
-    "summary": "",
-    "published": "2026-10-21T23:20:55Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 18
-  },
-  {
-    "id": "1fa49eff9c1aaf85dc",
-    "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
-    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
-    "summary": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
-    "published": "2026-10-21T23:20:30Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "fcbaf85f2621ca076d",
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "url": "https://eliastaylor.com/noexploit",
-    "summary": "HN points: 335 | comments: 156",
-    "published": "2026-10-21T23:13:27Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 2
-  },
-  {
-    "id": "b04071134dff1bbd9c",
-    "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-    "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-    "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate Investors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday aftern",
-    "published": "2026-10-21T23:03:16Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "465245b9daf41c35c7",
-    "title": "ロシア、日本を非難 記者をスパイ活動に利用と主張",
-    "url": "https://www.afpbb.com/articles/-/3658772",
-    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月22日 AFP】ロシアは21日、日本がスパイ活動のために記者を広く利用していると非難した。 ロシア当局は先週、北海道新聞の今井裕紀記者を逮捕したと発表した。今井...",
-    "published": "2026-10-21T22:56:00Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 30
-  },
-  {
-    "id": "f92fc88ad34750f314",
-    "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOGN21C340R21C26A0000000",
-    "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】世界のウェブサイトの7割に使われている開発言語「PHP」に深刻な脆弱性が見つかり、各国が対応に追われている。サイトを一時停止する企業もある。人工知能（AI）によるサイバー攻撃の脅威が高まる中、米当局はソフト更新を急ぐよう呼びかけた。PHPはウェブサイトを動か...",
-    "published": "2026-10-21T22:44:13Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "9d6ce352eb00ba55a2",
-    "title": "Postgres recovery_prefetch can cause outages",
-    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages",
-    "summary": "HN points: 32 | comments: 0",
-    "published": "2026-10-21T22:33:08Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "cda3ecf647577c83ec",
-    "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
-    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483",
-    "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
-    "published": "2026-10-21T22:16:49Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "1999df7f78a79951b0",
-    "title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
-    "url": "https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life",
-    "summary": "2010年にメキシコ湾で起きたディープウォーター・ホライズン原油流出事故から16年が経過した2026年10月19日、アメリカのノバ・サウスイースタン大学などの研究チームが深海生物の個体数に関する研究結果を発表しました。2011～2023年の調査データを分析したところ、調査が終了した2023年になっても個体数は2011年初めの...",
-    "published": "2026-10-21T22:09:53Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 27
-  },
-  {
-    "id": "c5cbd4b355d587556b",
-    "title": "AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
-    "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?mod=rss_Technology",
-    "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
-    "published": "2026-10-21T22:05:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "f1d21c9fd9cdd487cb",
-    "title": "Security Disclosure",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "summary": "HN points: 544 | comments: 316",
-    "published": "2026-10-21T21:58:03Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 15
-  },
-  {
-    "id": "687faa021ce945cbe7",
-    "title": "FirstFT: Scott Bessent shrugs off ‘systemic’ AI risks at private event with investors",
-    "url": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
-    "summary": "Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery makers race to invest abroad",
-    "published": "2026-10-21T21:42:48Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "28d389ee749930b9a7",
-    "title": "本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2150099.html",
-    "summary": "",
-    "published": "2026-10-21T21:42:08Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 11
   }
 ]
