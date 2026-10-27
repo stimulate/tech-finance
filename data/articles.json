@@ -1,5 +1,408 @@
 [
   {
+    "id": "5ba53be27d2576c577",
+    "title": "Anthropic’s big financial reveal",
+    "url": "https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1",
+    "summary": "Here are the big takeaways from the start-up’s IPO prospectus",
+    "published": "2026-10-27T05:00:29Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "7739ebab06c15daf3b",
+    "title": "Ex-Merseyside policeman lands $400mn valuation for new AI venture",
+    "url": "https://www.ft.com/content/65a113b4-2a45-49cf-9e68-93f42151166e?syn-25a6b1a6=1",
+    "summary": "Steven Richardson has raised funds from investors including Sequoia for company providing tools for police forces",
+    "published": "2026-10-27T05:00:18Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "64f57d0858ebeea9ed",
+    "title": "How long can lawyers keep squeezing their clients?",
+    "url": "https://www.ft.com/content/cf954c9f-48dc-4e30-a03a-6fb2ec4dafa6?syn-25a6b1a6=1",
+    "summary": "Possibly longer than one may think",
+    "published": "2026-10-27T05:00:18Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "6d5f26a054faef037c",
+    "title": "Slough has become the data centre capital of Europe. Now it wants its reward",
+    "url": "https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786?syn-25a6b1a6=1",
+    "summary": "TKTKTKTKTK",
+    "published": "2026-10-27T05:00:09Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "df4ff03a0b14cb6b26",
+    "title": "What does human inquiry even mean anymore?",
+    "url": "https://www.ft.com/content/064d657d-1808-4287-a6ae-7f2d34c79ec3",
+    "summary": "Universities and other knowledge-based institutions will need to be radically redesigned in the age of AI",
+    "published": "2026-10-27T05:00:09Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "6f9052e9e36e09688d",
+    "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+    "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+    "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the f",
+    "published": "2026-10-27T04:42:50Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "4ed5391a70b17419c0",
+    "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+    "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model",
+    "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://coh...",
+    "published": "2026-10-27T04:07:06Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 12
+  },
+  {
+    "id": "d3a86b8cf9f356fff0",
+    "title": "GMO デスクトップクラウドへのサイバー攻撃でハッカーが個人情報の公開開始を宣言-10月27日正午に個人名を掲げたページを新設|セキュリティニュースのセキュリティ対策Lab",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_desktop_cloud_personal_data_publication_claim_20261027",
+    "summary": "GMOインターネットが提供する「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者を名乗る者は2026年10月27日正午付の新声明で、取得したとする個人情報の公開を開始すると宣言しました。声明には「被害者 第1号」と題し、個人名を掲げたページへのリンクが追加されています。さらに、分析を終えた情報...",
+    "published": "2026-10-27T04:05:39Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 23
+  },
+  {
+    "id": "96c52982683195ee98",
+    "title": "偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2151376.html",
+    "summary": "",
+    "published": "2026-10-27T03:50:05Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
+  },
+  {
+    "id": "db59d44e2af1cdc0d7",
+    "title": "「若手はAI使うな」は“老害”なのか？ 新人教育で「AI禁止」した企業の1年後",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002585",
+    "summary": "「新人にはAIを使ってほしくない。入社後は議事録作りやメール作成、スライド資料作りを通して仕事の文脈を理解するもの。最初からAIに頼って楽をしては身に付かない」──これは、記者が参加した集まりで、とある40代男性の会社員・Mさんがこぼした愚痴だ。Mさんは最近、若手・新入社員の育成を受け持っているが、AIを使...",
+    "published": "2026-10-27T03:48:57Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 17
+  },
+  {
+    "id": "bfc8617b97c8b76cbd",
+    "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ 高市首相がサイバー閣僚会議の初会合で指示",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002620",
+    "summary": "政府は10月26日、「サイバーセキュリティに関する関係閣僚会議」の初会合を首相官邸で開いた。高市早苗首相は「我が国の企業などに対する相次ぐサイバー攻撃によって、大規模な情報漏えい被害などが多数、生じています」として、来週中をめどに政府の「緊急対策パッケージ」を取りまとめる方針を表明。各大臣に対し、財...",
+    "published": "2026-10-27T03:20:55Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 30
+  },
+  {
+    "id": "06ae4f6d3806fcc054",
+    "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に 7000人以上で実験",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "published": "2026-10-27T03:16:04Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 22
+  },
+  {
+    "id": "37e4f2a6de1de8159b",
+    "title": "GMO、PCのバックアップと電源オフ呼びかけ VPS利用者に きょう正午の攻撃予告受け",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002616",
+    "summary": "GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、利用者に対し、同日正午までにPCのデータをバックアップした上で、電源を切るよう呼び掛けた。攻撃者とみられる人物から、同時刻に顧客情報の公開とランサムウェア...",
+    "published": "2026-10-27T02:35:00Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
+  },
+  {
+    "id": "3cb0b70bf030c50bae",
+    "title": "米大統領執務室でトランプ氏に対し祈る動画が公開、カトリックの司教らが謝罪",
+    "url": "https://www.cnn.co.jp/usa/35254011.html",
+    "summary": "ホワイトハウスの大統領執務室で、司教らがトランプ氏のために祈る動画が公開された/Samuel Corum/Getty Images （CNN） 米カトリック教会の司教2人が、他の聖職者10人とともにホワイトハウスの大統領執務室（オーバルオフィス）でトランプ大統領と面会したことについて、後悔の念を表明した。自分たちは「利用された」...",
+    "published": "2026-10-27T02:34:57Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 9
+  },
+  {
+    "id": "1076413c3cde9f9352",
+    "title": "NECのルータ「Aterm」、PHP脆弱性の影響なし 設定画面URLの「.php」は無関係",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002614",
+    "summary": "NECのWi-Fiルータ・モバイルルータ「Aterm」の情報サイトは10月26日、22に公表されたPHPの脆弱性（CVE-2026-109618、CVE-2026-109619）について、Aterm製品・サービスは影響を受けないことを確認したと発表した。 Atermシリーズの一部機種では、設定画面「クイック設定Web」のURLに「/index.php」と表示される場合がある...",
+    "published": "2026-10-27T02:29:08Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
+    "id": "f2156f43447820d4ce",
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "summary": "HN points: 15 | comments: 9",
+    "published": "2026-10-27T02:15:10Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 12
+  },
+  {
+    "id": "6e7f3c02f5a19910da",
+    "title": "GMO「PC電源を切って」 正午の攻撃予告前に セキュリティー会社から協力申し出も（テレビ朝日系（ANN）） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1fa990bde6be68596b35b779cbc8843279c01012",
+    "summary": "GMOインターネットグループは27日、同日正午に攻撃が予告されているとして利用者にパソコンの電源を切るよう呼びかけました。 【動画】セキュリティーの改善遅れる GMO社長「隙を突かれた」 GMOは攻撃者とみられる者から、27日正午に顧客の情報を公開し、ランサムウェア攻撃を行うと予告されています。 テレ朝NEWSこれ...",
+    "published": "2026-10-27T02:12:47Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 25
+  },
+  {
+    "id": "3ba10c3583d001bc56",
+    "title": "WordPressからはてなCMSへの移行｜記事・画像・URLを引き継ぎ - はてなCMS｜ノーコードで誰でもカンタン！",
+    "url": "https://www.hatena.ne.jp/cms/wordpress-migration",
+    "summary": "WordPressから はてなCMSへの移行 サイトの資産はそのままに、運用負担を軽くする。 記事も画像もURLも引き継いで、現場にとって使いやすく安心できるSaaS型CMSへ。 はてなCMSなら、移行は4ステップで進められます。",
+    "published": "2026-10-27T02:00:09Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 24
+  },
+  {
+    "id": "5b4508f46328068330",
+    "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
+    "url": "https://iret.media/210349",
+    "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
+    "published": "2026-10-27T01:28:51Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "465742cc7fae336302",
+    "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+    "url": "https://group.gmo/info/alert/20261027",
+    "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 ※2026年10月27日（火）10:56、本文...",
+    "published": "2026-10-27T01:26:24Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "fc6d73dd703d2a53f9",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "summary": "HN points: 56 | comments: 3",
+    "published": "2026-10-27T01:15:04Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
+    "id": "ececf3731603842750",
+    "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+    "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_Technology",
+    "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure.",
+    "published": "2026-10-27T01:09:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "c62123f425f1e8daee",
+    "title": "アメリカではキャンピングカーに住んでる人が珍しくないくらいにはいて、ホームレスではなくそれなりに受け入れられている生活の形らしい",
+    "url": "https://togetter.com/li/2763293",
+    "summary": "Yuki Ikeno❓大動脈外科医 @IkenoYuki アメリカで働くまで知らなかったことだけど、この国にはキャンピングカーに住んでる人が珍しくないくらいにはいる。ホームレスではなくそれなりに受け入れられている生活の形らしい。 2026-10-26 19:41:35",
+    "published": "2026-10-27T00:57:26Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 3
+  },
+  {
+    "id": "e4e7f236544e0133de",
+    "title": "GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告 GMOが端末回収、ホワイトハッカーが解析中",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002610",
+    "summary": "GMOインターネットグループは10月26日、FX用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、同社の従業員が全国に出向いて顧客の端末を預かり、グループのホワイトハッカーチームが調査・解析を進めていると明らかにした。 攻撃者とみられる者は自身のWebサイトで、GMOが100万ドル（約1億6000万円）を...",
+    "published": "2026-10-27T00:49:12Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 28
+  },
+  {
+    "id": "63867da2c9bde26b91",
+    "title": "トランプ氏がオバマ氏に反発、「頭の良い男ではない」 ホワイトハウス改装を皮肉られ",
+    "url": "https://www.cnn.co.jp/usa/35254004.html",
+    "summary": "大統領専用機に搭乗する前に報道陣の質問に答えるトランプ大統領＝26日、メリーランド州のアンドルーズ統合基地/Chip Somodevilla/Getty Images （CNN） トランプ米大統領は26日、自身が進めるホワイトハウスの改装について約3分間にわたって自己弁護した。オバマ元大統領が先週末、ホワイトハウスを金ぴかにする改装を...",
+    "published": "2026-10-27T00:46:47Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 7
+  },
+  {
+    "id": "73f0acf437cc8bd696",
+    "title": "トランプ氏、ノルウェーを「外便所のような国」と罵倒 ノーベル平和賞逃し",
+    "url": "https://www.afpbb.com/articles/-/3659475",
+    "summary": "【10月27日 AFP】ドナルド・トランプ米大統領は選挙集会で、ノルウェーを「外便所のような国」と罵倒し、ノーベル平和賞に選ばれなかったことを理由に、ノルウェーからの移民は歓迎しないと述べた。 トランプ氏は25日の演説で、「率直に言って、ノルウェーはどうしようもない国だ。実際、外便所のような国になってしまっ...",
+    "published": "2026-10-27T00:28:05Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 2
+  },
+  {
+    "id": "a0757334b169384ea8",
+    "title": "Channel 4 strikes streaming deal with Disney",
+    "url": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
+    "summary": "Agreement comes as linear broadcasters struggle to compete with US media giants",
+    "published": "2026-10-27T00:01:06Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d15e28c7a4ece1b838",
+    "title": "日本企業が「サイバー攻撃はAIのせい」にして目を背ける“本当の原因”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news018.html",
+    "summary": "国内企業を揺るがす一連の不正アクセス被害で、AIによる自律型攻撃ツール「ARTEX」の関与が判明した。短時間で広範囲に仕掛けられる攻撃に注目が集まるが、専門家たちが一様に指摘するのは「使われた侵入経路そのものは従来と変わらない」という厳しい現実だった。有識者たちの視点から、見せかけの先進技術に惑わされず...",
+    "published": "2026-10-26T23:36:56Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "62b2ac591282097026",
+    "title": "攻撃者が主張するGMOの「過失」 VPSの仕組みと必要な対策とは：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBV2ST4VBVUTIL00JM.html",
+    "summary": "GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、金銭を要求している攻撃者が、GMO側の「過失」をインターネット上で主張している。「VPS」と呼ばれ…",
+    "published": "2026-10-26T23:30:33Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 26
+  },
+  {
+    "id": "11d834fa4c17441ce9",
+    "title": "登壇当日に Claude for Google Workspace で Markdown 原稿をスライドに変換して間に合わせた話 | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/claude-for-google-workspace-slide-conversion",
+    "summary": "コーヒーが好きな emi です。 先日 DevelopersIO 2026 で「Claude Code on Bedrock で統制をかける小ネタ集」という内容で登壇しました。 8 か月の乳児を育てている都合上、朝と夜はお世話で手一杯、夜間に覚醒する子どもの対応をしているため毎日寝不足になりながら労働しています。 登壇のための検証やログ取得、登壇...",
+    "published": "2026-10-26T23:12:30Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 18
+  },
+  {
+    "id": "533eb833e75b7206cc",
+    "title": "GMO ハッカー集団要求 応じない姿勢 顧客端末預かり解析進める | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+    "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、攻撃を行ったとみられるハッカー集団は、27日正午までに1億5700万円余りを支払うよう要求しています。会社は、攻撃者からの要求には応…",
+    "published": "2026-10-26T23:10:21Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 21
+  },
+  {
     "id": "0a875a7ebdde99a374",
     "title": "Just Imagining a Workout Can Make You Stronger",
     "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
@@ -13,17 +416,43 @@
     "rank": 3
   },
   {
+    "id": "c36856f76f79993157",
+    "title": "高市首相G7欠席が招く最悪事態…EUにEV優遇策「日本車除外案」、実施なら国産自動車メーカー大打撃｜日刊ゲンダイDIGITAL",
+    "url": "https://www.nikkan-gendai.com/articles/view/news/394753",
+    "summary": "いまさら、お願いしても手遅れなのではないか。 高市首相は28日に行われるドイツのメルツ首相との会談で、EUが予定している電気自動車（EV）の優遇策について、修正を求める方針だ。日本製のクルマを「優遇枠」から除外しないように要請するという。 ドイツとフランスは16日、EUによるEVの優遇策から日本製を除外する案...",
+    "published": "2026-10-26T22:47:37Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 4
+  },
+  {
     "id": "190792dd0d0f5660a0",
     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
-    "summary": "HN points: 39 | comments: 8",
+    "summary": "HN points: 104 | comments: 33",
     "published": "2026-10-26T22:41:48Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 8
+  },
+  {
+    "id": "44e90fc3cb130fdbc1",
+    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+    "summary": "HN points: 35 | comments: 28",
+    "published": "2026-10-26T22:27:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 25
   },
   {
     "id": "191bf984bc50b44a5b",
@@ -39,6 +468,19 @@
     "rank": 1
   },
   {
+    "id": "bd81a6cd96e24bcf17",
+    "title": "「皇籍離脱」史実とズレた主張が流布 旧宮家の特別視は「憲法違反」では…早くも司法に判断を問う動き：東京新聞デジタル",
+    "url": "https://www.tokyo-np.co.jp/article/524075",
+    "summary": "7月に成立した改正皇室典範が24日、施行された。世論調査などから改正に国民の理解が広がっているとは言い難く、市民や専門家から再改正を求める声も大きい。すぐにでも議論を再開する必要はないのか、審議の過程で見えた問題を改めて検証した。",
+    "published": "2026-10-26T22:19:49Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 14
+  },
+  {
     "id": "2ae55696662d2b8eab",
     "title": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
     "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
@@ -49,7 +491,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 4
   },
   {
     "id": "fbfd8e3e399cbc70e2",
@@ -62,13 +504,13 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "3b5698c200b4405a4e",
     "title": "The Exponential Time Hypothesis Is False [pdf]",
     "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "summary": "HN points: 148 | comments: 64",
+    "summary": "HN points: 469 | comments: 174",
     "published": "2026-10-26T21:59:15Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -76,6 +518,19 @@
     "language": "en",
     "category": "tech",
     "rank": 2
+  },
+  {
+    "id": "2315b628d15880ccea",
+    "title": "自分の個人情報などが漏えいした際の「対処」と「日頃の対策」まとめ、IPAが公開",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2151185.html",
+    "summary": "",
+    "published": "2026-10-26T21:44:11Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 10
   },
   {
     "id": "f0a3e6a983c981e9c3",
@@ -88,7 +543,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 3
   },
   {
     "id": "79c2f2c62db3dccb13",
@@ -105,9 +560,9 @@
   },
   {
     "id": "07b251f060f861f5ff",
-    "title": "Working with academic communities to build scientific understanding",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "summary": "HN points: 252 | comments: 106",
+    "summary": "HN points: 674 | comments: 294",
     "published": "2026-10-26T21:35:28Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -115,6 +570,19 @@
     "language": "en",
     "category": "tech",
     "rank": 1
+  },
+  {
+    "id": "22f76c273dc85d75cf",
+    "title": "「スガキヤ」は今度こそ関東で成功できるか 過去には「2度の撤退」、克服すべき課題は？",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/27/news012.html",
+    "summary": "著者プロフィール 山口伸 経済・テクノロジー・不動産分野のライター。企業分析や都市開発の記事を執筆する。取得した資格は簿記、ファイナンシャルプランナー。趣味は経済関係の本や決算書を読むこと。 X：@shin_yamaguchi_ ラーメンを主力とするファストフードチェーン「スガキヤ」は10月15日、横浜市の長津田に関東1...",
+    "published": "2026-10-26T21:30:11Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 11
   },
   {
     "id": "13902c55c971879ba0",
@@ -153,7 +621,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 20
   },
   {
     "id": "85e0a270881a4a44dd",
@@ -247,6 +715,19 @@
     "rank": 25
   },
   {
+    "id": "49ac6e46dc46e470c0",
+    "title": "中国「日本で青春を送りたかった…」 日本と中国の高校の違いを写した1枚の写真が中国ネットでトレンド上位に",
+    "url": "https://pandora11.com/blog-entry-5898.html",
+    "summary": "今回ご紹介する比較写真は、 現在は日本で暮らす中国のユーザーが投稿したもので、 日本と中国の高校の階段の違いが取り上げられています。 中国の階段の側面には、 「每天进步一点点，每天都会有新发展 （毎日少しずつ進歩し、毎日新たな成長を遂げよう）」 「零抬头，零走动，零声音 （顔を上げない・席を立たない・私...",
+    "published": "2026-10-26T18:53:28Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 19
+  },
+  {
     "id": "c8c2083405e9303aa6",
     "title": "How Florida Took the Lead in Battling Big Tech",
     "url": "https://www.wsj.com/tech/ai/how-florida-took-the-lead-in-battling-big-tech-f75ed5a4?mod=rss_Technology",
@@ -315,7 +796,7 @@
     "id": "66330b6b0016839b10",
     "title": "Type Server Protocol",
     "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "summary": "HN points: 178 | comments: 133",
+    "summary": "HN points: 216 | comments: 146",
     "published": "2026-10-26T18:14:49Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -354,27 +835,27 @@
     "id": "d1781555201be5c7de",
     "title": "GPT-6.1 Terra",
     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "summary": "HN points: 474 | comments: 299",
+    "summary": "HN points: 555 | comments: 347",
     "published": "2026-10-26T18:01:17Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 19
   },
   {
     "id": "86596ef325ec41cd2d",
     "title": "Oldest GUI application that still runs on Windows 11",
     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11",
-    "summary": "HN points: 252 | comments: 155",
+    "summary": "HN points: 355 | comments: 210",
     "published": "2026-10-26T17:56:55Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 5
   },
   {
     "id": "99824c9aa939fc2172",
@@ -393,14 +874,14 @@
     "id": "61fc0bdb0f0af242f4",
     "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
     "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "summary": "HN points: 101 | comments: 56",
+    "summary": "HN points: 148 | comments: 71",
     "published": "2026-10-26T17:49:55Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 24
+    "rank": 15
   },
   {
     "id": "45ecb07bb825761e35",
@@ -458,14 +939,14 @@
     "id": "0eb3675154053c6788",
     "title": "Nietzschian Debugger",
     "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-    "summary": "HN points: 118 | comments: 38",
+    "summary": "HN points: 151 | comments: 50",
     "published": "2026-10-26T17:25:30Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 14
   },
   {
     "id": "e306a43d75cc4cc27e",
@@ -478,7 +959,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 12
   },
   {
     "id": "22cfb9b134049e65cd",
@@ -508,7 +989,7 @@
   },
   {
     "id": "498ed5538ce84d1ac5",
-    "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+    "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
     "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
     "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. T",
     "published": "2026-10-26T16:22:28Z",
@@ -521,7 +1002,7 @@
   },
   {
     "id": "46e818abab6058a337",
-    "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+    "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
     "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
     "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. T",
     "published": "2026-10-26T16:22:28Z",
@@ -562,7 +1043,7 @@
     "id": "f48f623f867ba9d6ca",
     "title": "CSS-Tricks has a new owner",
     "url": "https://css-tricks.com/css-tricks-has-a-new-owner",
-    "summary": "HN points: 365 | comments: 85",
+    "summary": "HN points: 415 | comments: 94",
     "published": "2026-10-26T15:51:23Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -598,30 +1079,43 @@
     "rank": null
   },
   {
+    "id": "45a18d4f634beb5d31",
+    "title": "Solar power is becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "summary": "HN points: 207 | comments: 328",
+    "published": "2026-10-26T15:26:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 11
+  },
+  {
     "id": "a8df894ecee7da266e",
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "summary": "HN points: 523 | comments: 79",
+    "summary": "HN points: 625 | comments: 88",
     "published": "2026-10-26T15:11:59Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 3
   },
   {
     "id": "4c43afe76183f38f17",
     "title": "ロシア拘束の日本人記者、外務省が領事面会「健康状態に問題なし」 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUA26AK00W6A021C2000000",
-    "summary": "外務省は26日、ロシア当局に拘束されている北海道新聞の記者と在ロシア日本大使館の職員が領事面会したと発表した。面会は13日の拘束後初めて。記者の健康状態に問題はないという。記者が勾留されているモスクワの拘置所で面会したとみられる。外務省はロシアに邦人の即時解放と人道的",
+    "summary": "外務省は26日、ロシア当局に拘束されている北海道新聞の記者と在ロシア日本大使館の職員が領事面会したと発表した。面会は13日の拘束後初めて。記者の健康状態に問題はないという。記者が勾留されているモスクワの拘置所で面会したとみられる。外務省はロシアに邦人の即時解放と人道的配",
     "published": "2026-10-26T15:01:06Z",
     "source": "はてな · Economics",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 17
   },
   {
     "id": "0c9c286079dfb08d06",
@@ -673,7 +1167,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 15
   },
   {
     "id": "1842fa3556b6d68504",
@@ -725,7 +1219,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 11
   },
   {
     "id": "90cc5a9ce00f8bdef6",
@@ -829,7 +1323,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 27
   },
   {
     "id": "701e5dfb305b9da216",
@@ -868,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 8
   },
   {
     "id": "c1f5c61b590bd56c69",
@@ -885,16 +1379,16 @@
   },
   {
     "id": "6f069f56ed1cbc2e35",
-    "title": "The new iPad mini",
+    "title": "New iPad mini",
     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever",
-    "summary": "HN points: 80 | comments: 68",
+    "summary": "HN points: 167 | comments: 451",
     "published": "2026-10-26T13:13:36Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 21
+    "rank": 16
   },
   {
     "id": "a7977d9e7acadf29bc",
@@ -913,14 +1407,14 @@
     "id": "d423e8315d39184c0a",
     "title": "Anthropic S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "summary": "HN points: 1441 | comments: 1406",
+    "summary": "HN points: 1542 | comments: 1495",
     "published": "2026-10-26T13:04:50Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 14
+    "rank": 17
   },
   {
     "id": "e6d543e8ae9a3b9717",
@@ -1011,7 +1505,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 5
   },
   {
     "id": "1e84e18aa40b3dd2f6",
@@ -1037,7 +1531,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 20
   },
   {
     "id": "b5da3d357d45e1f422",
@@ -1079,10 +1573,36 @@
     "rank": 13
   },
   {
+    "id": "ff46f111181ed5fc43",
+    "title": "強権与党に「勝利」 セルビアのZ世代 学生らの型破りな戦略とは：朝日新聞",
+    "url": "https://digital.asahi.com/sp/articles/ASVBT7SRVVBTUHBI026M.html?ptoken=01M5VPZ97XMA7T68QJCYCNEKDZ",
+    "summary": "東欧セルビアで25日、学生主導の新興中道勢力「学生リスト」が総選挙（一院制、定数250）で勝利し、政権交代を実現する運びとなった。強権的な政治運営が指摘されていたブチッチ政権の長期支配を打ち破ったのは、約2年間にわたり抗議運動を続けてきたZ世代の若者たちだ。その型破りな戦略とは。 22日、首都ベオグラード...",
+    "published": "2026-10-26T11:35:52Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 10
+  },
+  {
+    "id": "2b743aedb74ef1f774",
+    "title": "自分の個人情報等が漏えいした際の「対処」と「日頃の対策」 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+    "url": "https://www.ipa.go.jp/security/anshin/attention/2026/mgdayori20261026.html",
+    "summary": "1.はじめに 直近、国内の幅広いサービス等において、ウェブシステムに係る脆弱性の悪用、サプライチェーンを通じた侵害など、不正アクセスの被害による情報漏えい事案の公表が相次いでいます。特に大量の個人情報を取り扱うオンラインサービスやアカウントサービス等に関するシステムが不正侵入され、個人情報を含むデー...",
+    "published": "2026-10-26T11:33:47Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 29
+  },
+  {
     "id": "cd06b17125f32ca865",
     "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
     "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-    "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online se",
+    "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Austr",
     "published": "2026-10-26T11:30:40Z",
     "source": "The Guardian · Technology",
     "source_type": "publisher",
@@ -1095,7 +1615,7 @@
     "id": "dc0ab681723fd54666",
     "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
     "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-    "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online se",
+    "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Austr",
     "published": "2026-10-26T11:30:40Z",
     "source": "The Guardian · Business",
     "source_type": "publisher",
@@ -1264,14 +1784,14 @@
     "id": "e5e83c67f3cfb7d010",
     "title": "Websites Should Be Printable",
     "url": "https://brennenputh.me/blog/printable-websites",
-    "summary": "HN points: 148 | comments: 118",
+    "summary": "HN points: 309 | comments: 186",
     "published": "2026-10-26T10:32:14Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 16
+    "rank": 22
   },
   {
     "id": "e09eecc7ae0ba76327",
@@ -1310,7 +1830,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 18
   },
   {
     "id": "bee7ddc5f878f64cf9",
@@ -1323,7 +1843,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 24
   },
   {
     "id": "92d47ce5a00248de3a",
@@ -1375,7 +1895,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 25
   },
   {
     "id": "870941d545f065efd7",
@@ -1414,7 +1934,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 27
   },
   {
     "id": "1f00114dd64a73add5",
@@ -1505,7 +2025,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 15
+  },
+  {
+    "id": "b02916fb20dc7c4fff",
+    "title": "How to grow a cacao tree at home",
+    "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home",
+    "summary": "HN points: 30 | comments: 4",
+    "published": "2026-10-26T07:50:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 23
   },
   {
     "id": "cfb7da5b5f245cefb1",
@@ -1570,7 +2103,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 26
   },
   {
     "id": "23491f9f17edf90b1c",
@@ -1713,7 +2246,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 6
   },
   {
     "id": "384b126453bcb18673",
@@ -1739,7 +2272,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 29
   },
   {
     "id": "a199ca70f175f25ca2",
@@ -1753,6 +2286,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "5f11f751947d3ba7c2",
+    "title": "｢あれほど空気の悪い職場は見たことがなかった｣…｢累損赤字540億円｣クールジャパン機構のカオスな投資会議",
+    "url": "https://president.jp/articles/-/120751",
+    "summary": "4年前に80億円を支援（出資）したコンサルティング会社「刀」（大阪市北区）の関連会社で、テーマパーク「ジャングリア沖縄」（沖縄県名護市）を運営する「ジャパンエンターテイメント（JE）」の親会社が、26年6月期に173億円の最終赤字を計上するという想定外の事態も出来し、CJ機構に対する逆風は強まるばかりだ。 あ...",
+    "published": "2026-10-26T03:39:14Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 13
   },
   {
     "id": "96bb715589fb438991",
@@ -1843,7 +2389,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 19
   },
   {
     "id": "e9b37cf61089d60734",
@@ -1882,7 +2428,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 23
+  },
+  {
+    "id": "fef9c7e4c883ff9ff9",
+    "title": "『日本人が知らないアメリカ』12年住んでもつかみきれないアメリカ - Thoughts and Notes from CA",
+    "url": "https://ktdisk.hatenablog.com/entry/2026/10/26/080646",
+    "summary": "アメリカに住んでみると、自分が持っていた「アメリカのイメージ」というのはいかに表面的だったのかを思い知らされる。西海岸のテック企業、ウォールストリートの金融街、ハンバーガとピザなど自分が象徴的と思っていたことは、多様なアメリカのほんの一側面にしかすぎなかったことを、日々実感している。もちろん、私...",
+    "published": "2026-10-26T02:15:42Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 5
   },
   {
     "id": "31974b96ed427b25ee",
@@ -1999,7 +2558,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 16
   },
   {
     "id": "1a6e06da33383b6b0f",
@@ -2015,6 +2574,19 @@
     "rank": 8
   },
   {
+    "id": "d00fcca4ca302e5082",
+    "title": "えっ! メモリ64GBのPCで7630億パラメーターのDeepSeekを!? Strataがついに実現",
+    "url": "https://ascii.jp/elem/000/004/445/4445574",
+    "summary": "sponsored 【会場レポート】スポーツエンターテインメントの観戦体験をより楽しくする、アルバルク東京とZoom AIの取り組み 「注目選手」も「観戦グルメ」もZoomのAIに聞こう！ Bリーグの試合にZoomが登場した理由 sponsored 最新のスマートウォッチもイヤホンも実際に手に取って体験できる 秋葉原にファーウェイのサポ...",
+    "published": "2026-10-26T01:15:52Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 9
+  },
+  {
     "id": "b74821fb8dd369d875",
     "title": "ブラジル大統領選挙、現職ルラ氏が再選 左派政権継続 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOCB250D80V21C26A0000000",
@@ -2025,7 +2597,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 30
   },
   {
     "id": "e6bc51faccb788af9d",
@@ -2129,7 +2701,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 22
   },
   {
     "id": "192ec784752b213345",
@@ -2181,7 +2753,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "d85cc8a8133dbd3a76",
@@ -2434,14 +3006,14 @@
     "id": "b9673ca78832cf49bf",
     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
     "url": "https://shraiwi.com/blog/simd-fast-esp32s3",
-    "summary": "HN points: 165 | comments: 51",
+    "summary": "HN points: 191 | comments: 57",
     "published": "2026-10-25T22:29:47Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 24
   },
   {
     "id": "2c4a17c00cb459e569",
@@ -2454,7 +3026,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 28
   },
   {
     "id": "07b2d12f2e10bd2ec0",
@@ -2691,6 +3263,19 @@
     "rank": null
   },
   {
+    "id": "ed719828929ab07ecc",
+    "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+    "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+    "summary": "HN points: 24 | comments: 2",
+    "published": "2026-10-25T18:43:01Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 6
+  },
+  {
     "id": "9430967060af64670d",
     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
     "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
@@ -2912,6 +3497,19 @@
     "rank": 17
   },
   {
+    "id": "8ccce1bdc06368d382",
+    "title": "Historical Telecommunications",
+    "url": "https://retronetworking.org/",
+    "summary": "HN points: 8 | comments: 1",
+    "published": "2026-10-25T15:06:15Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
+  },
+  {
     "id": "dc693c50e92208ac79",
     "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
     "url": "https://bigwhalehunting.com/workforce",
@@ -3108,16 +3706,16 @@
   },
   {
     "id": "4493dd08883bb28eb0",
-    "title": "LISPy things you can do in 64K bytes of core",
+    "title": "LISPy things you can do in 64K bytes of core (2019)",
     "url": "https://t3x.org/lisp64k/index.html",
-    "summary": "HN points: 11 | comments: 0",
+    "summary": "HN points: 43 | comments: 8",
     "published": "2026-10-25T12:53:47Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 19
+    "rank": 18
   },
   {
     "id": "df6bea3e2de7da28d5",
@@ -3715,7 +4313,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 21
   },
   {
     "id": "9963e4a3dd9be964c7",
@@ -4197,6 +4795,19 @@
     "language": "ja",
     "category": "finance",
     "rank": 29
+  },
+  {
+    "id": "7ea2f6dcb43482ae2b",
+    "title": "Virtual and Real World Combine at LAN Party (1998)",
+    "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+    "summary": "HN points: 32 | comments: 5",
+    "published": "2026-10-25T00:07:19Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 13
   },
   {
     "id": "26568f70eab35e811e",
@@ -8487,616 +9098,5 @@
     "language": "ja",
     "category": "tech",
     "rank": 26
-  },
-  {
-    "id": "797e7f961a0a183ab7",
-    "title": "Winter arrives in markets",
-    "url": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
-    "summary": "Bonds and stocks tell the same chilly story",
-    "published": "2026-10-23T05:30:08Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "96428eef39c8ae387c",
-    "title": "高市早苗首相はなぜSNSでは饒舌なのか",
-    "url": "https://www.gqjapan.jp/article/20261023-satetsu-takeda-column",
-    "summary": "高市早苗首相、SNSではずっと饒舌現役大臣では、小野田紀美経済安全保障担当大臣にXでブロックされている。亡くなられた安倍晋三元首相からもブロックされたままだ。「ブロック太郎」とも呼ばれた河野太郎議員にもブロックされていたが、ある時期から解除されている。いずれも理由はわからない。彼女ら・彼らの言動や政...",
-    "published": "2026-10-23T05:23:15Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 22
-  },
-  {
-    "id": "e6023c769f8225bfef",
-    "title": "イスラエル極右閣僚、総選挙で支持層拡大狙う「ボスのように振る舞えば尊敬される」",
-    "url": "https://www.afpbb.com/articles/-/3659082",
-    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月23日 AFP】今月27日のイスラエル総選挙を前に、極右イタマル・ベングビール国家治安相が、極めて精力的かつハイペースな選挙戦を展開している。高校生に銃の形を...",
-    "published": "2026-10-23T05:15:52Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 25
-  },
-  {
-    "id": "6a88bed74f32047cdd",
-    "title": "A Printer Printing onto Paper",
-    "url": "https://twitter.com/macrofying/status/2112904628509528219",
-    "summary": "HN points: 31 | comments: 6",
-    "published": "2026-10-23T05:01:30Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 8
-  },
-  {
-    "id": "c634fbce28cba37614",
-    "title": "Some of Europe’s highest energy costs expected in Britain this winter",
-    "url": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
-    "summary": "Official forecasts show country will meet energy demand by paying high prices to secure imports Great Britain is expected to pay some of the highest energy costs in Europe this winter as its reliance on imports to ensure a steady supply is ",
-    "published": "2026-10-23T05:00:03Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "d48613c114cc72ce31",
-    "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
-    "summary": "The UK still imports 60% of its gas and, even with Jackdaw, its energy supply and resilience problems are not going away After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almo",
-    "published": "2026-10-23T05:00:02Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "56732fc4a9fec1af81",
-    "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
-    "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
-    "summary": "Our economy needs it. The NHS needs it. And making foreign workers’ lives more miserable – as the home secretary plans to do – will undermine integration My mum’s carer was uncharacteristically late one morning. She didn’t want to say why a",
-    "published": "2026-10-23T05:00:02Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "e34e86f70d8319842c",
-    "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
-    "url": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
-    "summary": "Visa quotas, university fees and NHS surcharges remain sticking points ahead of post-Brexit negotiations next month A deadline for a youth mobility scheme between the EU and the UK could be deferred by six months in a bid to ensure Andy Bur",
-    "published": "2026-10-23T05:00:00Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "209c55f4d5cbf66229",
-    "title": "デジタル庁、Studio株式会社で発生した不正アクセスの影響による個人情報漏えいの可能性を発表",
-    "url": "https://internet.watch.impress.co.jp/docs/news/2150695.html",
-    "summary": "",
-    "published": "2026-10-23T04:51:49Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "787a919395be997e5d",
-    "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
-    "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
-    "summary": "",
-    "published": "2026-10-23T04:46:55Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 30
-  },
-  {
-    "id": "95c687051f5dd51a33",
-    "title": "PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪",
-    "url": "https://gigazine.net/news/20261023-php-rce-unknowingly",
-    "summary": "ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました...",
-    "published": "2026-10-23T04:19:23Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "9f37f6a277207947dd",
-    "title": "デジタル庁 最大1万3000件余の個人情報が漏えいの可能性 | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64088",
-    "summary": "デジタル庁は、過去に庁のホームページの問い合わせフォームに入力された氏名やメールアドレスなど最大で1万3000件余りの個人情報が漏えいした可能性があると発表しました。 デジタル庁によりますと、漏え…",
-    "published": "2026-10-23T04:18:10Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 29
-  },
-  {
-    "id": "3af7df8af3390813d9",
-    "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
-    "url": "https://gigazine.net/news/20261023-anthropic-formal-verification",
-    "summary": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs are making formal...",
-    "published": "2026-10-23T04:01:16Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 11
-  },
-  {
-    "id": "392a88848288c6078e",
-    "title": "Is Zuckerberg being greedy? Let shareholders decide",
-    "url": "https://www.ft.com/content/876baf7b-f8a6-43e7-b03f-7813ab50f87a?syn-25a6b1a6=1",
-    "summary": "If the billionaire founder cares what people think, he should persuade his fellow investors to back his vision",
-    "published": "2026-10-23T04:00:37Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "6d35395fc107a093e4",
-    "title": "How the Japanese listening bar conquered the world",
-    "url": "https://www.ft.com/content/5272885a-4ade-4ec1-81c6-aeafc337ea85",
-    "summary": "From Tokyo to the Barbican, audiophiles are being served",
-    "published": "2026-10-23T04:00:18Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "431933b1b9718debb3",
-    "title": "Calpers retreats from Big Tech as AI rally falters",
-    "url": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
-    "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
-    "published": "2026-10-23T04:00:18Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "fe0dc9da92340f3fac",
-    "title": "AI oversight needs a different model to banking",
-    "url": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
-    "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
-    "published": "2026-10-23T04:00:18Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "24015f3b0c78880e37",
-    "title": "Milei’s AI hype outpaces reality",
-    "url": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561?syn-25a6b1a6=1",
-    "summary": "Argentina has abundant energy and a thriving software industry — but few projects are advancing as economic instability deters investors",
-    "published": "2026-10-23T04:00:10Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "7b3879f00bdaa8fb27",
-    "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-    "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-    "summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one f",
-    "published": "2026-10-23T04:00:06Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "083fdc01e765163e7c",
-    "title": "きょう発売の「iPhone Duo」、Apple 表参道でゲットしてきた 早速開封レポート",
-    "url": "https://www.itmedia.co.jp/mobile/articles/2610/23/news053.html",
-    "summary": "きょう発売の「iPhone Duo」、Apple 表参道でゲットしてきた 早速開封レポート（1/3 ページ） Apple初の折りたたみスマートフォン「iPhone Duo」が、10月23日に発売された。最小容量の256GBモデルでも36万円を超える高額な製品だが、16日午後9時に始まった予約は激しい争奪戦となった。予約開始直後、発売日に配送で届...",
-    "published": "2026-10-23T03:32:27Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "e8ae978a79cdaa0a1e",
-    "title": "トランプ大統領がイーロン・マスクにStarshieldの制限を解除するよう要請したと当局者が証言",
-    "url": "https://gigazine.net/news/20261023-trump-called-mus-starshield",
-    "summary": "衛星通信ネットワーク「Starlink」の軍用版「Starshield」を使用しているウクライナが通信速度制限を受けたと訴えている件で、ドナルド・トランプ大統領がStarshieldを管理するイーロン・マスク氏に電話で制限解除を要請したと報じられました。 Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink R...",
-    "published": "2026-10-23T03:31:32Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 23
-  },
-  {
-    "id": "b95dcb3603d308b47c",
-    "title": "Fixing Critical Node & PHP Flaws | Devin",
-    "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
-    "summary": "On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affected services and apply the appropriate patches imm",
-    "published": "2026-10-23T03:28:59Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "1b04f93d607f1c478b",
-    "title": "東大総長選考の検証要請、文科省が重くみる3要素 「唯一の特異例」：朝日新聞",
-    "url": "https://www.asahi.com/articles/ASVBR0FF9VBRUTIL01XM.html",
-    "summary": "文部科学省が東京大学側に総長選考の経緯を検証するよう文書で求めたことについて、関芳弘文科相は23日の記者会見で、改めて理由を説明した。学内投票で2倍の差がついたことなどを挙げ、「より高い説明責任が求…",
-    "published": "2026-10-23T03:26:15Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 24
-  },
-  {
-    "id": "608401e76e447f11a7",
-    "title": "そのProvider、どこから更新する？ FlutterとRiverpodで考える操作完了通知",
-    "url": "https://zenn.dev/simplex/articles/dc17c45b57af0e",
-    "summary": "シンプレクスでエンジニアをしている岡沢です。 今回は、Flutterアプリの開発で実践している、ユーザ操作の完了後に行うデータ更新の設計について書きます。 私のチームでは、FlutterとRiverpodを使ってアプリケーションを開発しています。その中で、一つの操作に合わせて、複数の画面で使うデータを更新する場面があります。こうした処理をどこに持たせるかは、画面とデータの関係を考えるうえで悩ましいところです。 本記事では、チームで採用している設計を例に、操作を実行する側とデー",
-    "published": "2026-10-23T03:26:05Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 4
-  },
-  {
-    "id": "c8f7599f48a42c2123",
-    "title": "2年間放置していたPwnagotchiをクリーンインストールして使えるようにするまで",
-    "url": "https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install",
-    "summary": "はじめに 2年ほど放置していたPwnagotchiを、久しぶりに動かすことにした。 古い環境をそのまま直すのではなく、microSDを焼き直してクリーンインストールする。画面を動かして、SSHで入れて、バッテリーで持ち運べる状態に戻すのが今回の目標。 イメージを書き込めばすぐ終わるかと思ったら、USB接続でかなりハマった。最終的にはディスプレイとPiSugarの認識、SSHの鍵認証、PCからのインターネット共有までできたので、その記録を残す。 ! Pwnagotchiは無線ネ",
-    "published": "2026-10-23T03:24:22Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 7
-  },
-  {
-    "id": "2c87573ce5d6a1e344",
-    "title": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
-    "summary": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードなどが不正に取得された可能…",
-    "published": "2026-10-23T03:08:33Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 30
-  },
-  {
-    "id": "961c3cc20bb541aa1b",
-    "title": "「事実上の『職務放棄』『サボり』」辻元清美が斬る高市首相のG7欠席…追及の裏で外務省職員がうつむき「言えない」と口を閉ざす異変 | 女性自身",
-    "url": "https://jisin.jp/domestic/2605709",
-    "summary": "女性自身TOP > 国内 > 政治 > 辻元清美 > 「事実上の『職務放棄』『サボり』」辻元清美が斬る高市首相のG7欠席…追及の裏で外務省職員がうつむき「言えない」と口を閉ざす異変 「たとえ、時間が読めなかったとしても、G7会議が予想される日であれば、ふつうは動かせる予定をキャンセルして待機するのが総理大臣の責務です...",
-    "published": "2026-10-23T03:08:27Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 24
-  },
-  {
-    "id": "e4de34b6c7d85f8856",
-    "title": "大成建設・鹿島の土木民間工事を営業停止へ リニア談合で国交省方針：朝日新聞",
-    "url": "https://www.asahi.com/articles/ASVBQ2W6JVBQULFA01CM.html",
-    "summary": "リニア中央新幹線の建設工事をめぐる談合事件を受け、国土交通省は大成建設と鹿島の2社を建設業法にもとづく営業停止処分にする方針を固めた。23日にも発表する。2社は11月7日から来年3月6日までの4カ月…",
-    "published": "2026-10-23T03:07:41Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 30
-  },
-  {
-    "id": "c55b6d90dbe7abd27a",
-    "title": "読み放題サービス「Kindle Unlimited」が「Kindle+」に名称変更。サービス内容に変更は？【やじうまWatch】",
-    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2150603.html",
-    "summary": "",
-    "published": "2026-10-23T03:06:47Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "bce58a5a18b65e6385",
-    "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？ 大手銀行やインフラの鍵も 米スタンフォード大などが調査",
-    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002515",
-    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
-    "published": "2026-10-23T03:05:07Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 23
-  },
-  {
-    "id": "e5fa692308728f7688",
-    "title": "ウクライナの「スターシールド」復旧 トランプ氏が表明",
-    "url": "https://www.afpbb.com/articles/-/3659045",
-    "summary": "ドナルド・トランプ米大統領（2026年10月22日撮影）。(c)Alex WROBLEWSKI / AFP 【10月23日 AFP】ドナルド・トランプ米大統領は22日、ウクライナ軍が利用する米宇宙開発企業スペースXの軍用衛星通信サービス「スターシールド」が「復旧した」と述べた。米紙ウォールストリート・ジャーナル（WSJ）は、トランプ氏が実業家...",
-    "published": "2026-10-23T02:22:27Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 27
-  },
-  {
-    "id": "21972153121688e5b9",
-    "title": "This I Believe (1952)",
-    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-    "summary": "HN points: 101 | comments: 40",
-    "published": "2026-10-23T02:19:38Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 13
-  },
-  {
-    "id": "debfa388b56324e3b8",
-    "title": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
-    "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
-    "summary": "A war of words has erupted over who is responsible for the restrictions on Starshield access in Ukraine A war of words has erupted between the Trump administration, officials in Kyiv and Elon Musk over who is to blame for limiting Ukraine’s",
-    "published": "2026-10-23T02:16:26Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "5b2dff66b10a835c24",
-    "title": "ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計 - ZOZO TECH BLOG",
-    "url": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
-    "summary": "はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取り組んでいます。 ZOZOTOWNのフロントエンド組織では、Pull Request（PR）を自動でレビューする仕組みを独自に構築しています。Claude Code GitHub Actio...",
-    "published": "2026-10-23T02:07:07Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "c0b1b1d83ee45855d6",
-    "title": "LLMs are making formal software verification feasible at a much larger scale",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "summary": "Keane Lucas, Aengus Lynch, Luna Tong, Luke Champine, Zygi Straznickas, Dino Distefano, Harshikaa Agrawal Evyatar Ben Asher, Ava Howell, Sami Jawhar, Chris Rohlf, Nickolai Zeldovich Nicholas Carlini, Rajashree Agrawal, Jason Gross Most softw",
-    "published": "2026-10-23T02:02:59Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "8466bfb80fa24ec2c2",
-    "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
-    "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
-    "summary": "はじめに Flutterアプリの初期化はmain()に書いておけばOK……と思っていたら、実はmain()を通らない起動ルートがありました。 気づいたきっかけは、APIリクエストにUser-Agentを付与するという小さな改修で、Androidの着信機能が鳴らなくなった現象が発生してしまいました。 リリース前に気づけたので本番影響はありませんでしたが、見落としやすいポイントだったので今回記事にしてみました。 起きた問題 リリース予定のバージョンで、Androidのクリフォアコ",
-    "published": "2026-10-23T01:30:05Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 10
-  },
-  {
-    "id": "ec0bab953f61eaf39b",
-    "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
-    "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-    "summary": "! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の166週目の記事です！ 4年間連続達成まで残り46週となりました！ 3行まとめ AIが実装してくれる今こそ、使っているシステムの仕組みを深く理解しておきたい。それが問題解決やシステム設計の土台になる AIがやってくれるのに、わざわざ手で作る。自分にとっては、それが深い理解へのいちばん確実な道だった 個人開発でシェル、LLMエージェント、MCPサーバーを作り直したら、毎日使う道具の",
-    "published": "2026-10-23T01:28:43Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "088f173eebb6d2f1db",
-    "title": "総務省、選挙偽情報で収益化停止 SNS対策指針案を公表",
-    "url": "https://www.47news.jp/15124840.html",
-    "summary": "総務省は23日、選挙運動を巡る交流サイト（SNS）対策の指針案を公表した。大規模なSNS事業者13社に対し、選挙の公正を害する恐れがある偽・誤情報の影響を軽減する措置を促す。閲覧数や再生回数に応じて発信者に金銭を支払う「収益化」の停止を盛り込んだ。人工知能（AI）で生成された有害な画像や映像を検知し、利用者...",
-    "published": "2026-10-23T01:28:03Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 30
-  },
-  {
-    "id": "22418b8f48a04b17e4",
-    "title": "2秒で失った400万円 GMO系サービスで「意図しないFX取引」：朝日新聞",
-    "url": "https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html",
-    "summary": "GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利…",
-    "published": "2026-10-23T01:25:07Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "549e0b924a1ec44a51",
-    "title": "「パスキーはワナだ、使うな」にネット騒然 プロが“待った”をかけるワケ：902nd Lap",
-    "url": "https://kn.itmedia.co.jp/kn/article/2610/23/2000002506",
-    "summary": "2026年10月、国内では「焼肉きんぐ」の公式アプリや「ローソンID」「タイムズカー」などで、不正アクセスによる個人情報の漏えいが相次いで公表された。不正アクセスによる個人情報の漏えいが相次ぐ現在、自分のアカウントをどう守るかは、誰にとっても無視できない問題だ。そんな中、パスワードに代わる新たな認証手段...",
-    "published": "2026-10-23T01:22:38Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 12
-  },
-  {
-    "id": "fdd3a5f6ca59b9a789",
-    "title": "選挙中のSNS「収益停止を」 総務省が指針案公表、実効性見通せず - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUA222TY0S6A021C2000000",
-    "summary": "総務省は23日、SNS事業者に選挙中の偽・誤情報対策を求める指針案を公表した。閲覧数に応じて収益を得られる仕組みの停止を促すことなどを盛り込んだ。具体的な対策は各事業者に委ねる。処分や罰則はなく、実効性は見通せない。藤井比早之総務相は同日の閣議後の記者会見で「選挙の公正に対する悪影響の軽減につながる」...",
-    "published": "2026-10-23T01:10:51Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 29
-  },
-  {
-    "id": "fbbe0f0a50f517844e",
-    "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
-    "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853?mod=rss_Technology",
-    "summary": "OpenAI fired three safety researchers for mishandling sensitive information. They had been fighting to keep the workings of AI systems visible—and to let outsiders look.",
-    "published": "2026-10-23T01:00:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "409b4430202f8135b5",
-    "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
-    "url": "https://www.wsj.com/business/autos/chevy-bolt-electric-vehicle-road-trip-e908d420?mod=rss_Technology",
-    "summary": "Readers challenged our columnist to take an affordable electric car on a route with less-than-ideal charging options. Here’s what happened.",
-    "published": "2026-10-23T01:00:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "949449a563ac48a45f",
-    "title": "【PHPはオワコン】AIが書いたコードをなぜ信用できるのか？数学的証明で守る新しいサーバーサイド言語「QED Script」を作った",
-    "url": "https://wirelesswire.jp/2026/10/94824",
-    "summary": "いつまで人類はPHPを使い続けるのか いきなり身内に喧嘩を売るようで恐縮だが、このWirelessWire NewsはWordPressで動いている。 WordPressといえばPHPである。 筆者はもう10年以上前からPHPを使うのをやめている。別にPHPで作られたWebサイトが即座に危険というわけではないし、適切に管理すれば安全に運用できる。しか...",
-    "published": "2026-10-23T00:59:03Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "746ffe1aa006d85731",
-    "title": "ウクライナ衛星制限 トランプ大統領「マスク氏が元に戻した」 | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64005",
-    "summary": "ウクライナ軍が作戦に利用するアメリカの衛星通信サービスが一部制限を受けたとされる問題について、アメリカのトランプ大統領は、サービスを手がける実業家のイーロン・マスク氏によって制限は解除されたという認識…",
-    "published": "2026-10-23T00:55:02Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "f749fb7843fa70e5fe",
-    "title": "The foolishness of \"natural language programming\" (1978)",
-    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-    "summary": "HN points: 346 | comments: 232",
-    "published": "2026-10-23T00:52:01Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "030e8ee15582c60299",
-    "title": "「予防的サービス停止」は日本に定着するのか? PHP脆弱性問題が起こした変化",
-    "url": "https://www.watch.impress.co.jp/docs/topic/2150549.html",
-    "summary": "",
-    "published": "2026-10-23T00:32:49Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
   }
 ]
