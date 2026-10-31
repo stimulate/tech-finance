@@ -1,5 +1,96 @@
 [
   {
+    "id": "abce91a6dd51facc47",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube",
+    "summary": "HN points: 58 | comments: 36",
+    "published": "2026-10-31T19:56:53Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "2bb50500f315fbac8c",
+    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "url": "https://epoyraz.github.io/nes-contra-us",
+    "summary": "HN points: 10 | comments: 6",
+    "published": "2026-10-31T19:18:48Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "019e6c59e68bfab3e9",
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "summary": "HN points: 93 | comments: 44",
+    "published": "2026-10-31T19:16:30Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "06417d2074f9ebc9cf",
+    "title": "The Duty of a Scholar",
+    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "summary": "HN points: 44 | comments: 8",
+    "published": "2026-10-31T19:07:36Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "e07cce0b7083d7f37f",
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+    "summary": "HN points: 92 | comments: 91",
+    "published": "2026-10-31T18:50:34Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "892f07e2add8402eea",
+    "title": "It's the Memory Latency, Stupid",
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid",
+    "summary": "HN points: 40 | comments: 6",
+    "published": "2026-10-31T18:38:16Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
+    "id": "55e4d9c6dd335ccdcd",
+    "title": "William Nordhaus has died",
+    "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+    "summary": "HN points: 28 | comments: 3",
+    "published": "2026-10-31T17:59:41Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 15
+  },
+  {
     "id": "4a8aed91fb55245372",
     "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
     "url": "https://www.jointter.com/",
@@ -24,6 +115,19 @@
     "language": "en",
     "category": "tech",
     "rank": 23
+  },
+  {
+    "id": "a79f3ca70ad00cde09",
+    "title": "GMO 被害者情報集める不審サイト ハッカー側と関連か | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261031de69043",
+    "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べで分かりました。 被害が公表されるより前に開…",
+    "published": "2026-10-31T16:20:52Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "76e00d9871c7950962",
@@ -55,14 +159,27 @@
     "id": "b6f800671aad1a3ba1",
     "title": "Casio Watches of the 1980s",
     "url": "https://www.casio.com/us/watches/50th/Heritage/1980s",
-    "summary": "HN points: 69 | comments: 22",
+    "summary": "HN points: 168 | comments: 90",
     "published": "2026-10-31T16:00:48Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 5
+    "rank": 23
+  },
+  {
+    "id": "9611ad2c03c1f61ad1",
+    "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+    "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+    "summary": "HN points: 23 | comments: 10",
+    "published": "2026-10-31T15:56:41Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 25
   },
   {
     "id": "d9052380c5a8e1da47",
@@ -81,14 +198,27 @@
     "id": "a46e719f6d27071852",
     "title": "Malware uses LLMs to rank victims by how much they're worth",
     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-    "summary": "HN points: 122 | comments: 54",
+    "summary": "HN points: 208 | comments: 114",
     "published": "2026-10-31T14:29:03Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 22
+  },
+  {
+    "id": "49074a167d40dbfeee",
+    "title": "アカウンタビリティを軸とした AI-Native 開発のデザイン戦略",
+    "url": "https://www.nttdata.com/jp/ja/-/media/nttdatajapan/files/services/adm/ai-native.pdf",
+    "summary": "",
+    "published": "2026-10-31T14:22:35Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 18
   },
   {
     "id": "352dc033212145f0dd",
@@ -107,7 +237,7 @@
     "id": "e0731a88f815504451",
     "title": "Jepsen: ParticleDB 1.1.4",
     "url": "https://jepsen.io/analyses/particledb-1.1.4",
-    "summary": "HN points: 24 | comments: 6",
+    "summary": "HN points: 120 | comments: 60",
     "published": "2026-10-31T13:39:52Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
@@ -127,7 +257,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 10
   },
   {
     "id": "cc9c5a70f091eca7bf",
@@ -141,6 +271,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "f6c02146787944d18d",
+    "title": "Show HN: A language model that lives in a boot sector",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "summary": "HN points: 17 | comments: 0",
+    "published": "2026-10-31T12:58:29Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 11
   },
   {
     "id": "71ee13516c632e8253",
@@ -218,7 +361,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 23
+    "rank": 26
   },
   {
     "id": "0d1db597b17c000125",
@@ -274,42 +417,42 @@
   },
   {
     "id": "75b447e55dff818b10",
-    "title": "We Took over ChatGPT Accounts",
+    "title": "Do the math: How we took over ChatGPT accounts",
     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "summary": "HN points: 218 | comments: 106",
+    "summary": "HN points: 281 | comments: 132",
     "published": "2026-10-31T10:30:11Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 10
   },
   {
     "id": "5d90f51656d75e0759",
     "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
     "url": "https://piefed.world/post/1503394",
-    "summary": "HN points: 200 | comments: 132",
+    "summary": "HN points: 268 | comments: 158",
     "published": "2026-10-31T10:23:41Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 6
   },
   {
     "id": "ab7752479026f1ba32",
     "title": "Serbia just elected the world's brainiest parliament",
     "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-    "summary": "HN points: 644 | comments: 372",
+    "summary": "HN points: 741 | comments: 429",
     "published": "2026-10-31T10:21:30Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 10
+    "rank": 19
   },
   {
     "id": "0bd9c6359ab945b7cb",
@@ -335,7 +478,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 25
   },
   {
     "id": "cde20f0ee9915fcf30",
@@ -348,7 +491,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 21
   },
   {
     "id": "6cfab3bc2d47978a70",
@@ -374,7 +517,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 13
   },
   {
     "id": "28240cb460ec59ed2a",
@@ -387,7 +530,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 22
   },
   {
     "id": "9330c6f50c56efbbe7",
@@ -400,7 +543,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 5
   },
   {
     "id": "02ed6bf68c990467a6",
@@ -445,14 +588,14 @@
     "id": "08fc023d23553063eb",
     "title": "Switch Lowering in GCC",
     "url": "https://xoranth.net/gcc-switch",
-    "summary": "HN points: 157 | comments: 29",
+    "summary": "HN points: 179 | comments: 34",
     "published": "2026-10-31T08:02:26Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 17
   },
   {
     "id": "0b12ac2ef20920704e",
@@ -543,7 +686,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 14
   },
   {
     "id": "a13927a54fcbcf1d6f",
@@ -556,20 +699,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 25
+    "rank": 28
   },
   {
     "id": "e2bb3e9a1d7decd3bf",
     "title": "Digital minimalism",
     "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-    "summary": "HN points: 211 | comments: 151",
+    "summary": "HN points: 271 | comments: 203",
     "published": "2026-10-31T06:16:36Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 20
   },
   {
     "id": "1b32cc18064975248a",
@@ -582,7 +725,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 15
   },
   {
     "id": "51dba5e97f7fd7fcc2",
@@ -595,7 +738,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 23
   },
   {
     "id": "15e616edf272f13dea",
@@ -647,7 +790,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 15
   },
   {
     "id": "5e351e59891dec3b23",
@@ -660,7 +803,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 16
   },
   {
     "id": "c795fe9345c1e58b94",
@@ -725,7 +868,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "e72e74399f48c1c63b",
@@ -790,7 +933,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 19
   },
   {
     "id": "5aa8290b3b8a355b3c",
@@ -855,7 +998,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 20
   },
   {
     "id": "0f0979a2e3a8d2834a",
@@ -894,7 +1037,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 28
+    "rank": 27
   },
   {
     "id": "8e1b95703bbfa37c64",
@@ -907,7 +1050,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 6
   },
   {
     "id": "cb0b4ec7ee1dc408eb",
@@ -998,7 +1141,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 25
+    "rank": 26
   },
   {
     "id": "0b73a8f5b0722ff0c8",
@@ -1024,7 +1167,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 24
+    "rank": 27
   },
   {
     "id": "0f7d1ff0c90164a4d8",
@@ -1037,7 +1180,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 11
   },
   {
     "id": "c57d6d45bf2b9ed2a9",
@@ -1063,7 +1206,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 12
   },
   {
     "id": "fdd5704caea3b72a0a",
@@ -1076,7 +1219,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 30
+    "rank": 29
   },
   {
     "id": "f038d3016a09c8022d",
@@ -1219,7 +1362,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 24
   },
   {
     "id": "e70619b18ecf28677e",
@@ -1336,7 +1479,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 7
   },
   {
     "id": "e04a71d99bc7880cde",
@@ -1440,7 +1583,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 19
   },
   {
     "id": "b31db822e3bf25bfb3",
@@ -1479,6 +1622,19 @@
     "publisher": "The Guardian",
     "language": "en",
     "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "a288f9cd1d8050c9ce",
+    "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+    "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+    "summary": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech co",
+    "published": "2026-10-30T18:27:51Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
     "rank": null
   },
   {
@@ -1609,7 +1765,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 23
   },
   {
     "id": "4b7b8f05e981a7af10",
@@ -1778,7 +1934,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 20
   },
   {
     "id": "080e2b03087abe948d",
@@ -1947,7 +2103,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 30
   },
   {
     "id": "148ccfefb99f3a3354",
@@ -2038,7 +2194,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 27
+    "rank": 29
   },
   {
     "id": "d9744530835363cf0d",
@@ -2142,7 +2298,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 21
   },
   {
     "id": "5e69f21c9b9e5b43a8",
@@ -2220,7 +2376,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 30
   },
   {
     "id": "20df8653c50e7c1c92",
@@ -2298,7 +2454,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 8
   },
   {
     "id": "8b0087887a575ce20d",
@@ -2480,7 +2636,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 29
+    "rank": 28
   },
   {
     "id": "ee70ab3a0cc1b5d180",
@@ -2519,7 +2675,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 27
+    "rank": 25
   },
   {
     "id": "15d14f92e24ac42a5e",
@@ -2559,6 +2715,19 @@
     "language": "ja",
     "category": "finance",
     "rank": 23
+  },
+  {
+    "id": "298a07db9f1f47e698",
+    "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+    "url": "https://oqtadrive.org/10.other/5-years",
+    "summary": "HN points: 5 | comments: 1",
+    "published": "2026-10-30T08:30:03Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 14
   },
   {
     "id": "b935a8b2057c37813f",
@@ -2668,14 +2837,14 @@
     "id": "905a718f8704623b3d",
     "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
     "url": "https://github.com/4yk5/Ghostman",
-    "summary": "HN points: 12 | comments: 3",
+    "summary": "HN points: 30 | comments: 23",
     "published": "2026-10-30T07:48:40Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 15
+    "rank": 21
   },
   {
     "id": "57a4bf47fdf874098c",
@@ -2727,7 +2896,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 14
   },
   {
     "id": "a5aa385208445eda63",
@@ -2753,7 +2922,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 22
   },
   {
     "id": "03ebb7949a9e88b551",
@@ -3146,6 +3315,19 @@
     "rank": 29
   },
   {
+    "id": "dd0d6918dba18b82b8",
+    "title": "Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正",
+    "url": "https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture",
+    "summary": "「iPad mini」を親指と人さし指でつまんでいるAppleの広告画像が、韓国のページでだけ修正されていることが分かりました。これは、韓国で白熱する「人さし指ジェスチャー問題」が背景にあると指摘されています。 한국만 ‘집게손’ 뺐다…애플 아이패드 홍보에 다른 이미지, 왜 | 중앙일보 https://www.joongang.co.kr/arti...",
+    "published": "2026-10-30T04:43:45Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
     "id": "f44d88360f61c604bd",
     "title": "OpenAIが「AI五原則」を提案、「人間の意図に忠実であれ」「害を最小限に抑えろ」などの指針を自社モデルに適用",
     "url": "https://gigazine.net/news/20261030-openai-model-spec-five-principles",
@@ -3507,7 +3689,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 12
   },
   {
     "id": "13bc439645479a1b7c",
@@ -3846,6 +4028,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 13
+  },
+  {
+    "id": "39993db101c58a1d6c",
+    "title": "Much Ado About None: Sentinel Values in Python",
+    "url": "https://florianwilhelm.info/2026/10/sentinel_values",
+    "summary": "HN points: 15 | comments: 5",
+    "published": "2026-10-29T22:24:56Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 9
   },
   {
     "id": "100df7bff1f0299adf",
@@ -4225,6 +4420,19 @@
     "rank": null
   },
   {
+    "id": "4f3eca06ccd6218fb7",
+    "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+    "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference",
+    "summary": "HN points: 22 | comments: 10",
+    "published": "2026-10-29T18:33:40Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 13
+  },
+  {
     "id": "ff48ae50231fbe185c",
     "title": "Turning a solar power system into its own backup",
     "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup",
@@ -4475,14 +4683,14 @@
     "id": "6859dd9c1ff3704aa9",
     "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
     "url": "https://thedataexchange.media/leo-de-moura-lean-aws",
-    "summary": "HN points: 139 | comments: 32",
+    "summary": "HN points: 173 | comments: 38",
     "published": "2026-10-29T15:29:48Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 24
   },
   {
     "id": "716c295f790878076d",
@@ -7257,14 +7465,14 @@
     "id": "ce65bf8775182d4b38",
     "title": "Redox: Ring Buffers Project Summary",
     "url": "https://www.redox-os.org/news/nlnet-rb-summary",
-    "summary": "HN points: 3 | comments: 0",
+    "summary": "HN points: 35 | comments: 4",
     "published": "2026-10-28T14:27:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 12
   },
   {
     "id": "feb319d4fc0abee7a1",
@@ -7751,14 +7959,14 @@
     "id": "4b94c789ab502e825f",
     "title": "Reading and writing are less symmetric than you (probably) think",
     "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think",
-    "summary": "HN points: 32 | comments: 7",
+    "summary": "HN points: 55 | comments: 18",
     "published": "2026-10-28T09:38:07Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 18
   },
   {
     "id": "7f3145ae715ad7eaa1",
@@ -8890,213 +9098,5 @@
     "language": "ja",
     "category": "tech",
     "rank": 29
-  },
-  {
-    "id": "147bc5fc4f0f2f22f4",
-    "title": "Historical Scientific Instruments",
-    "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-    "summary": "HN points: 15 | comments: 0",
-    "published": "2026-10-27T23:32:35Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "7a4e525a2304300df6",
-    "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
-    "url": "https://gigazine.net/news/20261028-cve-tracker",
-    "summary": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 CVE Tracker https://cve.0xosprey.com/ CVE Trackerは共通脆弱性識別子(CVE)が割り当てられた脆弱性...",
-    "published": "2026-10-27T23:17:54Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 26
-  },
-  {
-    "id": "fd7a7eb0b8e504b090",
-    "title": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUC073490X01C26A0000000",
-    "summary": "富士フイルムはデータ保存用の磁気テープの供給能力を5倍に高める。大規模な増産投資は約20年ぶり。人工知能（AI）データセンター向けの需要増に応える。AI特需が成熟技術にも波及し、日本企業に恩恵が広がる。100億円投じ供給能力5倍に富士フイルムは神奈川県小田原市の工場に2028年度までに計100億円を投じる。最大100...",
-    "published": "2026-10-27T22:59:13Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "71f5178d3fa84027ae",
-    "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-    "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
-    "summary": "",
-    "published": "2026-10-27T22:49:05Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 26
-  },
-  {
-    "id": "1115b6ceb6c477e646",
-    "title": "An illustrated online book on Hewlett-Packard equipment",
-    "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment",
-    "summary": "HN points: 16 | comments: 3",
-    "published": "2026-10-27T22:47:41Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "72143df6c1fb4c674d",
-    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-    "summary": "HN points: 97 | comments: 79",
-    "published": "2026-10-27T22:31:15Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 11
-  },
-  {
-    "id": "91c2ddc0fcc038c09c",
-    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-    "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-    "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the U",
-    "published": "2026-10-27T22:30:45Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "4752dfbfe82e59b918",
-    "title": "フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261028de66719",
-    "summary": "ブラジルの大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員について、複数の地元メディアは27日、ブラジルを出国し、アメリカに到着したと伝えました。 地元メディアは、ボルソナロ氏が資金…",
-    "published": "2026-10-27T22:16:30Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 26
-  },
-  {
-    "id": "3d483b0e16fa58d2ef",
-    "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
-    "summary": "",
-    "published": "2026-10-27T21:44:26Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 9
-  },
-  {
-    "id": "c0db3f692ce609a62c",
-    "title": "【特集】 永続版Officeを使うには最初の設定が肝心！最新Office付きPCの落とし穴",
-    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2151639.html",
-    "summary": "",
-    "published": "2026-10-27T21:33:42Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "8b7d9ee318d014e20d",
-    "title": "Apple Knows Some iPhone Duos Have a Major Issue",
-    "url": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_Technology",
-    "summary": "Plus, Brazil canceled Flávio Bolsonaro’s passport, and a $300 billion “debt wall” is looming over private-equity backed companies.",
-    "published": "2026-10-27T21:21:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "814bddc17b3b7484c8",
-    "title": "Opinion | Anthropic Isn’t the End of Man",
-    "url": "https://www.wsj.com/opinion/anthropic-isnt-the-end-of-man-c173e96f?mod=rss_Technology",
-    "summary": "Its prospectus says more about national security than it does human extinction.",
-    "published": "2026-10-27T21:17:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "b0d060fb9fac2e560b",
-    "title": "Tech stocks gain as AI trade revives",
-    "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
-    "summary": "Wall Street rises as tech industry reports third-quarter earnings",
-    "published": "2026-10-27T21:07:42Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "c9a93384493723208e",
-    "title": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c4aa51dc?mod=rss_Technology",
-    "summary": "Find insight on Corning, PayPal and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "published": "2026-10-27T20:56:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "6b3ea9654bbc9c43db",
-    "title": "Early progress on accelerating drug development with Claude",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "summary": "HN points: 258 | comments: 252",
-    "published": "2026-10-27T20:50:42Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "24b6578137952702d9",
-    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a",
-    "summary": "HN points: 186 | comments: 108",
-    "published": "2026-10-27T20:48:49Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 18
   }
 ]
