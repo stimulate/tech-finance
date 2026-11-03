@@ -1,5 +1,499 @@
 [
   {
+    "id": "c1046e726a3db99c3f",
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "summary": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across E",
+    "published": "2026-11-03T17:28:49Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "1e65429144a68a0002",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "summary": "HN points: 128 | comments: 35",
+    "published": "2026-11-03T17:22:37Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "7ebbca5f2a5357842e",
+    "title": "The IPO Market Is Open For Anthropic. Not For Everyone Else.",
+    "url": "https://www.wsj.com/tech/ai/the-ipo-market-is-open-for-anthropic-not-for-everyone-else-15d97043?mod=rss_Technology",
+    "summary": "Plus, a wild week for tech earnings, and an Nvidia spy caper.",
+    "published": "2026-11-03T17:00:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "54a30ad103e17c0d3a",
+    "title": "Gitbook Breached",
+    "url": "https://news.ycombinator.com/item?id=50354336",
+    "summary": "HN points: 41 | comments: 6",
+    "published": "2026-11-03T16:45:49Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 14
+  },
+  {
+    "id": "ab4db8e33c8a8783dd",
+    "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+    "url": "https://arxiv.org/abs/2611.02618",
+    "summary": "HN points: 10 | comments: 0",
+    "published": "2026-11-03T16:40:02Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 11
+  },
+  {
+    "id": "13afe042e643665f29",
+    "title": "Trump Declared War on the Term ‘AI.’ CEOs Are Struggling to Keep Up.",
+    "url": "https://www.wsj.com/tech/ai/trump-declared-war-on-the-term-ai-ceos-are-struggling-to-keep-up-c81387ef?mod=rss_Technology",
+    "summary": "Executives from Nvidia to Microsoft have been walking a linguistic tightrope since the decree, sometimes recalibrating in midsentence",
+    "published": "2026-11-03T15:58:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "27a61030c26e96fcec",
+    "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+    "url": "https://concepts.laxmena.com/",
+    "summary": "HN points: 27 | comments: 2",
+    "published": "2026-11-03T15:48:35Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 23
+  },
+  {
+    "id": "8bb7416715a5ed7299",
+    "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+    "url": "https://hissingkitty.com/hacker-churn",
+    "summary": "HN points: 33 | comments: 17",
+    "published": "2026-11-03T15:41:52Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 18
+  },
+  {
+    "id": "d2b25a44794dfe2f0a",
+    "title": "Bear turns 10, and it still feels like day one",
+    "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one",
+    "summary": "HN points: 39 | comments: 19",
+    "published": "2026-11-03T15:41:46Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 13
+  },
+  {
+    "id": "718ae8f851c0dea58f",
+    "title": "EU Court Advisor Warns AI Chatbots Could Risk Infringing Copyright Law",
+    "url": "https://www.wsj.com/business/media/eu-court-adviser-warns-ai-chatbots-could-risk-infringing-copyright-law-41793aa3?mod=rss_Technology",
+    "summary": "Tech companies could risk breaching EU copyright when their AI chatbots reuse news articles to generate answers, a top advisor to the bloc’s highest court said.",
+    "published": "2026-11-03T15:39:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "856083a907db4ce8fa",
+    "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+    "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+    "summary": "HN points: 92 | comments: 50",
+    "published": "2026-11-03T15:38:04Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 17
+  },
+  {
+    "id": "18dd3b0e6bdc7fe064",
+    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling",
+    "summary": "HN points: 141 | comments: 80",
+    "published": "2026-11-03T15:29:15Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 9
+  },
+  {
+    "id": "ec334ab46626f15705",
+    "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "summary": "HN points: 201 | comments: 171",
+    "published": "2026-11-03T15:25:47Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "c584804dfd35a6ed39",
+    "title": "Tiny Basic for Arduino",
+    "url": "https://dilshan.github.io/tiny-basic",
+    "summary": "HN points: 29 | comments: 9",
+    "published": "2026-11-03T15:17:07Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 12
+  },
+  {
+    "id": "5e419e586b2c6789f0",
+    "title": "Handles are the better pointers (2018)",
+    "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+    "summary": "HN points: 17 | comments: 10",
+    "published": "2026-11-03T14:54:30Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 22
+  },
+  {
+    "id": "ca57e202ac5a23cbc2",
+    "title": "Mac at Any Scale",
+    "url": "https://namespace.so/blog/mac-at-any-scale",
+    "summary": "HN points: 132 | comments: 58",
+    "published": "2026-11-03T14:53:42Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "eadd6c2e4b44396ce6",
+    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+    "url": "https://news.ycombinator.com/item?id=50352757",
+    "summary": "HN points: 151 | comments: 57",
+    "published": "2026-11-03T14:53:41Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "9e1d46f16b0af8bc24",
+    "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+    "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+    "summary": "Shares in iPhone maker slip as warning overshadows forecast for robust sales during the key holiday season",
+    "published": "2026-11-03T14:48:05Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "61c95135dcbf9c29ff",
+    "title": "Binance battles to save its brand after record $6.3bn crypto hack",
+    "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
+    "summary": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsApp This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here This week in tech, we",
+    "published": "2026-11-03T14:45:30Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "bd7e39b40ee832b7be",
+    "title": "AI Faces the Electorate in a Multi-Front Midterm Clash",
+    "url": "https://www.wsj.com/cmo-today/ai-faces-the-electorate-in-a-multi-front-midterm-clash-13019b01?mod=rss_Technology",
+    "summary": "Plus, British citizens are finally warming to disaster preparedness following a mix of serious warnings and quirky stockpile wish lists.",
+    "published": "2026-11-03T14:40:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "ad97ebae8e49b71fa1",
+    "title": "続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+    "url": "https://note.com/t_yabuhara/n/nf9692965d028",
+    "summary": "結論前回お知らせした taro.bar の件は、残念ながら状況が変わりませんでした。上位レジストリによるプレミアム化という説明のもと、更新価格は 171,517 円の提示が維持され、販売会社の裁量では変更できないという回答でした。補償策として、別ドメイン取得に充当できる 1 万円分のポイント付与をご提案いただきました...",
+    "published": "2026-11-03T13:56:36Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 12
+  },
+  {
+    "id": "035cea4c69b0e0bf06",
+    "title": "AI’s Most Wanted Hire Gets a Big Raise",
+    "url": "https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8?mod=rss_Technology",
+    "summary": "Plus, AI on the ballot from coast to coast",
+    "published": "2026-11-03T13:45:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d9ad42c0679358194c",
+    "title": "Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks",
+    "url": "https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a?mod=rss_Technology",
+    "summary": "The hunt for corporate AI returns has spawned a battle for FDEs as enterprises, AI labs and consulting firms fight for the same talent.",
+    "published": "2026-11-03T13:30:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "677c8e4dab7ff9217c",
+    "title": "Charles Tandy, the mastermind behind Radio Shack",
+    "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack",
+    "summary": "HN points: 84 | comments: 64",
+    "published": "2026-11-03T12:42:30Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
+  },
+  {
+    "id": "faf38fe5161d751f42",
+    "title": "GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "summary": "Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it mean",
+    "published": "2026-11-03T12:34:20Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "7ffb13f25fd9721889",
+    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+    "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "summary": "HN points: 706 | comments: 162",
+    "published": "2026-11-03T12:21:17Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 6
+  },
+  {
+    "id": "1daee29f57ee7d76ff",
+    "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+    "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+    "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’ Business live – latest updates Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn de",
+    "published": "2026-11-03T11:55:28Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f59bb7594eca1eae15",
+    "title": "Our current AI moment has darker historical echoes",
+    "url": "https://www.ft.com/content/9059f430-6c99-4aa0-9f3e-85e95ccdcd78",
+    "summary": "If you are looking for past instances of transformative capitalist mobilisation, you need to consider the age of empire",
+    "published": "2026-11-03T11:40:10Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "0515e7ea061b7729da",
+    "title": "ADRをregoでlintする",
+    "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+    "summary": "AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、...",
+    "published": "2026-11-03T11:32:21Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "0479eda53cc17999ec",
+    "title": "セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000",
+    "summary": "セブン―イレブン・ジャパンは3日、宅配サービス「セブンナウ」の業務委託先が不正アクセスを受け顧客情報が流出したと発表した。注文者の名前や住所など16万件超が流出した。不正利用などの被害は現時点で確認されていないという。セブンナウの配達業務の一部を委託しているCBcloud（CBクラウド、東京・千代田）が不正ア...",
+    "published": "2026-11-03T11:16:21Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 9
+  },
+  {
+    "id": "8383fe09f6e7b40905",
+    "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+    "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+    "summary": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin",
+    "published": "2026-11-03T11:00:57Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "a68fb2334600fc8b42",
+    "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ800円だった店も1500円とかでほぼ倍になってるのに、給料は倍になんてなってない… 駅前はつぶれる飲食店が増えてる やっぱどの店もこの急激な値上げ値上げで客が減ってるのかな→「私は『ワンコインランチ』が主流だった頃を覚えてますが、その当時から時給が3倍になってはないですね」",
+    "url": "https://posfie.com/@kalofollow/p/Lr87LNs",
+    "summary": "ベイクスタンド・シャモニー @29g85lZWQufOUEO @nyankoro1017 ランチの値段が気になる現役世代の皆さんが、この先老いて施設に入ろうと思った時、おそらくその費用にまた愕然とすることになると思います 氷河期世代は野垂れ死になんて言われるかもしれません😢 2026-11-03 16:10:44 nyankoro @nyankoro1017 @29g85lZWQuf...",
+    "published": "2026-11-03T11:00:06Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 8
+  },
+  {
+    "id": "ba0da27d390e88a79a",
+    "title": "ロシア大統領府、米・ウとの3か国協議を確認 10～11日にアブダビで",
+    "url": "https://www.afpbb.com/articles/-/3660614",
+    "summary": "クレムリンのドミトリー・ペスコフ報道官（2026年10月27日撮影）。(c)Igor IVANKO/POOL/AFP 【11月3日 AFP】ロシア大統領府（クレムリン）は3日、米国の仲介によるロシアとウクライナの3か国協議が来週、アラブ首長国連邦（UAE）のアブダビで行われることを確認した。4年以上続くウクライナでの戦争終結に向けた協議。 ...",
+    "published": "2026-11-03T10:36:18Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 12
+  },
+  {
+    "id": "413875a4596f0b1961",
+    "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+    "url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_Technology",
+    "summary": "Apple is the rare big tech play that hasn’t become a giant bet on the AI boom.",
+    "published": "2026-11-03T10:30:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "4cfbe6ef7db7af7f51",
+    "title": "サム・アルトマン「バグ全部修正するのはもうムリ」 | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching",
+    "summary": "GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。 国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案が目白押...",
+    "published": "2026-11-03T10:25:28Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 26
+  },
+  {
+    "id": "2c17f121835b246324",
+    "title": "トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 | TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3057565",
+    "summary": "トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】",
+    "published": "2026-11-03T10:09:31Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 1
+  },
+  {
+    "id": "08018d5c54eb874c8f",
+    "title": "How did dozens of supermarket freezers get hacked?",
+    "url": "https://www.ft.com/content/90e63a7f-45d7-4e7a-940d-6d5145d51941?syn-25a6b1a6=1",
+    "summary": "Temperatures were turned up remotely to as high as 55C ruining food worth millions of euros",
+    "published": "2026-11-03T10:01:21Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "9d57ece8d5b37c57d9",
+    "title": "「この辺マメに出来んやつは落ちる」結婚式で思いがけない相手からの一通の祝電に様々な反応が集まる→意外と政治家は結婚式に祝電を送ってくる",
+    "url": "https://togetter.com/li/2766202",
+    "summary": "おじとら @ojitorachannel 娘の結婚式に、高市早苗内閣総理大臣より祝電を頂戴しました。 思いがけない温かいお祝いに、家族一同感激しております。 心より感謝申し上げます。 #高市早苗総理大臣 #結婚式 #感謝 pic.x.com/WBYt4dtex1 2026-11-02 11:52:32",
+    "published": "2026-11-03T09:28:48Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 2
+  },
+  {
     "id": "7bc5756c08799a2ce0",
     "title": "No Vehicles in the Park",
     "url": "https://novehiclesinthepark.com/",
@@ -13,16 +507,55 @@
     "rank": 7
   },
   {
+    "id": "f6fcdb06b07a41cca7",
+    "title": "皆が突貫で作ったと思ってるGMOの会見で使われたこのスライドは、実は今年2月の決算説明資料の再掲なんだよ→なかなかインパクトのある中身だった",
+    "url": "https://togetter.com/li/2766163",
+    "summary": "GMOインターネットグループ 不正アクセス問題に関する初の記者会見 熊谷正寿社長が説明 - 2026/11/2(月) 15:30開始 - ニコニコ生放送 GMOインターネットグループは不正アクセスを受けた問題で、熊谷正寿社長らが記者会見を開くと発... 2 users ニコニコ生放送 熊谷 正寿 2025年12月期 通期決算説明会 グループ代表CEO 熊...",
+    "published": "2026-11-03T09:08:36Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 10
+  },
+  {
+    "id": "a7320146ad99ddefdf",
+    "title": "｢令和の野々村｣｢ポエム会見｣GMO会見が《完全な失敗》だったと言える理由…\"カリスマトップを止められない\"組織の弱さ",
+    "url": "https://toyokeizai.net/articles/-/963378",
+    "summary": "コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...",
+    "published": "2026-11-03T09:02:39Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 20
+  },
+  {
     "id": "d639e1c1fb41af2edb",
     "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
     "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-    "summary": "iPhone maker’s says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres ",
+    "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to",
     "published": "2026-11-03T09:01:19Z",
     "source": "The Guardian · Technology",
     "source_type": "publisher",
     "publisher": "The Guardian",
     "language": "en",
     "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "c4d183a3e432dd352c",
+    "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+    "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+    "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to",
+    "published": "2026-11-03T09:01:19Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
     "rank": null
   },
   {
@@ -37,6 +570,84 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "d5a8782fd0de09e40c",
+    "title": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka",
+    "url": "https://note.com/npaka/n/ncccb2783a262",
+    "summary": "1. はじめに2026年9月8日、Metaは常駐型AIエージェント「Muse」のセキュリティ設計について、技術記事「How We Built Safety Into Muse」を公開しました。 Museは、ユーザーの好みや個人情報を記憶し、メールの確認、予定の管理、買い物、Web操作などを自律的に実行するAIエージェントです。 こうした機能は便利ですが、...",
+    "published": "2026-11-03T08:33:54Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 17
+  },
+  {
+    "id": "c0a170514de846a384",
+    "title": "ISUCON2026 で 4位でした - Route54",
+    "url": "https://goccy54.hatenablog.com/entry/2026/11/03/172808",
+    "summary": "ISUCON は過去に4回ほど経験があるのですが、今回はかなり久しぶりの参戦になりました。チームメンバーのライフステージが変化し、自分も2歳の子供がいるので今回も見送ろうと思っていたのですが、ありがたいことに会社のスポンサー枠があるとのことで急遽その枠を使わせていただきました。 そんな状態だったのでチーム...",
+    "published": "2026-11-03T08:32:08Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 21
+  },
+  {
+    "id": "6e4c13b8183b101341",
+    "title": "黒海で相次ぐロシアの商船攻撃、空と海からドローンで襲撃 「世界で最も危険な海域」に",
+    "url": "https://www.cnn.co.jp/world/35254314.html",
+    "summary": "黒海でドローン攻撃を受けた船舶の様子。この1カ月で同様の攻撃を受けた船は10隻を超える＝13日/Bulgarian Interior Ministry/Handout/Reuters （CNN） 黒海でロシアによる商船攻撃が相次いでいる。ロシアのドローンはここ数週間で少なくとも12隻の商船を攻撃し、イランでの戦争を上回る数の船員が死亡した。 ロシアの狙...",
+    "published": "2026-11-03T08:07:34Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 9
+  },
+  {
+    "id": "f59a4c77af5e407d38",
+    "title": "ADRをregoでlintする",
+    "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+    "summary": "AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、少しずつ自由になっていく。テンプレートを置いて書き方を指示していても、ずれるときはずれる。たとえば、 ",
+    "published": "2026-11-03T07:59:33Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "1136a70188f01a5af7",
+    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "summary": "HN points: 291 | comments: 138",
+    "published": "2026-11-03T07:56:21Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 15
+  },
+  {
+    "id": "c5b38e04a7ceeabbdd",
+    "title": "トランプ、中間選挙で民主党が勝てばイーロン・マスクに「恩赦を与える可能性」を示唆 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/107618",
+    "summary": "ドナルド・トランプ大統領は、米国時間11月3日の中間選挙で民主党が議会の主導権を握った場合、同党が計画する各種の調査からイーロン・マスクや一部のスタッフを守るため、彼らに予防的な恩赦を与える可能性があると述べた。 ポッドキャスト番組『Pod Force One』の司会者ミランダ・ディバインからこの件について問われ...",
+    "published": "2026-11-03T07:51:43Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 4
   },
   {
     "id": "434c1d2569540bf2a1",
@@ -62,7 +673,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 1
   },
   {
     "id": "8251eb50ca86c025de",
@@ -89,6 +700,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "ba5b32f69e86b0fce9",
+    "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてうまい｣を支える意外なもの",
+    "url": "https://president.jp/articles/-/121217",
+    "summary": "ただ、全国的な長雨の影響で、白菜やキャベツなど葉物野菜の価格が上がっている。しかも、毎日自炊するという大家族でなければ、これらの野菜を丸々買ったところで、なかなか消費ができずに悪くしてしまうことも少なくないだろう。 そういう時に重宝されているのが「カット野菜」だ。 鍋用やサラダ用という用途に合わせ...",
+    "published": "2026-11-03T05:31:01Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 5
   },
   {
     "id": "ca5997389636d651e0",
@@ -131,9 +755,9 @@
   },
   {
     "id": "3bb2dca2364e1cb16f",
-    "title": "Lula’s digital triumph in Brazil election offers global model for the left",
+    "title": "Digital ‘Lula’s army’ inspires leftists in France, Argentina and Spain",
     "url": "https://www.ft.com/content/4e777c1f-d0fa-40ae-97b3-a131a4d0f632?syn-25a6b1a6=1",
-    "summary": "Activists in France, Spain and Argentina try to copy social media campaign that turned vote around",
+    "summary": "Activists try to copy Brazilian social media campaign that turned vote around",
     "published": "2026-11-03T05:00:05Z",
     "source": "FT · Technology",
     "source_type": "publisher",
@@ -153,7 +777,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 4
+  },
+  {
+    "id": "11b1ca9e3a4aba4abc",
+    "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo",
+    "summary": "画像説明, スーパーの冷凍庫から大量の食品を廃棄するため取り出すスタッフ（2日、スウェーデン・ショーボ）",
+    "published": "2026-11-03T04:18:56Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 15
   },
   {
     "id": "c8f48508bfd3035083",
@@ -166,7 +803,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 3
   },
   {
     "id": "d9b3925611e592d263",
@@ -192,7 +829,59 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 6
+  },
+  {
+    "id": "dfcdeafc73e71c1a50",
+    "title": "Protocol Explorer · Learn how the internet works",
+    "url": "https://protocol-explorer-alpha.vercel.app/",
+    "summary": "Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turki",
+    "published": "2026-11-03T03:40:37Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "a9d76a76c00b2dd08c",
+    "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+    "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+    "summary": "「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結果、要件定義できるほどの解像度はない、できてからいろいろ意見はしたい、でも人の介在は最小限にしたい、という ガチのシステム屋さんに言ったら殴られそうな 要望を持つことも多",
+    "published": "2026-11-03T03:30:05Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "7d996e1e7c5de34242",
+    "title": "月額無料のAI通訳イヤフォン「W4 Plus」を試す 翻訳精度をオンラインとオフラインで比較した",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
+    "summary": "Timekettle（タイムケトル）が10月8日に応援購入サービス「Makuake」で先行販売を開始した「W4 Plus」は、AI通訳イヤフォンの新モデルだ。Makuakeでは4万8999円からのリターンを用意しており、一般販売予定価格は6万7999円となっている。リターンは2027年1月末までに配送され、一般販売は2月初旬に始まる予定だ。カラー...",
+    "published": "2026-11-03T03:29:37Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 18
+  },
+  {
+    "id": "1512bbcc6989438cbf",
+    "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道",
+    "url": "https://www.afpbb.com/articles/-/3660580",
+    "summary": "船舶追跡ウェブサイトに表示されたホルムズ海峡。海峡のイラン側（上）にあるのがケシュム島（2026年3月4日撮影）。(c)JULIEN DE ROSA/AFP 【11月3日 AFP】米紙ウォールストリート・ジャーナルは2日、米軍がイランのケシュム島を攻撃したと報じた。ドナルド・トランプ米大統領が、8か月に及ぶ紛争の終結に向けたイランと...",
+    "published": "2026-11-03T03:28:26Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 13
   },
   {
     "id": "026feb516ab53cca32",
@@ -221,6 +910,19 @@
     "rank": 15
   },
   {
+    "id": "3cf02c730115708a65",
+    "title": "久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」",
+    "url": "https://togetter.com/li/2766077",
+    "summary": "久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」",
+    "published": "2026-11-03T02:45:23Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 11
+  },
+  {
     "id": "5c89de07e622d139d5",
     "title": "米軍、イランのゲシュム島に「防衛目的」の限定攻撃 中間選挙前夜",
     "url": "https://www.cnn.co.jp/usa/35254309.html",
@@ -231,7 +933,46 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 18
+  },
+  {
+    "id": "7687256c14ebadb9b7",
+    "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+    "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+    "summary": "はじめに 前回の記事で、ラズパイから Windows PC をシャットダウンするコマンド quench を作りました。quench foo と打てば、確認を挟んで SSH で shutdown を送り、PC が止まるまで待ってくれます。 ただ、前回の記事の最後にも書いたとおり、今の quench は Windows の管理者アカウントで SSH しています。ラズパイに置いてあるこの秘密鍵があれば、シャットダウンどころか、ソフトのインストールもファイルの削除も、何でもできてしま",
+    "published": "2026-11-03T02:25:50Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "d39e26d9b91dc2d0b1",
+    "title": "トランプ氏、イランとの合意「実現するかもしれない」 バンス氏も楽観",
+    "url": "https://www.afpbb.com/articles/-/3660572",
+    "summary": "【11月3日 AFP】ドナルド・トランプ米大統領は2日、イランとの合意が実現する可能性があるとの見方を示した。これに先立ち、イランは米国との間接交渉を明らかにし、厳しい条件付きでホルムズ海峡の再開を提案していた。 トランプ氏は3日の中間選挙を前に、「原油価格は急落しており、1バレル当たり10ドル（約1600円）近...",
+    "published": "2026-11-03T02:23:06Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 16
+  },
+  {
+    "id": "1c67e507c22e680ce6",
+    "title": "『玉城デニー氏をたたけばバズる』東京新聞記事に「権力者批判の新しい形」だと話題に",
+    "url": "https://posfie.com/@Elif87995911/p/P7va93R",
+    "summary": "「玉城デニー氏をたたけばバズる」…沖縄県知事選挙中に量産された「カネもうけ目的」ネット動画：東京新聞デジタル 高市早苗政権が支援する新人の古謝玄太氏が現職の玉城デニー氏を破った9月の沖縄県知事選。期間中にユーチューブに投稿された関連動画のうち東... 2 users 東京新聞デジタル",
+    "published": "2026-11-03T02:20:15Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 10
   },
   {
     "id": "8478eedc390b5efb8f",
@@ -260,6 +1001,19 @@
     "rank": 5
   },
   {
+    "id": "d56dcc816724540808",
+    "title": "【やじうまミニレビュー】 550円なのに240W！ワッツの巻取USB-Cケーブルは“やりすぎ”スペック",
+    "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2153264.html",
+    "summary": "",
+    "published": "2026-11-03T01:33:41Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
     "id": "2e4f389304e13b4f08",
     "title": "トランプ政権に「共感」日本国内で23.1％ 「日本にもトランプ氏のような強い政治家が必要」は52.6％ アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/8c75a8975878883f4f38e84905c6709236900e85",
@@ -270,7 +1024,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 7
   },
   {
     "id": "b4d672d7755b13033d",
@@ -283,20 +1037,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 6
   },
   {
-    "id": "9e1d46f16b0af8bc24",
-    "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
-    "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
-    "summary": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
-    "published": "2026-11-03T01:17:37Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
+    "id": "7103ed2d38874c12d5",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand? | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days a",
+    "published": "2026-11-03T01:10:06Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
     "category": "tech",
-    "rank": null
+    "rank": 19
   },
   {
     "id": "8f205385801e6951be",
@@ -309,7 +1063,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 30
   },
   {
     "id": "cad578a5504b555529",
@@ -348,7 +1102,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 19
   },
   {
     "id": "45829beb3c5f87359d",
@@ -361,20 +1115,33 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 23
+  },
+  {
+    "id": "7fd6ab2f35d2b90a3c",
+    "title": "北朝鮮、バイナンス巨額流出巡るFBIの指摘を「重大な政治的挑発」と非難",
+    "url": "https://www.afpbb.com/articles/-/3660569",
+    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【11月3日 AFP】北朝鮮は3日、暗号資産（仮想通貨）交換業大手バイナンスから60億ドル（約9500億円）超の資産が盗まれた事件に同国が関与したとする米連邦捜査局（FBI）...",
+    "published": "2026-11-03T00:24:18Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 14
   },
   {
     "id": "ca9b9431463e007c44",
     "title": "あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止",
     "url": "https://japan.cnet.com/article/35254298",
-    "summary": "Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用...",
+    "summary": "XCPEは、利用者に気付かれずに端末を遠隔操作するための「バックドア」を使い、多数の端末を犯罪に利用できる状態にしていた。こうした端末の集まりは「ボットネット」と呼ばれる。感染端末の大半は、テレビにつないで動画などを視聴するAndroid TV搭載のセットトップボックスで、複数のブランドや機種に不正ソフトが組...",
     "published": "2026-11-03T00:12:21Z",
     "source": "はてな · IT Hotentry",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 27
   },
   {
     "id": "d80220d420f96476fb",
@@ -439,7 +1206,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 22
   },
   {
     "id": "39b84e73c58dbddfda",
@@ -453,6 +1220,32 @@
     "language": "en",
     "category": "tech",
     "rank": 17
+  },
+  {
+    "id": "39b712ecf56bf66beb",
+    "title": "携帯4社、通品品質は「2強2弱」？ ドコモと楽天モバイルの現状は (1/5)",
+    "url": "https://ascii.jp/elem/000/004/447/4447827",
+    "summary": "イギリスの調査会社であるOpensignalは10月28日、日本における2026年10月版「モバイル・ネットワーク・ユーザー体感レポート」を発表した。 auが「信頼性」や「一環した品質」の通信品質2部門、動画やゲームなどアプリ体感など8部門で、計10部門で受賞となった。 Opensignalのプリンシパル・アナリストであるロバート・...",
+    "published": "2026-11-02T23:47:09Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 14
+  },
+  {
+    "id": "1f65323f41a677f473",
+    "title": "トランプ氏、中間選挙前の最終演説で20分以上「首都の改修」を熱弁",
+    "url": "https://www.cnn.co.jp/usa/35254304.html",
+    "summary": "（CNN） 米中間選挙の投開票日を翌日に控えた2日、トランプ大統領は改修を終えた首都ワシントンにあるリンカーン記念堂の「リフレクティング・プール（反射池）」を前に演説し、首都で進める自身の改修プロジェクトについて24分語り続けた。 演説開始からおよそ6分経過した頃、トランプ氏は側近に改修工事の様子が写った...",
+    "published": "2026-11-02T23:41:07Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 11
   },
   {
     "id": "a7738df712fdab7236",
@@ -478,7 +1271,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 21
   },
   {
     "id": "52b4ddf2a0a6c59ff7",
@@ -530,7 +1323,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 29
   },
   {
     "id": "b8de5bbaf3b521ab96",
@@ -648,6 +1441,19 @@
     "language": "en",
     "category": "tech",
     "rank": 14
+  },
+  {
+    "id": "65772bb15372b82822",
+    "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+    "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+    "summary": "HN points: 69 | comments: 8",
+    "published": "2026-11-02T19:18:46Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 10
   },
   {
     "id": "42e39c858dc3a8d1f7",
@@ -894,7 +1700,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 23
   },
   {
     "id": "01a404715cb091bd06",
@@ -921,6 +1727,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "c82621ae4b48f41105",
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack",
+    "summary": "HN points: 254 | comments: 85",
+    "published": "2026-11-02T16:29:19Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
   },
   {
     "id": "d68474e73f64253736",
@@ -998,7 +1817,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 22
   },
   {
     "id": "d1130ba72533a8da3f",
@@ -1054,7 +1873,7 @@
   },
   {
     "id": "d389d503bd4088fa1a",
-    "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026",
+    "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
     "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
     "summary": "ISUCON2026に応援とちょっかい出しの二人とClaude Code(Opus 5.5+Fable 5.1)のチームで参加しました。 結果は 301,558 点で856 チーム中 12 位でした 🎉 ISUCONとは与えられたWebアプリを8時間でどこまで速くできるかを競うコンテストです。 運営が用意したベンチマーカーを走らせるとスコアが出ます、楽しいです。 今回は人間は方針を伝えるだけにしてコードの修正からデプロイ、ベンチ、結果の判断、記録までをエージェントに任せてみま",
     "published": "2026-11-02T14:52:35Z",
@@ -1063,7 +1882,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "768496be022446ace7",
@@ -1077,6 +1896,19 @@
     "language": "en",
     "category": "tech",
     "rank": 20
+  },
+  {
+    "id": "af13c6d1b81c4aacfe",
+    "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+    "url": "https://fukabori.fm/episode/142",
+    "summary": "MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に...",
+    "published": "2026-11-02T14:50:40Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
   },
   {
     "id": "a9c6a4aee092e44d14",
@@ -1170,6 +2002,19 @@
     "rank": null
   },
   {
+    "id": "1514f41a4186e8540b",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+    "summary": "HN points: 203 | comments: 81",
+    "published": "2026-11-02T14:02:42Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 4
+  },
+  {
     "id": "3af1edd6a36024db44",
     "title": "欧州各地で冷蔵設備にサイバー攻撃 ベルギーのスーパー40店で温度上昇",
     "url": "https://www.sankei.com/article/20261102-WBX7YVU235PL5KBT7YS246ZBGM",
@@ -1193,7 +2038,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 5
   },
   {
     "id": "46291a21860540a7dc",
@@ -1238,14 +2083,14 @@
     "id": "f2565447b78896fad0",
     "title": "ISUCON2026 で優勝しました（当日編）",
     "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-    "summary": "はじめに こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。 ISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISUCON への参加は10年ぶりです。 今回は、完全自律で動作する、HOOTL (H",
+    "summary": "はじめに こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。 ISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISUCON への参加は10年ぶりです。 今回は、完全自律で動作する、HOOTL（Hu",
     "published": "2026-11-02T13:26:09Z",
     "source": "Zenn · Trending",
     "source_type": "community",
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 6
   },
   {
     "id": "4a73bde6d5349933ea",
@@ -1339,6 +2184,19 @@
     "rank": 21
   },
   {
+    "id": "d599dd5b77dfea3f7d",
+    "title": "Exploring the Legacy of Image Club Graphics",
+    "url": "https://blog.somnolescent.net/2026/02/exploring-the-legacy-of-image-club-graphics",
+    "summary": "HN points: 4 | comments: 0",
+    "published": "2026-11-02T12:46:28Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 20
+  },
+  {
     "id": "a41bcbdf0b82d0778f",
     "title": "ARCHITECTURE.md",
     "url": "https://architecture.md/",
@@ -1376,6 +2234,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 29
+  },
+  {
+    "id": "d1b4698c94b6af7a7d",
+    "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
+    "url": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
+    "summary": "小さな言語の型検査器を書いて、「検査器が通した式は評価で行き詰まらない」ことと「検査器は型が付く式を取りこぼさない」ことを証明します。使うのは Tauto です。 この記事では、小さな言語を例に、Tauto のマクロで構文木の型や型検査器を生成する方法を紹介します。生成器が扱える形の型付け規則であれば、検査結果に導出・反証・型の一意性の証明を持たせられます。評価器や構文木の変換関数、それらに関する定理は別途記述します。 https://github.com/Hihaheho/",
+    "published": "2026-11-02T12:06:50Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
   },
   {
     "id": "b52322ce8ed0461af1",
@@ -1430,6 +2301,19 @@
     "rank": 26
   },
   {
+    "id": "f15dec39c19d4c3a91",
+    "title": "DeepSeek が描く AI エージェントの未来像",
+    "url": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+    "summary": "DeepSeek が Super-agent という AI エージェントの構想を公開しました。利用者と会話を続けながら複数の仕事を進め、GitHub やチャットの変化にも対応します。人が作業やセッションを管理する負担をどう減らすのか、既存のエージェントとの違いも含めてまとめました。 TL;DR Super-agent は仕事の進行やセッションの管理をシステムへ任せ、人が細かく指示・確認する負担を減らす構想です。 利用者との会話と仕事の振り分けは Router、個々の作業は W",
+    "published": "2026-11-02T11:37:23Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 8
+  },
+  {
     "id": "fdcaa0971ee608e188",
     "title": "【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） | ニュース | 株式会社セガ フェイブ",
     "url": "https://www.segafave.co.jp/news/261102_1",
@@ -1469,6 +2353,19 @@
     "rank": 17
   },
   {
+    "id": "18cb4efd4942ec55e2",
+    "title": "Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了|セキュリティニュースのセキュリティ対策Lab",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/cve_2025_1974_ingressnightmare_kubernetes_ingress_nginx_eol_20261102",
+    "summary": "Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了 Kubernetes向けのIngress NGINX Controller（ingress-nginx）に存在した重大な脆弱性「CVE-2025-1974」は、攻撃者が特定のネットワーク条件を満たすと、認証情報を持たずにコントローラー上...",
+    "published": "2026-11-02T11:17:07Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
+  },
+  {
     "id": "652cc67051b88d20ea",
     "title": "トランプ氏のロシアへの好意は謎ではない。最も単純な説明が最も良い説明だ。Trump’s Affection for Russia Is No Mystery The best explanation is the least complicated one.",
     "url": "https://anond.hatelabo.jp/20261102194255",
@@ -1479,7 +2376,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 24
   },
   {
     "id": "4d592c19e6c3b116f1",
@@ -1635,7 +2532,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 27
   },
   {
     "id": "78f38c791280aa1144",
@@ -1648,7 +2545,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 26
   },
   {
     "id": "2ce17d6974545373d1",
@@ -1674,7 +2571,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "e1471c44005f1865b8",
@@ -1701,6 +2598,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 27
+  },
+  {
+    "id": "c1416a5ad6273eec8c",
+    "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
+    "url": "https://www.mattkeeter.com/projects/antimony/3",
+    "summary": "HN points: 46 | comments: 10",
+    "published": "2026-11-02T08:29:40Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "5bc132b9b486b5e944",
@@ -1739,7 +2649,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 25
   },
   {
     "id": "0e323769b4f68b3457",
@@ -1843,7 +2753,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 10
   },
   {
     "id": "467ac971ad1e560d50",
@@ -1986,7 +2896,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 11
   },
   {
     "id": "369a23c70e3feeb1fb",
@@ -2103,7 +3013,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 28
   },
   {
     "id": "99ad5a133989ca90fc",
@@ -2130,6 +3040,19 @@
     "language": "en",
     "category": "tech",
     "rank": 1
+  },
+  {
+    "id": "0b482a9fe05626d561",
+    "title": "Why Don't We Live in an Art Nouveau World?",
+    "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+    "summary": "HN points: 62 | comments: 71",
+    "published": "2026-11-02T05:05:11Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 24
   },
   {
     "id": "eb9b49f23da40a0d55",
@@ -2184,6 +3107,19 @@
     "rank": null
   },
   {
+    "id": "b36c3d99f96c6d16aa",
+    "title": "米中間選挙直前、共和党が最後の巻き返し狙う 民主優勢に焦り",
+    "url": "https://www.afpbb.com/articles/-/3660473",
+    "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【11月2日 AFP】米国で3日に投開票される中間選挙を前に、厳しい選挙戦を強いられている共和党は1日、最後の追い込みをかけた。民主党は上下両院での多数派奪還を目指し...",
+    "published": "2026-11-02T04:30:43Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 15
+  },
+  {
     "id": "f4f490de068343ff0a",
     "title": "ISUCON2026 にツールを捨てて勝ちたかった",
     "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
@@ -2233,7 +3169,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 25
   },
   {
     "id": "2a15d3831ee04722f3",
@@ -2337,7 +3273,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 17
+    "rank": 29
   },
   {
     "id": "ed0ebf6269a93e0341",
@@ -2364,6 +3300,19 @@
     "language": "ja",
     "category": "tech",
     "rank": 18
+  },
+  {
+    "id": "81bd1aa4ecc38fd823",
+    "title": "Katamari Damacy but it's The Met collection",
+    "url": "https://katamari.vaguespac.es/",
+    "summary": "HN points: 123 | comments: 37",
+    "published": "2026-11-02T02:21:07Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 19
   },
   {
     "id": "006b9c19e01d802415",
@@ -2610,7 +3559,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 17
   },
   {
     "id": "82591ac41529ab6a67",
@@ -2662,7 +3611,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 30
   },
   {
     "id": "40f2e82d3cb8ae124b",
@@ -2925,6 +3874,19 @@
     "rank": 24
   },
   {
+    "id": "056a48f74ffff773e4",
+    "title": "Embedding boolean circuits in a neural network",
+    "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
+    "summary": "HN points: 10 | comments: 3",
+    "published": "2026-11-01T15:27:44Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 25
+  },
+  {
     "id": "c152e702a446072970",
     "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
     "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_Technology",
@@ -3065,7 +4027,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 12
   },
   {
     "id": "f5b36dcb1767580388",
@@ -3133,6 +4095,19 @@
     "rank": 15
   },
   {
+    "id": "d1758ffc4efbc13020",
+    "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
+    "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
+    "summary": "はじめに 構造化出力は、リクエストに JSON スキーマを渡すと、モデルの出力をそのスキーマに合う JSON に制限する機能です。アプリケーションの機能として生成 AI を組み込む時、出力形式を指定することで実装がしやすくなります。しかしプロンプトで指定するだけでは十分なスキーマ強制が難しく、従来は Pydantic AI などのフレームワークを組み合わせ、アプリ側で対応する必要がありました。構造化出力はプロンプトではなく API 側の指定でこれを行うものであり、トークンを生",
+    "published": "2026-11-01T12:51:18Z",
+    "source": "Zenn · Trending",
+    "source_type": "community",
+    "publisher": "Zenn",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
     "id": "5fa350cd84a0a7481a",
     "title": "Everyone Has Email. Nobody Uses It Right",
     "url": "https://kaplich.me/essays/email",
@@ -3169,7 +4144,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 14
   },
   {
     "id": "7a0646d1f7dc631c1e",
@@ -3546,7 +4521,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 28
   },
   {
     "id": "d00e35a1808a8d8fcd",
@@ -3598,7 +4573,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 15
   },
   {
     "id": "4f48b111ed49accb6d",
@@ -4495,7 +5470,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 16
   },
   {
     "id": "b6d7f03b4291ce7543",
@@ -4615,6 +5590,19 @@
     "rank": 28
   },
   {
+    "id": "70fa14016fc083d543",
+    "title": "勉強会の懇親会が苦手な人も楽しめる場をつくりたい",
+    "url": "https://speakerdeck.com/ohmori_yusuke/benkyoukai-no-konshinkai-ga-nigatena-hito-mo-tanoshimeru-ba-o-tsukuritai",
+    "summary": "https://fortee.jp/komekaigi-2026/proposal/a8e0ca48-c360-4c2a-ac7c-7c813754b4ac",
+    "published": "2026-10-31T11:37:01Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 20
+  },
+  {
     "id": "0d1db597b17c000125",
     "title": "America’s Debt Soars as Washington’s Fiscal Hawks Vanish",
     "url": "https://www.wsj.com/tech/ai/americas-debt-soars-as-washingtons-fiscal-hawks-vanish-39152a93?mod=rss_Technology",
@@ -4716,7 +5704,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 17
   },
   {
     "id": "c38ca7d5a4aefcf121",
@@ -7017,7 +8005,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 18
   },
   {
     "id": "a483d46497d9cb3ddb",
@@ -7381,7 +8369,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 19
   },
   {
     "id": "47c67a7f23ec06c3db",
@@ -8110,993 +9098,5 @@
     "language": "ja",
     "category": "tech",
     "rank": 17
-  },
-  {
-    "id": "b04535bcf0fd70a94c",
-    "title": "Rhind Mathematical Papyrus",
-    "url": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
-    "summary": "HN points: 12 | comments: 1",
-    "published": "2026-10-30T03:33:53Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "c812fb0000253707c2",
-    "title": "WordPressも「置かない」で守る、『静的サイト化』――ヘッドレスか、プラグインか、2つの道：生涯ITエンジニアでいこう。：オルタナティブ・ブログ",
-    "url": "https://blogs.itmedia.co.jp/osonoi/2026/10/1_wordpress2.html",
-    "summary": "1. 導入：「うちはWordPressなんだけど......」 前回、PHPの重大脆弱性「php2shell」をきっかけに、Drupalをヘッドレス化して静的サイトにする構成を紹介しました。 CMSは手元のPCに引っ込めて、公開サーバーにはHTMLだけを置く。 守るより、置かない。 そんな話でした。 すると、ほぼ予想通りの質問が返ってきます。 「...",
-    "published": "2026-10-30T03:30:06Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "07f71768b2ae2c5de9",
-    "title": "高精細な3D形状を生成するAIモデル「Hi3D V1.0」、重みを公開",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2152546.html",
-    "summary": "",
-    "published": "2026-10-30T03:28:48Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 26
-  },
-  {
-    "id": "abd75f58f7595fd323",
-    "title": "首相動静をもとに、歴代総理の就任1年目をわかりやすく視覚化したページが登場、菅総理のブラック振りがマジでヤバい",
-    "url": "https://togetter.com/li/2764484",
-    "summary": "isamu @isamua 「総理の１年」を作りました。首相動静をもとに、歴代総理の就任1年目を公務1時間＝1コミットでGitHubの草に。党派を問わず、どの総理も土日まで緑が続きます。この働きぶりには敬意しかありません。 isamu.github.io/sori/ 2026-10-28 10:15:30 総理の１年 歴代総理の就任1年目の首相動静を、公務1時間＝...",
-    "published": "2026-10-30T03:16:47Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 21
-  },
-  {
-    "id": "986e4e9cf4247daadd",
-    "title": "「リカバリー用USBメモリ」が消える？ Windows 11、クラウドからのリカバリー機能が追加に【やじうまWatch】",
-    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152507.html",
-    "summary": "",
-    "published": "2026-10-30T03:09:52Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "95c5c3fd69cdcfe186",
-    "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-    "summary": "HN points: 84 | comments: 36",
-    "published": "2026-10-30T03:06:52Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "1d1a76ca993bd30bd2",
-    "title": "AIに物理キーボードを渡して、BIOS操作からPCのトラブル対応まで丸投げしてみた——M5Stack Tab5のカメラとUSBだけで",
-    "url": "https://zenn.dev/sodeyama/articles/tech-tab5-camera-usb-pc-diagnosis",
-    "summary": "きっかけは、自宅サーバーの ext4 障害 株式会社DeploAIで代表取締役CTOをしている袖山剛です。 営業を科学するプロダクトの開発と、お客様の業務にAIを組み込む仕事をしています。 2026年10月、自宅の Linux サーバー（開発用に使っているマシンで、EVO と呼んでいます）で、ルートの ext4 が壊れました。ファイルシス...",
-    "published": "2026-10-30T03:05:46Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "72bd73bcac150856c2",
-    "title": "ECサイトの「当日配送」、世界各国に比べて日本ではニーズがあまりないことが調査で判明【やじうまWatch】",
-    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2152501.html",
-    "summary": "",
-    "published": "2026-10-30T03:02:35Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "90e5b7aa30da430d80",
-    "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
-    "url": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment",
-    "summary": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we detect frontier model mis...",
-    "published": "2026-10-30T02:45:57Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "aabea79bcaa79c7d51",
-    "title": "LLMの文体 - Martin Fowler's Bliki (ja)",
-    "url": "https://bliki-ja.github.io/LLM-Voice",
-    "summary": "投稿を読んでいると、LLMが生成した文章を読んでいるのではないかと思うことがある。理由を明確に定義できるわけではないが、共通の特徴があることに気づく（エムダッシュを多用するなどの表面的なことではなく、タペストリーのように大げさな表現を使った文体のことだ）。そうしているうちに読む気が薄れ、時には嫌悪感...",
-    "published": "2026-10-30T02:41:51Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "c479e902b90dd59e25",
-    "title": "高市早苗首相のG7欠席は国力を損なう 「集団の名声」が外交の後ろ盾に - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOCD262J90W6A021C2000000",
-    "summary": "悲劇の総裁――。6月に亡くなった河野洋平元衆院議長は自民党総裁になりながら首相にはなれなかった。しかし、首相の務めを果たした象徴的な一日があった。1994年7月9日。ナポリの王宮で撮られた主要7カ国首脳会議（G7サミット）の写真がある。議長のベルルスコーニ伊首相を中心にクリントン米大統領、ミッテラン仏大統領...",
-    "published": "2026-10-30T02:37:17Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 18
-  },
-  {
-    "id": "3b571f4727e5748071",
-    "title": "非機能はなぜ必要なのか | フューチャー技術ブログ",
-    "url": "https://future-architect.github.io/articles/20261030a",
-    "summary": "秋のブログ週間2026 の4本目です。 はじめにここ数年、システムや非機能要件について深く考えることから遠ざかっていました。先日、社内の有志がまとめて公開した非機能要件のガイドラインを読んだところ、唐突にパッションを感じたので改めてブログしてまとめます。 なお当社の非機能要件ガイドラインの内容が間違って...",
-    "published": "2026-10-30T02:20:44Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "d7cfb96942ca490ba9",
-    "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
-    "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
-    "summary": "Ai Workforce 事業部で SRE をしている石田です。 先日、バクラク事業部から内製の Background Coding Agent、haro の紹介記事が出ました。 https://tech.layerx.co.jp/entry/why-we-built-our-background-agent 実は同じ LayerX の中で、Ai Workforce 事業部も似たものを作って使っています。名前は yoro です。Slack や手元のエージェント、Ai Work",
-    "published": "2026-10-30T02:11:36Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "82e4cd494654617730",
-    "title": "話題のPHP騒動 「秒でハック」はデマだった？ 実証コードに“ある疑惑”：903rd Lap",
-    "url": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002704",
-    "summary": "「PHPの脆弱（ぜいじゃく）性で、Webサイトやサービスが簡単にハックされる」。そんな物騒な話が世界をパニックに陥れた。PHP脆弱性の公表直後から、「GitHub」には攻撃を実証したとするコードが相次いで公開された。AIを使えば攻撃コードもあっという間に作れる時代だ。これはいよいよ大変なことになった……と思いきや、...",
-    "published": "2026-10-30T02:02:17Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 23
-  },
-  {
-    "id": "dbfd538debe49cebb3",
-    "title": "Pico CSS is no longer maintained",
-    "url": "https://github.com/picocss/pico/discussions/754",
-    "summary": "HN points: 118 | comments: 48",
-    "published": "2026-10-30T01:58:44Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "774622879b3ea040da",
-    "title": "中城城跡？ 実際と異なるポスターに批判 村観光協会がAIで作成",
-    "url": "https://ryukyushimpo.jp/national/entry-5582135.html",
-    "summary": "【中城】中城村観光協会が11月7日に開催する2026中城村ロゲイニング大会「なかぐすくトレジャーウオーク」の公式ポスターに掲載された中城城跡を思わせる画像が、実際の城跡と大きく異なる点を指摘する投稿がSNSで拡散されている。 AI画像を使った中城村ロゲイニング大会「なかぐすくトレジャーウオーク」のポスター（中...",
-    "published": "2026-10-30T01:52:54Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "cabfc06a0ed259cfde",
-    "title": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01",
-    "url": "https://note.com/zephel01/n/n4637423e080b",
-    "summary": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12...",
-    "published": "2026-10-30T01:31:28Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "bd7a7639dcf0d37814",
-    "title": "India could become digital colony without sovereign AI, says Sarvam’s Vivek Raghavan",
-    "url": "https://www.ft.com/content/b662e99e-764c-42cc-a2df-391214b2a56f?syn-25a6b1a6=1",
-    "summary": "Sarvam is building AI for India, in India",
-    "published": "2026-10-30T01:30:09Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "6c86ae78e72a437e27",
-    "title": "Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取 AnthropicのAIが攻撃を実証",
-    "url": "https://ascii.jp/elem/000/004/447/4447103",
-    "summary": "Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free...",
-    "published": "2026-10-30T01:29:33Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "94b00357be6c5447a1",
-    "title": "AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響",
-    "url": "https://gigazine.net/news/20261030-sms-of-death",
-    "summary": "Androidスマートフォンで特殊なSMSを受信するだけで通話機能が停止する脆弱(ぜいじゃく)性「SMS of Death」が報告されました。攻撃にはユーザーの操作が一切必要なく、通話中の電話が切断されるほか、繰り返し攻撃を受けるとスマートフォンが正常に使えなくなる恐れもあるとのことです。 SMS of Death: zero-click Andro...",
-    "published": "2026-10-30T01:26:05Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "49cedbfd4db14f595d",
-    "title": "Tracks along the longest drive on another world",
-    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world",
-    "summary": "HN points: 43 | comments: 3",
-    "published": "2026-10-30T01:19:02Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 20
-  },
-  {
-    "id": "3f885c030f62a7d6c7",
-    "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-    "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-    "summary": "はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうする...",
-    "published": "2026-10-30T01:14:12Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "13bc439645479a1b7c",
-    "title": "衆院定数削減 党利党略の妥協で決める話か",
-    "url": "https://www.yomiuri.co.jp/editorial/20261029-GYT1T00444",
-    "summary": "【読売新聞】 国会議員は主権者の国民が立法府に送り込む代表である。議員定数の削減は、国民の声を国政に届ける道を狭めることにほかならない。 自民党と日本維新の会、国民民主党の３党が、衆院比例選の定数を３１削減することを柱とした選挙制度",
-    "published": "2026-10-30T01:04:08Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 17
-  },
-  {
-    "id": "7685e8f5e2e5075c5c",
-    "title": "2026年自分流AIエージェント環境構築の秋",
-    "url": "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
-    "summary": "はじめに こんにちは、しもちです。 最近は自分でコードを書くことがめっきり減り、毎日開いていた VS Code も気づけばしばらく起動していません。長く付き合ってきたエディタとお別れして、少し寂しさを感じる秋です。 以前は複数のエージェントの間を反復横跳びしながら指示を出していて、タスクがあるたびに、使うディレクトリを選び、エージェントを起動し、タスクを投げるところまでを毎回自分で決めていました。この流れをひとまとめにして手間を減らしたくて、重い腰をあげてエージェントのオーケ",
-    "published": "2026-10-30T00:55:31Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 5
-  },
-  {
-    "id": "363858024ba6306733",
-    "title": "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請 | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68186",
-    "summary": "ドイツのメルツ首相は、ロシアによる軍事侵攻が続くウクライナの防空能力の強化に向けた支援を高市総理大臣に要請したことを明らかにしました。 メルツ首相は28日、高市総理大臣との首脳会談のあと、ドイツの…",
-    "published": "2026-10-30T00:48:24Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 16
-  },
-  {
-    "id": "0db4181f46621f4201",
-    "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-    "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-    "summary": "はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうするかです。wasmそのものはこうした機能を持っていないので、外から用意してあげる必要があります。よく使われるのは、JavaScriptで用意した",
-    "published": "2026-10-30T00:45:50Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 15
-  },
-  {
-    "id": "0b843b16eb5130ef1c",
-    "title": "Herdr has released native app",
-    "url": "https://github.com/herdrdev/herdr-app",
-    "summary": "HN points: 298 | comments: 194",
-    "published": "2026-10-30T00:42:41Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 15
-  },
-  {
-    "id": "723c006c8056ca05da",
-    "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
-    "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
-    "summary": "はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 私は2018年前後から、SRE*1の啓蒙に携わってきました。SREの実践では本番環境のオブザーバビリティは欠かせず、私もその重要性を強く主張しています。そういった背景もあり『SLO サービスレベル目標』や『オブザーバビリティ・エンジ...",
-    "published": "2026-10-30T00:38:15Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "7a2f605ad9fd8fb5e1",
-    "title": "Cormac McCarthy's Library",
-    "url": "https://cormacmccarthy.lib.utk.edu/",
-    "summary": "HN points: 9 | comments: 1",
-    "published": "2026-10-30T00:31:00Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 15
-  },
-  {
-    "id": "8d75e7520bef864f29",
-    "title": "メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB",
-    "url": "https://levtech.jp/media/detail_959",
-    "summary": "数学者・算法学者 松本 眞（まつもと・まこと） 1965年東京都生まれ。東京大学理学部情報科学科卒業、同大学大学院理学系研究科修士課程情報科学専攻修了、同研究科博士課程数学専攻中退。京都大学数理解析研究所助手、慶應義塾大学理工学部助教授、九州大学助教授、広島大学教授、東京大学教授などを務めた。2023年に広...",
-    "published": "2026-10-30T00:24:37Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 9
-  },
-  {
-    "id": "a95f9b3b1845f58069",
-    "title": "なぜ「更新できない」のか？ PHP騒動で見えた、パッチを先送りする企業の盲点",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html",
-    "summary": "この連載について これまでどの時代でも、時代に適応した者だけが生き残ってきました。 テクノロジーの急速な進化、経済見通しの不透明さ、地政学リスクの顕在化、そして前例なき気候変動――。これまでの経験や常識が通用しにくいこの時代は、まさに「新しい乱世」と言えるでしょう。 今、企業に求められているのは、混迷...",
-    "published": "2026-10-30T00:00:26Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 20
-  },
-  {
-    "id": "51c4fdb42404b8d5e4",
-    "title": "誹謗中傷・デマで荒れた沖縄知事選…渦中の玉城デニー前知事が東京新聞に語った：東京新聞デジタル",
-    "url": "https://www.tokyo-np.co.jp/article/524771",
-    "summary": "ネット上の誹謗（ひぼう）中傷やデマで荒れた沖縄県知事選。地方紙6紙の関連動画分析で批判が集中していた前知事の玉城デニー氏は、今月下旬の本紙のオンライン取材に「人工知能（AI）による過激な表現も使われ、攻撃が拡散、炎上した。正論や常識は通用しない」と振り返り、法的効力のある対策を国に求めた。 （安藤恭...",
-    "published": "2026-10-29T23:52:59Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 22
-  },
-  {
-    "id": "d6b4a3cc7a448731fe",
-    "title": "bliki: LLM Voice",
-    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my d",
-    "published": "2026-10-29T23:49:21Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "b4ab9cdf0be6d9b692",
-    "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
-    "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
-    "summary": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
-    "published": "2026-10-29T23:45:30Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "ee0d52c095b1c1855b",
-    "title": "「都合が悪いと逃げる」高市首相から人心が離れ… 議員からも「石破はマシだった」の声が | デイリー新潮",
-    "url": "https://www.dailyshincho.jp/article/2026/10300458",
-    "summary": "内閣改造からひと月で閣僚がクビ。野党が高市早苗首相（65）の任命責任を問う中、自民党内にも批判に同調する動きが広がっている 政治部デスクが解説する。 「最たる例が“予算カット発言”で更迭された簗（やな）和生前農水相（47）を“根本的に国会議員は全国民の代表者であるということを認識していない”と痛烈に批判し...",
-    "published": "2026-10-29T23:44:38Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 12
-  },
-  {
-    "id": "6cf8a4c69fa6e63ce5",
-    "title": "沖縄知事選で総再生1.8億回…YouTube上位100本の「玉城デニー氏」評と「発信地」は：東京新聞デジタル",
-    "url": "https://www.tokyo-np.co.jp/article/524772",
-    "summary": "インターネット上で誹謗（ひぼう）中傷やデマが飛び交った9月の沖縄県知事選で、期間中にYouTubeで配信された関連動画の再生数が1億8000万回超に上ることが東京新聞など6紙の分析で分かった。再生数上位100本をみると、現職だった玉城デニー氏に否定的な内容が多数を占める一方、新人で当選した古謝玄太氏に否定的な動画...",
-    "published": "2026-10-29T23:40:42Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 28
-  },
-  {
-    "id": "4e0379305164cabd8d",
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "url": "https://github.com/mottopanikeiku/doomformer",
-    "summary": "HN points: 83 | comments: 25",
-    "published": "2026-10-29T23:25:46Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 11
-  },
-  {
-    "id": "fcc832754efdf0c318",
-    "title": "エヌビディアに中国女性スパイか ＣＥＯと親密な関係―米報道：時事ドットコム",
-    "url": "https://www.jiji.com/jc/article?k=2026103000212&g=int",
-    "summary": "エヌビディアに中国女性スパイか ＣＥＯと親密な関係―米報道 時事通信 国際報道部2026年10月30日07時03分配信 米半導体大手エヌビディアのフアン最高経営責任者（ＣＥＯ）＝１３日（ＡＦＰ時事） 【ニューヨーク時事】米紙ニューヨーク・タイムズ（ＮＹＴ）は２９日、中国情報機関の女性工作員が、米半導体大手エヌビデ...",
-    "published": "2026-10-29T23:16:21Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 22
-  },
-  {
-    "id": "126b5ad65f678d22b6",
-    "title": "「給与が3分の1になっても経産省へ」IPA・津田通隆はなぜ、あえてその道を選んだのか - エンジニアtype | 転職type",
-    "url": "https://type.jp/et/feature/32018",
-    "summary": "NEW! 2026.10.28 働き方 スタートアップCEO会員限定記事 「給与が約3分の1になっても、経済産業省に入りたかった」 そう語るのは、20代で経産省の『デジタル経済レポート』の執筆を主導し、2026年8月にはForbes JAPAN「30 UNDER 30」に選出された津田通隆さんだ。 学生時代にエストニアで起業し、民間企業を経て経産省へ...",
-    "published": "2026-10-29T23:07:40Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 26
-  },
-  {
-    "id": "3f8c88e95b16652aac",
-    "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
-    "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
-    "summary": "Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have ",
-    "published": "2026-10-29T23:00:37Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "8cd54d6c771879b543",
-    "title": "【やじうまミニレビュー】 iPhoneが有線LANで2倍速！磁石でまとまるこのType-Cケーブル、地味にいい",
-    "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152189.html",
-    "summary": "",
-    "published": "2026-10-29T22:59:07Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "db34bfea36714714a2",
-    "title": "Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab",
-    "url": "https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030",
-    "summary": "LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて...",
-    "published": "2026-10-29T22:47:13Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 12
-  },
-  {
-    "id": "c4c8667f39727d2f99",
-    "title": "【お知らせ】GMO犯人捜索マップの一般公開を終了しました",
-    "url": "https://satoru.net/hacker/gmo/261029-map.html",
-    "summary": "様々なご意見を頂いたため、「GMO犯人捜索マップ」は GMO・警察にのみ情報提供し、一般公開はしないことにしました。 短い間でしたが、ご利用いただいてありがとうございました。",
-    "published": "2026-10-29T22:46:10Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 5
-  },
-  {
-    "id": "5afde6143bfd5eeb04",
-    "title": "Amazon shares slide on lower Christmas sales forecast",
-    "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-    "summary": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
-    "published": "2026-10-29T22:44:22Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "0bee77120e212c1f3b",
-    "title": "アルファベット株13%安、時価総額80兆円消失 AIが検索の収益圧迫 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOGN29CWQ0Z21C26A0000000",
-    "summary": "【ニューヨーク=秋田咲、シリコンバレー=伴正春】29日の米国株式市場で米アルファベット株が前日比13%安と急落し、時価総額が約5100億ドル（約80兆円）失われた。2004年の上場以来最大の下げ幅となる。人工知能（AI）が本業である検索事業の収益性に影を落としたとの懸念が広がった。アルファベットはグーグルの親会社で...",
-    "published": "2026-10-29T22:35:49Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "8672b081c78d5e4c29",
-    "title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook",
-    "url": "https://www.wsj.com/business/earnings/intel-shares-tumble-on-lower-profit-weak-guidance-a2bdcdd8?mod=rss_Technology",
-    "summary": "The chip maker warned that challenges in the segment, driven by high memory-chip prices, will continue into 2028.",
-    "published": "2026-10-29T22:33:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "1faa651fd29b633bbb",
-    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "url": "https://journal.animationstudies.org/article/id/66",
-    "summary": "HN points: 114 | comments: 28",
-    "published": "2026-10-29T22:26:38Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "21ecf2ed2c575f582f",
-    "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
-    "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
-    "summary": "こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...",
-    "published": "2026-10-29T22:25:22Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 13
-  },
-  {
-    "id": "39993db101c58a1d6c",
-    "title": "Much Ado About None: Sentinel Values in Python",
-    "url": "https://florianwilhelm.info/2026/10/sentinel_values",
-    "summary": "HN points: 36 | comments: 26",
-    "published": "2026-10-29T22:24:56Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "100df7bff1f0299adf",
-    "title": "「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃",
-    "url": "https://japan.cnet.com/article/35254160",
-    "summary": "同社は顧客のPCで、AIが不正なソフトを導入しようとする動きを検知し、実行前に阻止したという。調査の結果、AIは作業場所としていたダウンロードフォルダー内の「AGENTS.md」というファイルに書かれた指示に従っていたことが分かった。ただし、このファイルがPCに保存された経緯は分かっていない。 AGENTS.mdは、AIに開...",
-    "published": "2026-10-29T22:17:46Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "0c4f73bd309435bf2f",
-    "title": "The Great American Rascal: Tom Sawyer at 150",
-    "url": "https://claremontreviewofbooks.com/the-great-american-rascal",
-    "summary": "HN points: 67 | comments: 35",
-    "published": "2026-10-29T22:14:23Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "5bd1992369a53ca844",
-    "title": "Should a medical diagnosis reshape the past? (2025)",
-    "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-    "summary": "HN points: 37 | comments: 4",
-    "published": "2026-10-29T22:12:29Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "d8490879160612c874",
-    "title": "Lighthouses, War and a Puffling",
-    "url": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may",
-    "summary": "HN points: 12 | comments: 0",
-    "published": "2026-10-29T22:11:08Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "e00568760fe6897ee7",
-    "title": "Building an AI-native engineering org",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "summary": "HN points: 95 | comments: 130",
-    "published": "2026-10-29T21:58:34Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "8dad4de3756331c3b4",
-    "title": "Hunting 'Zombie Accounts' in Active Directory",
-    "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-    "summary": "HN points: 23 | comments: 2",
-    "published": "2026-10-29T21:56:31Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 19
-  },
-  {
-    "id": "bb916567eb3e7a6d1a",
-    "title": "Alphabet shares tumble in $500bn rout",
-    "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-    "summary": "Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
-    "published": "2026-10-29T21:53:41Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "f2f97f8dba996dc572",
-    "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-    "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-    "summary": "HN points: 93 | comments: 28",
-    "published": "2026-10-29T21:48:35Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 4
-  },
-  {
-    "id": "5923a0acfac770f332",
-    "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始",
-    "url": "https://internet.watch.impress.co.jp/docs/news/2152201.html",
-    "summary": "",
-    "published": "2026-10-29T21:43:31Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "9cde5e8d7c294ebb27",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "summary": "HN points: 357 | comments: 144",
-    "published": "2026-10-29T21:40:28Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 18
-  },
-  {
-    "id": "5bb81f94bd6304c306",
-    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "summary": "HN points: 1630 | comments: 1089",
-    "published": "2026-10-29T21:38:59Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 5
-  },
-  {
-    "id": "1a7941744c1766d7f1",
-    "title": "Alphabet’s Market Value Drops $500 Billion",
-    "url": "https://www.wsj.com/tech/alphabets-market-value-drops-500-billion-df24d044?mod=rss_Technology",
-    "summary": "Plus, the DOJ expanded its criminal investigation into the Alaska Senate race, and the U.S. national debt reached 100% of GDP.",
-    "published": "2026-10-29T21:30:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "5229160c961cf627df",
-    "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
-    "url": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_Technology",
-    "summary": "Traders who lost money on the incident will be “made whole,” the prediction-markets platform said.",
-    "published": "2026-10-29T21:25:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "738e5a12873e9e2887",
-    "title": "「国会議員の数が多すぎる論」に異議あり！ 議員数を減らすと国民が損をする理由とは？──連載：松岡宗嗣の時事コラム",
-    "url": "https://www.gqjapan.jp/article/20261030-soshi-matsuoka-column",
-    "summary": "そもそも国会議員は多すぎるのだろうか。たしかに絶対数で見ると日本の国会議員の数は多いほうだが、人口あたりで見るとOECDでは38カ国中36位と下から3番目で、むしろ少ない状況だ。議員定数削減の理由について「人口減少に応じて定数を減らすべきだから」という点も語られているが、諸外国と比較すれば、むしろ人口に応...",
-    "published": "2026-10-29T21:24:09Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 25
-  },
-  {
-    "id": "1a0966589b5224b333",
-    "title": "Amazon gives Wall Street mixed financial picture in earnings report",
-    "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
-    "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave ",
-    "published": "2026-10-29T21:23:02Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "34af015976f27575f1",
-    "title": "FirstFT: Intel stock drops 20% as it forecasts weaker chip sales",
-    "url": "https://www.ft.com/content/1e319b52-f31f-4dde-90b7-e01e2f199817?syn-25a6b1a6=1",
-    "summary": "Also in today’s newsletter: Xi Jinping promotes general who led military purge and Christine Lagarde to step down as ECB president in February",
-    "published": "2026-10-29T21:22:45Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "7722a3c92aa40f6998",
-    "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever",
-    "url": "https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e?mod=rss_Technology",
-    "summary": "Discontent with the Google parent’s quarterly results highlights the tensions of its transition from search engine to artificial-intelligence hyperscaler.",
-    "published": "2026-10-29T21:20:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "5fb868fcbc8be544f8",
-    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-    "url": "https://projects.freehackers.org/sylphide-os",
-    "summary": "HN points: 38 | comments: 12",
-    "published": "2026-10-29T20:59:55Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 18
-  },
-  {
-    "id": "9d3f06d68e30738941",
-    "title": "ElementaryUI – Swift, in the Browser",
-    "url": "https://elementary.codes/",
-    "summary": "HN points: 57 | comments: 15",
-    "published": "2026-10-29T20:56:39Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "8315fc8f060ce7233e",
-    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-    "url": "https://github.com/SheepSeb/tinyworldformer",
-    "summary": "HN points: 199 | comments: 14",
-    "published": "2026-10-29T20:32:28Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 8
-  },
-  {
-    "id": "9e1b85d54597bd52cb",
-    "title": "「こういうの、もはやみんなネタでやってると思ってた」ラーメン屋が掲示した激キモ生成AIのチャーハン画像を見つけて嬉しくなった話…集合体恐怖症の人には正直しんどい",
-    "url": "https://togetter.com/li/2764420",
-    "summary": "岸田メル @mellco イラストレーター / ブルリフ総監修 @BR_general_info / IDOLY @IDOLY_cafe neusick @neusick_cafe プロデューサー /スケブ skeb.jp/@mellco / ご連絡maigo@maigo.jp instagram.com/kishidamel",
-    "published": "2026-10-29T20:20:40Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "5a5d8ed79eb6e63804",
-    "title": "US tech stocks fall after earnings fuel AI spending concerns",
-    "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
-    "summary": "Nasdaq 100 drops 1.4% after Google parent Alphabet and Microsoft report lower than expected capex",
-    "published": "2026-10-29T20:10:36Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "9ea822cc66d7e0e4fc",
-    "title": "Canada to Take Equity Stake in AI Firm Cohere",
-    "url": "https://www.wsj.com/pro/venture-capital/canada-to-take-equity-stake-in-ai-firm-cohere-e8d7215f?mod=rss_Technology",
-    "summary": "Cohere’s funding round attracted commitments from Nvidia, German conglomerate Schwarz Group and telecommunications firm BCE.",
-    "published": "2026-10-29T19:58:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "629c096a8f76526f3f",
-    "title": "Opinion | How Do We Trust and Verify College Degrees?",
-    "url": "https://www.wsj.com/opinion/how-do-we-trust-and-verify-college-degrees-734bea66?mod=rss_Technology",
-    "summary": "The divide AI has created in higher education extends beyond teaching and research.",
-    "published": "2026-10-29T19:57:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "194f98a8e386f482a6",
-    "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-    "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
-    "summary": "AI investment boom and solid consumer spending continue to fuel growth in world’s largest economy",
-    "published": "2026-10-29T19:54:29Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "61ab21d82c57c6c73e",
-    "title": "Patrick Stewart has died",
-    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "summary": "HN points: 2911 | comments: 615",
-    "published": "2026-10-29T19:41:39Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 20
-  },
-  {
-    "id": "093208cdd58a522fe3",
-    "title": "The importance of communities around software",
-    "url": "https://lumi.codeberg.page/blog/software-community.html",
-    "summary": "HN points: 69 | comments: 62",
-    "published": "2026-10-29T19:27:47Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 9
   }
 ]
