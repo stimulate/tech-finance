@@ -109,7 +109,7 @@ def collect_feed(source):
     if not feed.entries:
         raise ValueError("No feed entries found")
     found = []
-    for i, item in enumerate(feed.entries[:45], 1):
+    for i, item in enumerate(feed.entries[:100], 1):
         result = article(source, item.get("title", ""), item.get("link", ""),
                          parse_time(item), item.get("summary", ""),
                          rank=i if source.get("ranked") else None)
