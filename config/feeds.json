@@ -1,11 +1,92 @@
 [
-  {"name":"The Guardian · Technology","url":"https://www.theguardian.com/technology/rss","lang":"en","category":"tech","type":"publisher","publisher":"The Guardian","ranked":false},
-  {"name":"The Guardian · Business","url":"https://www.theguardian.com/business/rss","lang":"en","category":"finance","type":"publisher","publisher":"The Guardian","ranked":false},
-  {"name":"36氪 · 综合","url":"https://36kr.com/feed","lang":"zh","category":"tech","type":"publisher","publisher":"36氪","ranked":false},
-  {"name":"36氪 · 快讯","url":"https://36kr.com/feed-newsflash","lang":"zh","category":"finance","type":"publisher","publisher":"36氪","ranked":false},
+  {"name":"The Guardian · Technology","url":"https://www.theguardian.com/uk/technology/rss","lang":"en","category":"tech","type":"publisher","publisher":"The Guardian","ranked":false},
+  {"name":"The Guardian · Business","url":"https://www.theguardian.com/uk/business/rss","lang":"en","category":"finance","type":"publisher","publisher":"The Guardian","ranked":false},
+  {"name":"36氪 · 综合","url":"https://www.36kr.com/feed","lang":"zh","category":"tech","type":"publisher","publisher":"36氪","ranked":false},
+  {"name":"36氪 · 快讯","url":"https://rsshub.app/36kr/hot-list","lang":"zh","category":"finance","type":"publisher","publisher":"36氪","ranked":false},
   {"name":"Zenn · Trending","url":"https://zenn.dev/feed","lang":"ja","category":"tech","type":"community","publisher":"Zenn","ranked":true},
   {"name":"はてな · IT Hotentry","url":"https://b.hatena.ne.jp/hotentry/it.rss","lang":"ja","category":"tech","type":"aggregator","publisher":"はてな","ranked":true},
   {"name":"はてな · Economics","url":"https://b.hatena.ne.jp/hotentry/economics.rss","lang":"ja","category":"finance","type":"aggregator","publisher":"はてな","ranked":true},
   {"name":"FT · Technology","url":"https://www.ft.com/technology?format=rss","lang":"en","category":"tech","type":"publisher","publisher":"Financial Times","ranked":false},
-  {"name":"WSJ · Technology","url":"https://feeds.content.dowjones.io/public/rss/RSSWSJD","lang":"en","category":"tech","type":"publisher","publisher":"Wall Street Journal","ranked":false}
+  {"name":"WSJ · Technology","url":"https://feeds.content.dowjones.io/public/rss/RSSWSJD","lang":"en","category":"tech","type":"publisher","publisher":"Wall Street Journal","ranked":false},
+{
+  "name": "Bloomberg · Markets",
+  "url": "https://feeds.bloomberg.com/markets/news.rss",
+  "lang": "en",
+  "category": "finance",
+  "type": "publisher",
+  "publisher": "Bloomberg",
+  "ranked": false
+},
+{
+  "name": "Bloomberg · Technology",
+  "url": "https://feeds.bloomberg.com/technology/news.rss",
+  "lang": "en",
+  "category": "tech",
+  "type": "publisher",
+  "publisher": "Bloomberg",
+  "ranked": false
+},
+{
+  "name": "NYT",
+  "url": "https://cn.nytimes.com/rss",
+  "lang": "zh",
+  "category": "tech",
+  "type": "publisher",
+  "publisher": "New York Times",
+  "ranked": false
+},
+{
+  "name": "日経新聞 · Technology",
+  "url": "https://assets.wor.jp/rss/rdf/nikkei/technology.rdf",
+  "lang": "ja",
+  "category": "tech",
+  "type": "publisher",
+  "publisher": "日本経済新聞",
+  "ranked": false
+},
+{
+    "name": "産経新聞 · 速報",
+    "url": "https://assets.wor.jp/rss/rdf/sankei/flash.rdf",
+    "lang": "ja",
+    "category": "general",
+    "type": "publisher",
+    "publisher": "産経新聞",
+    "ranked": false
+  },
+  {
+    "name": "読売新聞 · 科学・IT",
+    "url": "https://assets.wor.jp/rss/rdf/yomiuri/science.rdf",
+    "lang": "ja",
+    "category": "tech",
+    "type": "publisher",
+    "publisher": "読売新聞",
+    "ranked": false
+  },
+  {
+    "name": "日経新聞 · 政治・経済",
+    "url": "https://assets.wor.jp/rss/rdf/nikkei/economy.rdf",
+    "lang": "ja",
+    "category": "finance",
+    "type": "publisher",
+    "publisher": "日本経済新聞",
+    "ranked": false
+  },
+  {
+    "name": "産経新聞 · 国際",
+    "url": "https://assets.wor.jp/rss/rdf/sankei/world.rdf",
+    "lang": "ja",
+    "category": "general",
+    "type": "publisher",
+    "publisher": "産経新聞",
+    "ranked": false
+  },
+  {
+    "name": "新浪 · 创事记",
+    "url": "https://rsshub.app/sina/csj",
+    "lang": "zh",
+    "category": "tech",
+    "type": "publisher",
+    "publisher": "新浪",
+    "ranked": false
+  }
 ]
