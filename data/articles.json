@@ -1,5 +1,746 @@
 [
   {
+    "id": "eec6a3f5c3b1135c23",
+    "title": "Opinion | America Hits the Brakes on AI",
+    "url": "https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_Technology",
+    "summary": "From data-center ballot measures to the Jensen Huang scandal, it’s been a bad month for the accelerationists.",
+    "published": "2026-11-22T20:47:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "9ee02b51c9ab4ed2dd",
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "url": "https://smallsf.com/",
+    "summary": "HN points: 13 | comments: 2",
+    "published": "2026-11-22T20:33:23Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "05530c96f52d91e9da",
+    "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+    "summary": "Since the fundamental outlook did not change dramatically during last week’s massive selloff in stocks and many valuation measures are now screaming bargain, contrarian impulses to buy the dip are running strong.",
+    "published": "2026-11-22T20:31:44Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "567076b6ae379a75d7",
+    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+    "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s ",
+    "published": "2026-11-22T20:23:36Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "2b2670d2f4c44ab6ee",
+    "title": "Nyx, the Oldest Internet Service Provider",
+    "url": "https://nyx.net/",
+    "summary": "HN points: 19 | comments: 2",
+    "published": "2026-11-22T20:15:59Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
+  },
+  {
+    "id": "ad5d33d275fdf1bd66",
+    "title": "＜主張＞不祥事続くNHK 飲酒制限では解決しない",
+    "url": "https://www.sankei.com/article/20261123-K26MQB7RXZIARAXR4TX2WAZ64M",
+    "summary": "",
+    "published": "2026-11-22T20:01:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "eade7373ff0c51e37b",
+    "title": "高市日誌22日（日）",
+    "url": "https://www.sankei.com/article/20261123-AKHWXSCW3FKEZNZGKWYOTIG6AI",
+    "summary": "",
+    "published": "2026-11-22T20:00:01Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "fbfa644efd0c9c6564",
+    "title": "＜産経抄＞松井秀喜・巨人新監督の人気、とどまるところ知らず",
+    "url": "https://www.sankei.com/article/20261123-PK3ES3RXBVIWFEBPL7X7AYF22I",
+    "summary": "",
+    "published": "2026-11-22T20:00:01Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "8301b4dda3b5ebc6ed",
+    "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+    "summary": "Wall Street is coalescing around one of the bond market’s favorite ways to bet that the Federal Reserve will press ahead with its vow to tame inflation, even as slumping stocks darken the economic outlook.",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "b5f34a94a34cbaa7d4",
+    "title": "硫黄島の南岸沖で噴火、新たな陸地を確認 海上保安庁",
+    "url": "https://www.nikkei.com/article/DGXZQOSG1985Y0Z11C26A1000000",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "日経新聞 · Technology",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "c842106bf87cd01767",
+    "title": "アンソロピックのClaude、日本の導入企業10倍に IPO資金でアジア開拓",
+    "url": "https://www.nikkei.com/article/DGXZQOUC205XI0Q6A121C2000000",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "日経新聞 · Technology",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "585aceea33d91d5258",
+    "title": "あおむけで休むクジラ、不可解な光景に研究者も困惑",
+    "url": "https://www.nikkei.com/article/DGXZQOSG135NI0T11C26A1000000",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "日経新聞 · Technology",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "c909ff654951454596",
+    "title": "＜朝晴れエッセー＞吉祥天",
+    "url": "https://www.sankei.com/article/20261123-VKZA2DLIE5LFFAQXYSELAONLGA",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "37f51b3ee1174de23c",
+    "title": "＜主張＞グリーンランド 対中露でNATO結束を",
+    "url": "https://www.sankei.com/article/20261123-WCG3G6DDOZKAVGWX7YJFDU473Y",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "b6fbbc9ccf2d97cd3d",
+    "title": "＜朝の詩＞ほどがある",
+    "url": "https://www.sankei.com/article/20261123-WEUBTNA2I5EDBPUPH2KP3G6HFQ",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "ffd29386e76c384455",
+    "title": "リーマン予想「証明正しい」 第三者が声明 ＡＩの手順を検証",
+    "url": "https://www.yomiuri.co.jp/science/20261123-GYT1T00039",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "読売新聞 · 科学・IT",
+    "source_type": "publisher",
+    "publisher": "読売新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f07322149255c57127",
+    "title": "日欧探査機 水星に到着 ８年１０２億キロの旅 来春から観測開始",
+    "url": "https://www.yomiuri.co.jp/science/20261123-GYT1T00036",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "読売新聞 · 科学・IT",
+    "source_type": "publisher",
+    "publisher": "読売新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "210642403f775e3383",
+    "title": "人工衛星搭載の電子機器 「宇宙線」への耐久性調べる設備",
+    "url": "https://www.yomiuri.co.jp/science/20261122-GYT8T00101",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "読売新聞 · 科学・IT",
+    "source_type": "publisher",
+    "publisher": "読売新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "01c4421fcd2220999f",
+    "title": "「第４１回京都賞」受賞２氏の業績紹介",
+    "url": "https://www.yomiuri.co.jp/science/20261122-GYT8T00086",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "読売新聞 · 科学・IT",
+    "source_type": "publisher",
+    "publisher": "読売新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "387cae339b5d36f189",
+    "title": "公費が育てた医師、地域医療を支えぬ危機感 「直美」に財務省が一石",
+    "url": "https://www.nikkei.com/article/DGXZQOUA177WZ0X11C26A1000000",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "93af810562f8fb4b88",
+    "title": "消費税減税、防衛費増と「トレードオフ」 成長投資は財源を先行確保",
+    "url": "https://www.nikkei.com/article/DGXZQOUA212RY0R21C26A1000000",
+    "summary": "",
+    "published": "2026-11-22T20:00:00Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "3838e276d023dbd140",
+    "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+    "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+    "summary": "HN points: 42 | comments: 12",
+    "published": "2026-11-22T19:51:46Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 10
+  },
+  {
+    "id": "cc3b9c945b3fda24cf",
+    "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+    "summary": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
+    "published": "2026-11-22T19:40:54Z",
+    "source": "Bloomberg · Technology",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "960067a2997be149a7",
+    "title": "Delta flight delays add to concerns about US air travel systems",
+    "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+    "summary": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
+    "published": "2026-11-22T19:25:06Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "66ee593a63e78ed692",
+    "title": "What Happened to Silicon Valley?",
+    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley",
+    "summary": "HN points: 157 | comments: 50",
+    "published": "2026-11-22T19:20:15Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 5
+  },
+  {
+    "id": "80da1810139716045d",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "summary": "HN points: 132 | comments: 31",
+    "published": "2026-11-22T19:10:34Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
+  },
+  {
+    "id": "64755f6a5eacc17027",
+    "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+    "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+    "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+    "published": "2026-11-22T19:08:31Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "b488a395303e19030e",
+    "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+    "summary": "Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation nee",
+    "published": "2026-11-22T19:05:02Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "4a8077a30ae448d647",
+    "title": "I covered myself in sleep trackers to find the very best",
+    "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+    "summary": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality sleep is just as crucial as getting enough sleep. And ",
+    "published": "2026-11-22T19:00:35Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "75400baa2f9b4ec3d9",
+    "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+    "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured al",
+    "published": "2026-11-22T19:00:34Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "f365bffca1fa757f4b",
+    "title": "COP31決裂、埋まらぬ各国の溝 異常気象続くも国際協調進まず",
+    "url": "https://www.nikkei.com/article/DGXZQOGR20AOA0Q6A121C2000000",
+    "summary": "",
+    "published": "2026-11-22T18:21:33Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "d64e5d78ed44f16b46",
+    "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+    "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has help",
+    "published": "2026-11-22T17:55:27Z",
+    "source": "The Guardian · Technology",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "3655a43c8ae5f49d48",
+    "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+    "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has help",
+    "published": "2026-11-22T17:55:27Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "d143b77d6b299447a0",
+    "title": "Was software just always too complex for humans?",
+    "url": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+    "summary": "HN points: 22 | comments: 15",
+    "published": "2026-11-22T17:32:41Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 12
+  },
+  {
+    "id": "00436f8b8d202112ba",
+    "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+    "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shan",
+    "published": "2026-11-22T17:27:24Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "7ec687a17f48f8c281",
+    "title": "Compass Plans to Move Main Listing to New York From London",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+    "summary": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, according to a person familiar with the matter, marking yet another disappointment for the UK stock market.",
+    "published": "2026-11-22T17:08:04Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "463174790a9510354d",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "HN points: 358 | comments: 239",
+    "published": "2026-11-22T17:06:27Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "bb188655fde3afcf93",
+    "title": "米アンソロピックの目論見書に基づくAI安全性スタートアップ市場",
+    "url": "https://www.nikkei.com/article/DGXZQOUC168FE0W6A111C2000000",
+    "summary": "",
+    "published": "2026-11-22T17:00:00Z",
+    "source": "日経新聞 · Technology",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d4fe2b65680297bd81",
+    "title": "対話型AI活用最前線 Claudeで実現、2000万円級リポートが80万円に",
+    "url": "https://www.nikkei.com/article/DGXZQOUC090AN0Z01C26A1000000",
+    "summary": "",
+    "published": "2026-11-22T17:00:00Z",
+    "source": "日経新聞 · Technology",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "7214bdf0115d9a64c2",
+    "title": "プロテインやチョコ原料高騰 不二製油社長が見る景気と代替素材需要",
+    "url": "https://www.nikkei.com/article/DGXZQOCD07A120X01C26A0000000",
+    "summary": "",
+    "published": "2026-11-22T17:00:00Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "d15c41777d2a77effc",
+    "title": "重要鉱物の政府備蓄、放出額が尖閣危機の4倍超 中国規制で取り崩し",
+    "url": "https://www.nikkei.com/article/DGXZQOUA188Y70Y6A111C2000000",
+    "summary": "",
+    "published": "2026-11-22T17:00:00Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "10defbe91621c5f5f1",
+    "title": "COP31、合意文書の採択断念し閉幕 「脱化石燃料」明記なくEU反発",
+    "url": "https://www.nikkei.com/article/DGXZQOGR221WG0S6A121C2000000",
+    "summary": "",
+    "published": "2026-11-22T16:49:12Z",
+    "source": "日経新聞 · 政治・経済",
+    "source_type": "publisher",
+    "publisher": "日本経済新聞",
+    "language": "ja",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "2fe0810887ab3f3ba2",
+    "title": "Bookmarked: News Stories On Our Reading List",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
+    "summary": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ruffini and Lisa Mateo",
+    "published": "2026-11-22T16:41:22Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "af9f22a5eaf11f5f4a",
+    "title": "マルク・マルケスが2年連続8度目の総合V決める オートバイのモトGP",
+    "url": "https://www.sankei.com/article/20261123-6TQY4PC2XJPBJEOFPVS2ONXISQ",
+    "summary": "",
+    "published": "2026-11-22T16:27:10Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "09b0523741ae9a6be7",
+    "title": "By The Way: Headlines You May Have Missed",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+    "summary": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headline",
+    "published": "2026-11-22T16:17:05Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "54f6fc3f3df3560fec",
+    "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+    "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing th",
+    "published": "2026-11-22T16:12:54Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "f4bbde157707d368b4",
+    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本",
+    "url": "https://www.sankei.com/article/20261123-AQJI5JTPDBJJHELCFNT36H4OKU",
+    "summary": "",
+    "published": "2026-11-22T16:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "c178e27240d0151d65",
+    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本",
+    "url": "https://www.sankei.com/article/20261123-AQJI5JTPDBJJHELCFNT36H4OKU",
+    "summary": "",
+    "published": "2026-11-22T16:00:00Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "f904b74004845d4c80",
+    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil",
+    "summary": "HN points: 29 | comments: 0",
+    "published": "2026-11-22T15:59:59Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 18
+  },
+  {
+    "id": "63b8d2824b28fdc9aa",
+    "title": "What Comes Next After Anthropic’s Historic IPO",
+    "url": "https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology",
+    "summary": "Plus, the best tech gifts of 2026, New York City’s new high-tech public restrooms, the culture inside Jensen Huang’s Nvidia and more.",
+    "published": "2026-11-22T15:55:00Z",
+    "source": "WSJ · Technology",
+    "source_type": "publisher",
+    "publisher": "Wall Street Journal",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "a04ec3f49f56c071b9",
+    "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+    "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the m",
+    "published": "2026-11-22T15:52:02Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "a09f0f0baca50c6986",
+    "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+    "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+    "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover Chinese carmaker BYD has been banned from selling its “Defender clone” vehicle in the EU by a court in the Netherlands, after Jaguar ",
+    "published": "2026-11-22T15:43:47Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "387b632fe72dee7718",
+    "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
+    "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+    "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time",
+    "published": "2026-11-22T15:43:01Z",
+    "source": "The Guardian · Business",
+    "source_type": "publisher",
+    "publisher": "The Guardian",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "6922704ea85d8f89ff",
+    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool",
+    "summary": "HN points: 95 | comments: 25",
+    "published": "2026-11-22T15:35:24Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 8
+  },
+  {
+    "id": "961bc4e9bdb9b23bd5",
+    "title": "工具突き付け「刺すで」 男が女性のカバン奪う 大阪・東淀川",
+    "url": "https://www.sankei.com/article/20261123-LOBV7M5JNJO7NMSF5BIVMKXC6A",
+    "summary": "",
+    "published": "2026-11-22T15:33:30Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "6b418b850eb5430704",
+    "title": "相原史郎と小山陽平、1回目で途中棄権 アルペンW杯、男子回転第2戦",
+    "url": "https://www.sankei.com/article/20261123-6BF6ZQXMGRLT7EIYDWMOBFT6ZM",
+    "summary": "",
+    "published": "2026-11-22T15:29:17Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "fbb5b90ecaf85dbe59",
+    "title": "Open Social Web Alliance",
+    "url": "https://osw-alliance.net/en",
+    "summary": "HN points: 181 | comments: 183",
+    "published": "2026-11-22T15:24:32Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 9
+  },
+  {
     "id": "c7ffbf74dddafda27a",
     "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
@@ -127,7 +868,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 14
+    "rank": 3
   },
   {
     "id": "ee504ce958f5ec21c3",
@@ -237,14 +978,14 @@
     "id": "0e341cc836cde175b2",
     "title": "Show HN: I built a game where you are an LLM's subagent",
     "url": "https://github.com/gulivan/worker755",
-    "summary": "HN points: 53 | comments: 13",
+    "summary": "HN points: 228 | comments: 56",
     "published": "2026-11-22T13:56:58Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 6
   },
   {
     "id": "8ac0b26aad7f122b50",
@@ -263,14 +1004,14 @@
     "id": "2a6d080431c1c3ea70",
     "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
     "url": "https://note.com/cgbeginner/n/n5856d402f125",
-    "summary": "167年人類が解けなかった問題がAIに解かれた発端は2026年11月20日、Anthropicの数学者レヴェント・アルポーゲ氏（ハーバード大学首席、プリンストン大学で博士号の天才）が、Claudeとの共同作業による「リーマン予想」の証明を自身のウェブサイトで公開したことだった。同じ手法で、より広い版の予想も同時に解けたとし...",
+    "summary": "2026年11月21日をもって、世界はシンギュラリティに突入したのではないか。 この日、AnthropicのAI「Claude」との共同作業で書かれた「リーマン予想の証明」について、検証コミュニティが「正しい」と認定した。独立に検証したマサチューセッツ工科大学の数学者アンドリュー・サザーランド氏も「何か怪しい点がある可能...",
     "published": "2026-11-22T13:51:31Z",
     "source": "はてな · IT Hotentry",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 16
+    "rank": 1
   },
   {
     "id": "96cbbae1f7d6b74cbc",
@@ -390,19 +1131,6 @@
     "rank": null
   },
   {
-    "id": "10defbe91621c5f5f1",
-    "title": "COP31、合意文書の採択断念 「脱化石燃料」明記なくEU反発",
-    "url": "https://www.nikkei.com/article/DGXZQOGR221WG0S6A121C2000000",
-    "summary": "",
-    "published": "2026-11-22T13:11:00Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
     "id": "3c700620b7d949197b",
     "title": "Tech Outages Fuel a New Prepping Boom",
     "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
@@ -453,6 +1181,19 @@
     "language": "ja",
     "category": "general",
     "rank": null
+  },
+  {
+    "id": "461f2b78f6768679e4",
+    "title": "Testing Terraform with AWS Emulator",
+    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator",
+    "summary": "HN points: 52 | comments: 6",
+    "published": "2026-11-22T13:00:36Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 19
   },
   {
     "id": "bed841509d3da337ec",
@@ -576,7 +1317,7 @@
     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
     "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key",
-    "published": "2026-11-22T12:12:08Z",
+    "published": "2026-11-22T12:12:07Z",
     "source": "The Guardian · Technology",
     "source_type": "publisher",
     "publisher": "The Guardian",
@@ -920,20 +1661,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 7
   },
   {
     "id": "9bddbb660d4ea04200",
     "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
     "url": "https://simonwillison.net/2026/Nov/21/muru",
-    "summary": "HN points: 35 | comments: 5",
+    "summary": "HN points: 66 | comments: 10",
     "published": "2026-11-22T09:57:01Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 24
   },
   {
     "id": "a1e688c8ab9a450ced",
@@ -985,20 +1726,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 15
   },
   {
     "id": "def44ad794337a14f2",
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
-    "summary": "HN points: 388 | comments: 488",
+    "summary": "HN points: 766 | comments: 793",
     "published": "2026-11-22T08:57:34Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 20
   },
   {
     "id": "212dbcca6cf93d5f4c",
@@ -1011,7 +1752,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 5
   },
   {
     "id": "7edfcba26dd60da0d2",
@@ -1129,6 +1870,19 @@
     "language": "ja",
     "category": "finance",
     "rank": null
+  },
+  {
+    "id": "57ea8df585eef00d9f",
+    "title": "ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上",
+    "url": "https://togetter.com/li/2773653",
+    "summary": "クラウド上のファントム：Googleクラウドストレージを悪用したフィッシング詐欺の手口｜Aryaka Blog サイバー犯罪者が Google Cloud Storage を悪用してフィッシングサイトをホストし、クレデンシャルの盗難を隠蔽し、巧妙な詐欺を組織する方法をご覧ください。検出戦略、実際のキャンペーン… Aryaka Unified SASE Solut...",
+    "published": "2026-11-22T07:09:49Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 10
   },
   {
     "id": "7830ee7446e132f469",
@@ -1297,7 +2051,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 14
   },
   {
     "id": "1661bce1eff2cd12e7",
@@ -1414,7 +2168,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 17
+    "rank": 20
   },
   {
     "id": "bf0797906a021c286d",
@@ -1498,7 +2252,7 @@
     "id": "4cbe1239b3971aa05b",
     "title": "これが…あの有名な『マンション界の北朝鮮』こと秀和幡ヶ谷レジデンス…！「友達宿泊につき5000円の鬼畜規則と独裁理事長へのクーデターからもう5年か」",
     "url": "https://togetter.com/li/2773593",
-    "summary": "【残り2日】Amazonマンガ毎週末セール 11/20-23 ファンタジーマンガが50%ポイント還元中！ 50%ポイント還元 秀和幡ヶ谷レジデンス 秀和幡ヶ谷レジデンス（しゅうわはたがやレジデンス）は、東京都渋谷区にある集合住宅である。秀和株式会社の「秀和レジデンス」シリーズのマンションの1つ。 4 users Wikipedia",
+    "summary": "【残り1日】Amazonマンガ毎週末セール 11/20-23 ファンタジーマンガが50%ポイント還元中！ 50%ポイント還元 秀和幡ヶ谷レジデンス 秀和幡ヶ谷レジデンス（しゅうわはたがやレジデンス）は、東京都渋谷区にある集合住宅である。秀和株式会社の「秀和レジデンス」シリーズのマンションの1つ。 4 users Wikipedia",
     "published": "2026-11-22T05:29:46Z",
     "source": "はてな · Economics",
     "source_type": "aggregator",
@@ -1544,7 +2298,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 4
   },
   {
     "id": "7713a7b068e2d9d34a",
@@ -1739,7 +2493,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "320607c7f9605162ad",
@@ -1752,7 +2506,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 3
   },
   {
     "id": "322d33640aa348a94f",
@@ -1823,14 +2577,14 @@
     "id": "5c25186edca9e166a8",
     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs",
-    "summary": "HN points: 847 | comments: 501",
+    "summary": "HN points: 1108 | comments: 643",
     "published": "2026-11-22T04:04:56Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "5d43fec0d30652f0b5",
@@ -1908,7 +2662,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 9
   },
   {
     "id": "297c75233bb0fae575",
@@ -1960,7 +2714,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 12
   },
   {
     "id": "02d2f1ad9eae512d79",
@@ -2015,6 +2769,19 @@
     "rank": null
   },
   {
+    "id": "b69903c875031b0672",
+    "title": "オバマ氏を「へつらい屋」とやゆ トランプ氏、天皇陛下写真 | NEWSjp",
+    "url": "https://news.jp/i/1497045677678232364",
+    "summary": "トランプ米大統領の投稿。左がオバマ元大統領が2009年に当時の天皇、皇后両陛下と面会した際にお辞儀をした写真で、右が自身が中国の習近平国家主席に赤じゅうたんで迎えられた写真（SNSトゥルース・ソーシャルから） 【ワシントン共同】トランプ米大統領は21日、自身のSNSで、オバマ元大統領が2009年、当時の天皇、皇后...",
+    "published": "2026-11-22T02:57:43Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 2
+  },
+  {
     "id": "fafbb8810de141f994",
     "title": "習氏、APEC首脳会議に合わせ計14カ国と会談 香港紙「近隣国では日比のみ会談なく」",
     "url": "https://www.sankei.com/article/20261122-ODPRHOGKNNOXZLKN7AK6MAEC4E?outputType=asynd",
@@ -2038,7 +2805,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 8
   },
   {
     "id": "63a55965b05cc084b7",
@@ -2051,7 +2818,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": "f2972da7da71d184d2",
@@ -2081,7 +2848,7 @@
   },
   {
     "id": "9bc703ca36e2fd72b4",
-    "title": "第二回：効果を確かめないまま広がった季別運転――下水処理場の窒素放流は、なぜ全国に広がったのか",
+    "title": "第二回：効果が不明瞭な下水処理場の窒素放流は、なぜ全国に広がったのか",
     "url": "https://katukawa.com/?p=6608",
     "summary": "前回は、瀬戸内海の栄養塩が「足りない」という主張が、何を基準にしているのかを考えました（第1回：瀬戸内海は「きれいになりすぎた」のか）。 今回は、栄養塩を増やす手段として各地で行われている、下水処理場の「季別運転」を取り上げます。冬のノリ養殖期だけ、処理水に含まれる窒素を増やして海に流す運転で、兵...",
     "published": "2026-11-22T02:38:15Z",
@@ -2090,7 +2857,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 5
   },
   {
     "id": "94d5be077950571a1c",
@@ -2220,7 +2987,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 21
+    "rank": 11
   },
   {
     "id": "3be6d307066527b09e",
@@ -2246,7 +3013,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 21
   },
   {
     "id": "ae9bd25feae82cf9fa",
@@ -2272,7 +3039,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 19
+    "rank": 16
   },
   {
     "id": "d0cb8fe9c73cb4a543",
@@ -2304,14 +3071,14 @@
     "id": "a17aa8bb1d94cdc95b",
     "title": "Sandwich Simulator",
     "url": "https://stulle.app/",
-    "summary": "HN points: 410 | comments: 142",
+    "summary": "HN points: 531 | comments: 188",
     "published": "2026-11-22T00:07:59Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 21
   },
   {
     "id": "3c3920a3ece5fa3e3d",
@@ -2337,7 +3104,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 18
+    "rank": 19
   },
   {
     "id": "8b5c639e34fb1ff2d0",
@@ -2389,7 +3156,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 25
+    "rank": 28
   },
   {
     "id": "ada747848df48a9c5f",
@@ -2402,20 +3169,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 22
+    "rank": 26
   },
   {
     "id": "bf5aef4e0538513179",
     "title": "A Better Vocabulary for Testing",
     "url": "https://alperenkeles.com/posts/vocab-for-testing",
-    "summary": "HN points: 6 | comments: 0",
+    "summary": "HN points: 91 | comments: 24",
     "published": "2026-11-21T22:15:39Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 13
   },
   {
     "id": "5143f72b10c5cce0d2",
@@ -2782,32 +3549,6 @@
     "rank": null
   },
   {
-    "id": "d64e5d78ed44f16b46",
-    "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-    "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has help",
-    "published": "2026-11-21T20:15:57Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "3655a43c8ae5f49d48",
-    "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-    "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has help",
-    "published": "2026-11-21T20:15:57Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
     "id": "d974656770838fc7b2",
     "title": "＜主張＞ミャンマー 人道状況改善が最優先だ",
     "url": "https://www.sankei.com/article/20261122-54Y72J25MFJ5TPZKV4NKP4NF3Y",
@@ -3000,7 +3741,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 24
   },
   {
     "id": "1854d0dc5215fed647",
@@ -3013,20 +3754,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 10
   },
   {
     "id": "907bb0807a2bf579e8",
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "summary": "HN points: 516 | comments: 127",
+    "summary": "HN points: 564 | comments: 135",
     "published": "2026-11-21T18:02:19Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 23
   },
   {
     "id": "544e0cb2a34772f195",
@@ -3208,7 +3949,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 4
   },
   {
     "id": "3fc51d6f1368079619",
@@ -3260,7 +4001,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 11
   },
   {
     "id": "ad286645afaeb953aa",
@@ -3351,7 +4092,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 8
   },
   {
     "id": "e3d0b3cef1824aed6e",
@@ -3494,7 +4235,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 7
   },
   {
     "id": "34e4b71ee9085dfde0",
@@ -3559,7 +4300,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 14
   },
   {
     "id": "2aa91f16bc8362dcc1",
@@ -3858,7 +4599,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 17
   },
   {
     "id": "b7ff835fac00988fb7",
@@ -3949,7 +4690,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 13
   },
   {
     "id": "47fa0709ed755db61f",
@@ -4144,7 +4885,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 13
   },
   {
     "id": "910f06ab71e0047f31",
@@ -4332,7 +5073,7 @@
     "id": "bc038c387ce7ee8093",
     "title": "China commits to low-carbon electrification and help for others to improve",
     "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon energy and will help oth",
+    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a ",
     "published": "2026-11-21T09:47:57Z",
     "source": "The Guardian · Business",
     "source_type": "publisher",
@@ -4781,7 +5522,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 21
   },
   {
     "id": "45e68d34e58a2d407a",
@@ -4859,7 +5600,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 24
   },
   {
     "id": "c0534c45551aa4c871",
@@ -4950,7 +5691,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 24
+    "rank": 23
   },
   {
     "id": "5c7e868934bec4649e",
@@ -4989,7 +5730,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 26
+    "rank": 27
   },
   {
     "id": "234af2dfdd73c1a160",
@@ -5015,7 +5756,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 25
   },
   {
     "id": "6bbfb7972bbdf66ca3",
@@ -5145,7 +5886,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 22
   },
   {
     "id": "e562612ce52cf299e0",
@@ -5288,7 +6029,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 19
   },
   {
     "id": "529c5ac8d72b00217f",
@@ -5340,7 +6081,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 16
   },
   {
     "id": "2b0172999277002631",
@@ -5405,7 +6146,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 18
   },
   {
     "id": "138426d2d22adc4a2d",
@@ -5717,7 +6458,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 20
   },
   {
     "id": "486f483eba0f4944c0",
@@ -5873,7 +6614,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 27
+    "rank": 28
   },
   {
     "id": "992760162836113c76",
@@ -5931,7 +6672,7 @@
     "id": "23c612d985198cd8d2",
     "title": "9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市",
     "url": "https://36kr.com/p/4078827757310856?f=rss",
-    "summary": "今日热点导览 上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量 英伟达市值被谷歌超越 12306重磅升级通知服务 马斯克试图与MAGA阵营切割 段永平：好公司未必要��市，字节6000亿美元估值下我会有兴趣 A股三大指数集体收跌，全市场超5200股飘绿 TOP3大新闻 黄仁勋或将创办新公司 前英伟达首席执行官黄仁勋的去向成为硅谷热议话题。科技媒体Semafor记者预测，黄仁勋休整后或重返AI行业，有可能创办一家新半导体公司，或向业内盟友筹集500亿美元创业资金，但",
+    "summary": "今日热点导览 上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量 英伟达市值被谷歌超越 12306重磅升级通知服务 马斯克试图与MAGA阵营切割 段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣 A股三大指数集体收跌，全市场超5200股飘绿 TOP3大新闻 黄仁勋或将创办新公司 前英伟达首席执行官黄仁勋的去向成为硅谷热议话题。科技媒体Semafor记者预测，黄仁勋休整后或重返AI行业，有可能创办一家新半导体公司，或向业内盟友筹集500亿美元创业资金，但该",
     "published": "2026-11-21T01:19:00Z",
     "source": "36氪 · 综合",
     "source_type": "publisher",
@@ -6146,7 +6887,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 29
+    "rank": 30
   },
   {
     "id": "60df4ace0e80f84027",
@@ -6692,7 +7433,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 28
+    "rank": 30
   },
   {
     "id": "cfc0625d446a24e712",
@@ -7309,14 +8050,14 @@
     "id": "d6ec4c64b6c1dd9b9c",
     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "summary": "HN points: 1196 | comments: 258",
+    "summary": "HN points: 1311 | comments: 288",
     "published": "2026-11-20T21:03:12Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 22
   },
   {
     "id": "f9fb7f27e6dfd62d57",
@@ -8351,747 +9092,6 @@
     "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-is-monstrous-general-catalyst-s-namburi-video",
     "summary": "Madhu Namburi, managing director and co-head of the creation fund at General Catalyst, discusses Anthropic’s \"monstrous\" IPO after the stock rallied 17% on its first day before moving back toward its $86 listing price. Namburi speaks on \"Bl",
     "published": "2026-11-20T16:19:16Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "079fad05b17d1864fd",
-    "title": "AMD Falls on China Risk; Ross Tumbles on Q4 Guidance | Stock Movers",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/amd-falls-on-china-risk-ross-tumbles-on-q4-guidance-video",
-    "summary": "On this episode of Stock Movers: - Advanced Micro Devices (AMD) shares are falling after Hunterbrook Capital said it shorted the stock, following a report by its media affiliate that the chipmaker is reliant on a potentially risky business ",
-    "published": "2026-11-20T16:15:37Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "70ff1d1e6c338af4a2",
-    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-    "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is desi",
-    "published": "2026-11-20T16:15:24Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "0d63cfcb3409e910a7",
-    "title": "ING’s $500 Million Data Center Loan Auction Stalls on Low Bids",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ing-s-500-million-data-center-loan-auction-stalls-on-low-bids",
-    "summary": "Dutch bank ING received muted demand for a roughly $500 million auction of data center loans ahead of its deadline, prompting the lender to seek individual sales of the debt instead.",
-    "published": "2026-11-20T16:13:30Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "87d410452f7ceed4a3",
-    "title": "J.P. Morgan’s Gatch on Where Active ETFs Go Next",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-p-morgan-s-gatch-on-where-active-etfs-go-next-video",
-    "summary": "J.P. Morgan Asset Management CEO George Gatch joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Gatch discusses the ",
-    "published": "2026-11-20T16:12:40Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "10d5086224e7c4dc1a",
-    "title": "Schwab's Aguilar on ETF Growth, Privates and Prediction Markets",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/aguilar-on-etf-growth-privates-and-prediction-markets-video",
-    "summary": "Schwab Asset Management CEO & CIO Omar Aguilar joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Aguilar discusses S",
-    "published": "2026-11-20T16:10:05Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "f79a9bc99990058982",
-    "title": "KKR Is Said to Seal Pact to Purchase Portugal’s Logoplaste",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-is-said-to-seal-pact-to-purchase-portugal-s-logoplaste",
-    "summary": "KKR & Co. agreed to buy Portugal’s Logoplaste, one of the country’s largest packaging makers, according to people familiar with the matter.",
-    "published": "2026-11-20T16:06:39Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "d75adc7645fd2b999f",
-    "title": "I'll never buy Framework hardware again",
-    "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again",
-    "summary": "HN points: 16 | comments: 0",
-    "published": "2026-11-20T16:06:30Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 4
-  },
-  {
-    "id": "752f763d79cfca8db8",
-    "title": "DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた",
-    "url": "https://zenn.dev/sorane/articles/e1ed930dea9b1d",
-    "summary": "はじめに こんにちは、空音です！ 普段はUnityやUnreal Engineを使ってゲーム開発をしている学生です。 現在、個人開発しているゲームで、ガレージやショップなどのメニュー画面を作っています。 画面のフェードやUIの動きをプログラムで制御する場面が増えてきたのですが、そこで欲しくなったのがイージングです。 DOTweenを使えばEase.OutCubicのように指定するだけで済みますが、今回のプロジェクトではDOTweenを使っていません。 かといって、Animat",
-    "published": "2026-11-20T16:03:46Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 5
-  },
-  {
-    "id": "4cdc52c905ec0cf8dc",
-    "title": "iPSから胸腺で育つ免疫細胞を作製、免疫不全の治療に道 京都大学",
-    "url": "https://www.nikkei.com/article/DGXZQOUF164P90W6A111C2000000",
-    "summary": "",
-    "published": "2026-11-20T16:00:00Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "169ae2db87f94eae9c",
-    "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
-    "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
-    "summary": "ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、...",
-    "published": "2026-11-20T15:59:06Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "5fcbabafdfef09c830",
-    "title": "Andy Burnham and EU leaders call UK-EU reset deal a 'win-win' – video",
-    "url": "https://www.theguardian.com/politics/video/2026/nov/20/andy-burnham-and-eu-leaders-call-uk-eu-reset-deal-a-win-win-video",
-    "summary": "The UK prime minister called the newly agreed post-Brexit reset deal a 'win-win' for the UK and the EU, although the level of tuition fees EU students will pay to study at UK universities remains unresolved. The prime minister met Ursula vo",
-    "published": "2026-11-20T15:54:50Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "9a2e897b56c18329c8",
-    "title": "What Caused the US Tech Outages? Why Experts Expect More",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
-    "summary": "A series of technology outages that began on Nov. 11 spawned a collective freak-out across the US. Breakdowns that knocked out Microsoft Corp. software, snarled air travel and disrupted the work of the National Security Agency prompted cons",
-    "published": "2026-11-20T15:51:37Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "6fb1d7ba1551d6d175",
-    "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-    "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-    "summary": "AIプロダクトグループの中山 龍 (@ryu_develop)です。 この記事は、手羽先プロンプト #2 で発表した LT「作れるエンジニアから、価値を届けるエンジニアへ」を記事にしたものです。 僕は「手羽先プロンプト」という名古屋の勉強会を主催しているのですが、そこでトークした内容の評判が良かったので、せっかくならと思って記事にしてみました。 僕自身がこの半年で経験し学んだこと・考えたことを書いています。 「この内容が正しい」だったり「自分は実践できています」とは言い切れな",
-    "published": "2026-11-20T15:50:41Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 4
-  },
-  {
-    "id": "b5f841511c2e9c7b13",
-    "title": "「宅配便の多様な受取方法の普及に向けたガイドライン（案）」に関する意見募集｜e-Govパブリック・コメント",
-    "url": "https://public-comment.e-gov.go.jp/pcm/detail?id=155260941",
-    "summary": "誤投稿防止のため、意見の提出に当たって必ず「意見募集要領（提出先を含む）」及び「命令などの案」の全部を確認してください。",
-    "published": "2026-11-20T15:50:16Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 28
-  },
-  {
-    "id": "f3487ea82033cf9c3f",
-    "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
-    "summary": "Measures of perceived US credit risk reached levels not seen in nearly eight months and the cost of protecting the debt of some of the biggest tech firms against default jumped on Friday, as the wobbling AI trade spurred volatility in globa",
-    "published": "2026-11-20T15:38:52Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "180f710dce8383c634",
-    "title": "UBS's Lovell Sees AI CapEx at Risk of 5%-10% Cut",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/ubs-s-lovell-sees-ai-capex-at-risk-of-5-10-cut-video",
-    "summary": "Nadia Lovell, head of global equity strategy at UBS Global Wealth Management, says regulatory risks could cut AI capital spending estimates by 5% to 10%. UBS remains positive on the long-term AI opportunity but is focusing on companies with",
-    "published": "2026-11-20T15:36:31Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a8c2c5e56488500ec0",
-    "title": "Finite-time blow-up for the Navier–Stokes equations",
-    "url": "https://github.com/tristanbuckmaster/navier-stokes",
-    "summary": "HN points: 299 | comments: 93",
-    "published": "2026-11-20T15:34:31Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "96bdff00731636fe6f",
-    "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
-    "url": "https://note.com/kajinari/n/n19c73d819b14",
-    "summary": "おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...",
-    "published": "2026-11-20T15:27:05Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 14
-  },
-  {
-    "id": "4949e17db9747cd037",
-    "title": "Slopstrap – Make your site look hastily vibecoded",
-    "url": "https://slopstrap.mikelacher.com/",
-    "summary": "HN points: 330 | comments: 62",
-    "published": "2026-11-20T15:24:11Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "6b6b3974c24d092846",
-    "title": "The AI fever in markets is breaking",
-    "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
-    "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-    "published": "2026-11-20T15:23:38Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "eae941e232b90667d0",
-    "title": "女子SPで島田麻央が首位、フィギュアGP2連勝へ好発進 第5戦フィンランディア杯開幕",
-    "url": "https://www.sankei.com/article/20261121-WQDEDQSS2RISDHTQZYM4WPSPXA",
-    "summary": "",
-    "published": "2026-11-20T15:19:40Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "0461a60d0ff1a4e966",
-    "title": "Investor Worry Has Come to a Head, Says Allspring’s Miletti",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/investor-worry-has-come-to-a-head-allspring-s-milletti-video",
-    "summary": "Ann Miletti, global head of equity investments at Allspring, says investors have begun questioning AI, the interest rate environment and the economy, with all of the worries rolling into one in the market selloff. (Source: Bloomberg)",
-    "published": "2026-11-20T15:18:07Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "e0336fc05c24a67c36",
-    "title": "https://alpo.ge/remark.pdf",
-    "url": "https://alpo.ge/remark.pdf",
-    "summary": "",
-    "published": "2026-11-20T15:14:55Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 11
-  },
-  {
-    "id": "293ceeb54cac744279",
-    "title": "Everybody’s Business: Relax. It’s Probably Not a Cyberattack",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/relax-it-s-probably-not-a-cyberattack-video",
-    "summary": "Flight grounding, banking disruptions and outages at the National Security Agency, Apple and Microsoft — a series of online disruptions are causing widespread panic, as people speculate if the US is under some kind of attack. Bloomberg's Jo",
-    "published": "2026-11-20T15:09:07Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "efaa5d8b6be4c5a131",
-    "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
-    "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
-    "summary": "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny? After consulting dermatologists and putting them to the test, we have crowned a brand new number one • The best anti-ageing creams, serums and treatmen",
-    "published": "2026-11-20T15:06:46Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "447b6224cfaf9c0716",
-    "title": "Turkey Asks Hundreds to Return Gains From Fund Crisis",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/turkey-asks-hundreds-to-return-gains-from-fund-crisis",
-    "summary": "A Turkish state body demanded voluntary repayments from the hundreds of individuals and corporations that made the largest profits from a fund scandal that’s roiled markets, according to people familiar with the matter.",
-    "published": "2026-11-20T15:04:55Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "0526b113d030aa6ff1",
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules",
-    "summary": "HN points: 550 | comments: 291",
-    "published": "2026-11-20T15:03:31Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "0c21c552c844185132",
-    "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
-    "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
-    "summary": "The English seaside town tops the list for 16- to 24-year-olds out of work and education, but not for lack of young jobseekers’ efforts Speaking random words like “cat” and “box” into her phone while filming herself in her pyjamas, Amy Butt",
-    "published": "2026-11-20T15:00:32Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "855f728c34373bca3f",
-    "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
-    "url": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
-    "summary": "Three Choirs unveils First Release white wine after long, hot summer led to earliest harvest start in 50 years Forget beaujolais nouveau: a Gloucestershire vineyard has uncorked its 2026 vintage, giving the first taste of this year’s long, ",
-    "published": "2026-11-20T14:59:23Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "45d751c39f997d5ad9",
-    "title": "参政の神谷代表、原子力潜水艦保有に賛同 「持っていい。抑止力として費用対効果良い」",
-    "url": "https://www.sankei.com/article/20261120-2RFIMXW25FPRDJJ3R2WEAHQ4JM",
-    "summary": "",
-    "published": "2026-11-20T14:59:17Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "00f73058dc4746b0ae",
-    "title": "露軍の巡航ミサイルがポーランド領内に落下 付近では英仏主導の有志国連合部隊が演習中",
-    "url": "https://www.sankei.com/article/20261120-QHIFCRLZJBLEHOLDZI4AZIBHFY?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-20T14:58:47Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "eb785d24f4fc5d8d95",
-    "title": "露軍の巡航ミサイルがポーランド領内に落下 付近では英仏主導の有志国連合部隊が演習中",
-    "url": "https://www.sankei.com/article/20261120-QHIFCRLZJBLEHOLDZI4AZIBHFY?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-20T14:58:47Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "a3d863f619ae8e19f8",
-    "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
-    "url": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
-    "summary": "NFL legend was Chelsea guest at Club World Cup Brady has good relationship with Behdad Eghbali Tom Brady is in discussions about buying a small stake in Chelsea. The NFL legend sold a minority share in Birmingham City this month after three",
-    "published": "2026-11-20T14:50:09Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "a62eac98fc1199ccae",
-    "title": "Sanofi Lines Up Takeover Target to Fix Pharma’s Lowest Valuation",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-lines-up-takeover-target-to-fix-pharma-s-lowest-valuation",
-    "summary": "To understand why Sanofi is pursuing what would be the biggest takeover in the pharmaceutical industry in years, look no further than one number.",
-    "published": "2026-11-20T14:48:08Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "12514d2d70090fea7a",
-    "title": "USTR Greer on Chip Curbs, Rare Earths, US-China Trade",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-on-chip-curbs-rare-earths-us-china-trade-video",
-    "summary": "US Trade Representative Jamieson Greer discusses US chip controls, talks between President Donald Trump and Chinese President Xi Jinping on rare earths, and the potential for an extension of the US-China trade agreement. He speaks with Annm",
-    "published": "2026-11-20T14:46:22Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a3f5e01be051086d76",
-    "title": "リニア中央新幹線工事で川の水噴出 川崎のトンネル工事現場、周囲に影響なし",
-    "url": "https://www.sankei.com/article/20261120-HYBLLFW6ORNVDN6MGZECZYGG5A",
-    "summary": "",
-    "published": "2026-11-20T14:38:15Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "708fb53707cc2e7e32",
-    "title": "「問題の複雑化を避けるべき」 中国、国際司法裁のロヒンギャ「集団殺害」判決に注文",
-    "url": "https://www.sankei.com/article/20261120-GYBVKJRYXFK25FYO6WVWC5TP7E?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-20T14:37:29Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "e929274fca60532fc6",
-    "title": "「問題の複雑化を避けるべき」 中国、国際司法裁のロヒンギャ「集団殺害」判決に注文",
-    "url": "https://www.sankei.com/article/20261120-GYBVKJRYXFK25FYO6WVWC5TP7E?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-20T14:37:29Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "868f8ab780ae288778",
-    "title": "Polish Stocks Lead European Losses After Russian Airspace Breach",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/polish-stocks-lead-european-losses-after-russian-airspace-breach",
-    "summary": "Polish stocks were the worst performers in Europe as a Russian incursion into the country’s airspace reminded investors of the geopolitical risks stemming from the war in neighboring Ukraine.",
-    "published": "2026-11-20T14:37:22Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a9fff050e0521fe97b",
-    "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-    "summary": "Anthropic PBC shares erased a portion of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-    "published": "2026-11-20T14:36:49Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "044f46be273dc36bf5",
-    "title": "State Street’s Hung on Trump Accounts, Private Markets, Future of ETFs",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/state-street-s-hung-on-trump-accounts-private-markets-video",
-    "summary": "State Street Investment Management CEO and President Yie-Hsin Hung joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026.",
-    "published": "2026-11-20T14:36:35Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "37bbef14cc15f6102f",
-    "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
-    "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
-    "summary": "評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本...",
-    "published": "2026-11-20T14:35:51Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "17f3fa666d2758eee8",
-    "title": "Think You Know ETFs? Bloomberg News Quiz Pointed Live from ETFs in Depth",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-news-quiz-pointed-live-from-etfs-in-depth-video",
-    "summary": "Bloomberg’s news quiz show, Pointed, took the stage at the 2026 Bloomberg ETFs in Depth conference in New York for a battle of ETF knowledge. Bloomberg’s Katie Greifeld and Eric Balchunas went head-to-head with their teams F/m Investments’ ",
-    "published": "2026-11-20T14:32:03Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "3304cf46ea8a4dc9a6",
-    "title": "New Opportunities in Fixed Income ETFs",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/new-opportunities-in-fixed-income-etfs-video",
-    "summary": "With equities dominating investor attention, is it time for bonds to take center stage? BlackRock’s Stephen Laipply, Amplify ETFs’ Christian Magoon and Invesco’s Raphael Stern joined Bloomberg’s Tom Keene at the 2026 Bloomberg ETFs in Depth",
-    "published": "2026-11-20T14:31:42Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "30badd10ec4a5486f3",
-    "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
-    "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13",
-    "summary": "中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプ...",
-    "published": "2026-11-20T14:31:09Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "80afb7fb90aa095475",
-    "title": "Turkey’s First Jet-Powered War Drone Expands Combat Capability",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/turkey-s-first-jet-powered-war-drone-expands-combat-capability",
-    "summary": "Baykar Technologies began deliveries of its jet-powered Kizilelma drones to the Turkish military, enabling the North Atlantic Treaty Organization member to begin utilizing unmanned aerial vehicles in air-to-air combat.",
-    "published": "2026-11-20T14:27:49Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "ad6d5298909a42dcee",
-    "title": "経産省、EV補助金を20日に受け付け終了",
-    "url": "https://www.nikkei.com/article/DGXZQOUA19BL20Z11C26A1000000",
-    "summary": "",
-    "published": "2026-11-20T14:24:01Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "2b7f31d5fe009be519",
-    "title": "Novartis CEO: AI Could Cut Drug Development Time by Years",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video",
-    "summary": "Novartis CEO Vasant Narasimhan says artificial intelligence could help cut drug-development times from 12 years to eight and significantly improve the odds of bringing new medicines to market. Narasimhan, who also sits on Anthropic’s board,",
-    "published": "2026-11-20T14:23:26Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "53be9036fc926faafb",
-    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "url": "https://alpo.ge/remark.pdf",
-    "summary": "HN points: 2840 | comments: 2009",
-    "published": "2026-11-20T14:16:21Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "942f95e44dc1961a1f",
-    "title": "Anthropic Tumbles Near IPO Price in Second Day of Trading",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slides-near-ipo-price-in-second-day-of-trading-video",
-    "summary": "Anthropic shares fell on their second day of trading, coming close to the stock’s IPO price. The Claude chatbot maker’s shares tumbled more than 10% in premarket trading in New York earlier Friday. Ed Ludlow reports on Bloomberg Television.",
-    "published": "2026-11-20T14:12:32Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a7818eb706b1b32d64",
-    "title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.",
-    "url": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology",
-    "summary": "Plus, tech stock market rout intensifies with Anthropic shares down as much as 10% premarket",
-    "published": "2026-11-20T14:12:00Z",
-    "source": "WSJ · Technology",
-    "source_type": "publisher",
-    "publisher": "Wall Street Journal",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "e323abb3281b6e71b2",
-    "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
-    "summary": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean Sands The owner of Pontins holiday parks has been fined £1m over the death of a woman who was fatally injured when part of a ceiling ",
-    "published": "2026-11-20T14:07:46Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "cdf0aed5feda2cadc3",
-    "title": "USTR Greer Says US Chip Moves ‘Closing a Loophole’",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-says-us-chip-moves-closing-a-loophole-video",
-    "summary": "US Trade Representative Jamieson Greer discusses US chip controls and talks between President Donald Trump and Chinese President Xi Jinping after the two leaders met this week in Shenzen. He speaks with Annmarie Hordern on “Bloomberg Survei",
-    "published": "2026-11-20T14:02:33Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "f50e4513672125f9f0",
-    "title": "Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut",
-    "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-    "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
-    "published": "2026-11-20T14:01:58Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "aad61db7b075ee9b3c",
-    "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-    "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-    "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, ",
-    "published": "2026-11-20T14:00:31Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "d5f9efb3a984162196",
-    "title": "日チリが鉱物供給網で連携 来年外交関係樹立130周年 折り鶴モチーフのロゴ発表",
-    "url": "https://www.sankei.com/article/20261120-UNAIDJTDU5PTXNPGXQKAUN6FUU",
-    "summary": "",
-    "published": "2026-11-20T13:54:46Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "43ba16025e3fed5411",
-    "title": "Nasdaq 100 Just Had One of Its Most Extreme Intraday Swings Ever",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/nasdaq-100-just-had-one-of-its-most-extreme-intraday-swings-ever",
-    "summary": "The Nasdaq 100 rout has produced an intraday swing rarely seen outside periods of extreme market stress.",
-    "published": "2026-11-20T13:52:00Z",
     "source": "Bloomberg · Technology",
     "source_type": "publisher",
     "publisher": "Bloomberg",
