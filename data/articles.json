@@ -1,5 +1,863 @@
 [
   {
+    "id": "d045c82ee2ef72be01",
+    "title": "“仓潮科技”完成数千万元天使++轮融资",
+    "url": "https://36kr.com/newsflashes/4088828441066116?f=rss",
+    "summary": "36氪获悉，水面智能驾驶公司“仓潮科技”近日完成数千万元天使++轮融资，由兴业证券旗下兴证资本、上市公司高华科技联合投资，这是公司2026年完成的第三轮融资。资金将重点投向近海运维场景��数据化与产品落地、海洋物理AI技术研发、船级社认证及行业标准建设，同时推进近海世界模型的前沿探索。",
+    "published": "2026-11-28T04:56:16Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d48ccaa7e870536101",
+    "title": "今年前10个月物流业总收入12.3万亿元",
+    "url": "https://36kr.com/newsflashes/4088827015887489?f=rss",
+    "summary": "中国物流与采购联合会今天（28日）发布今年前10个月物流运行数据。今年1月至10月，我国物流市场呈现规模稳中有进、结构持续向优的良好态势，物流供给端积极变革，综合效能和韧性有所增强，国际物流通道高效畅通。从市场规模看，1月至10月，物流业总收入12.3万亿元，同比增长4.2%。（央视新闻）",
+    "published": "2026-11-28T04:36:39Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "5bca9b53b432457569",
+    "title": "千里科技董事长印奇阐释对于智驾下半场的核心判断与打法",
+    "url": "https://36kr.com/newsflashes/4088825650936198?f=rss",
+    "summary": "36氪获悉，11月27日，在千里科技投资者交流会上，千里科技董事长、阶跃星辰董事长印奇阐释了对于智驾下半场的核心判断与打法。在他看来，智驾下半场的竞争不单是技术竞赛， 更是一整套体系的较量。从技术路线、工程体系和商业模式，千里给出了明确答案：模型驱动，Tier 0.5 模式，以及 L2+L4 技术商业闭环。",
+    "published": "2026-11-28T04:13:15Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "40893a971e28b932c3",
+    "title": "人間さながらのロボット「IRON」2027年後半に発売 中国EV大手の小鵬汽車が発表",
+    "url": "https://www.sankei.com/article/20261128-JO2A6V7SUJIJZPNTWK55NGLNI4",
+    "summary": "",
+    "published": "2026-11-28T04:09:46Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "be1ca5ddf8949e047e",
+    "title": "人間さながらのロボット「IRON」2027年後半に発売 中国EV大手の小鵬汽車が発表",
+    "url": "https://www.sankei.com/article/20261128-JO2A6V7SUJIJZPNTWK55NGLNI4",
+    "summary": "",
+    "published": "2026-11-28T04:09:46Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "75a6c1acdae85ff775",
+    "title": "手放した古着はどこへ行く？㊦ 回収→販売の循環「パスト」駅やメルカリで海外にも",
+    "url": "https://www.sankei.com/article/20261128-64APABOQGFNE3IJ4EFKNYNHJ7Y?outputType=asynd",
+    "summary": "",
+    "published": "2026-11-28T04:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "8d31a0b784cb707a4a",
+    "title": "「日本夜景遺産」の絶景楽しんで 奈良・生駒山上遊園地、12月から冬の特別ナイター営業",
+    "url": "https://www.sankei.com/article/20261128-NVZTUNLNWVMX5LYOTAOMAJ2C44?outputType=asynd",
+    "summary": "",
+    "published": "2026-11-28T04:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "b9aa53c04c6461f289",
+    "title": "每人每月补助5000元，澳门居民珠海养老服务落地",
+    "url": "https://36kr.com/newsflashes/4088821727591044?f=rss",
+    "summary": "依托珠澳两地政策协同，越来越多澳门人选择北上到珠海养老。澳门社会工作局本月推出《澳门长者跨境养老服务计划》，首阶段选定珠海金湾颐养园作为试点院舍，该院同步获批成为全国首家澳门官方跨境养老合作机构，为澳门人开辟跨境养老新路径。11月起，澳门社会工作局面向符合资格的澳门居民开辟澳门以外养老新渠道。参与计划的澳门居民须年满65岁，持有有效证件，并已参加珠海医保。符合资格的居民经澳门社工局评估通过并正式入住后，每人每月可获澳门社工局发放的5000元人民币院费补助，补助基本覆盖双人房独",
+    "published": "2026-11-28T03:55:23Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "1e2a6497168ce90c72",
+    "title": "机构：预估2027年存储器产值增速放缓",
+    "url": "https://36kr.com/newsflashes/4088820324678016?f=rss",
+    "summary": "36氪获悉，据TrendForce集邦咨询最新存储器产业研究，由于部分云端服务供应商（CSP）下修2027年存储器订单，预计NAND Flash产业在供给续增的情况下，将进入价格下行循环，全年产值因此较先前预估下调至约4193亿美元。DRAM市场尽管得以延续供不应求态势，但价格涨幅将逐季收敛，2027年产值预估下修至1.15万亿美元。",
+    "published": "2026-11-28T03:33:50Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "0a2c0eed53fde393af",
+    "title": "筑波大がハンマー投げで不適正申請 非公認練習場の記録は無効に、競技会主催禁止処分も",
+    "url": "https://www.sankei.com/article/20261128-VIZEGLF2KNPVRPQK6AK24M5W74",
+    "summary": "",
+    "published": "2026-11-28T03:28:57Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "15262afb090ce09df0",
+    "title": "GMOペパボへの不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/28/110735",
+    "summary": "2026年11月27日、GMOペパボは「ロリポップ！レンタルサーバー」などで第三者による不正アクセスが確認され、顧客情報が漏えいしたことが判明したと公表しました。ここでは関連する情報をまとめます。 データ分析基盤を経由した顧客情報の持ち出し GMOペパボは原因について、サービス利用者のWebサイトではなく自社の内部...",
+    "published": "2026-11-28T03:28:03Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 11
+  },
+  {
+    "id": "6c94946a62904b05a2",
+    "title": "熊本地震4カ月、関連死6人申請相次ぐ 長引く避難、健康ケア課題",
+    "url": "https://www.sankei.com/article/20261128-KFT3SKR7EZMLZLQ36IWBD6MXAY",
+    "summary": "",
+    "published": "2026-11-28T03:22:50Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "4b8e72aff11a121b0f",
+    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "url": "https://unkernel.dev/",
+    "summary": "HN points: 43 | comments: 4",
+    "published": "2026-11-28T03:19:20Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 2
+  },
+  {
+    "id": "75631fe2911b47e1fb",
+    "title": "亚太数智赋能创新发展合作平台启动建设",
+    "url": "https://36kr.com/newsflashes/4088818767018626?f=rss",
+    "summary": "作为中国担任2026年亚太经合组织东道主的75项成果之一，亚太数智赋能创新发展合作平台在四川成都揭牌并启动建设。国家数据局相关负责人介绍，亚太数智赋能创新发展合作平台将聚焦数据基础设施、数据开发利用、产业数智化转型、数字文创等几大重点领域，促进经验交流、资源对接、场景合作和能力建设，助力弥合亚太地区数字鸿沟，为各经济体在APEC框架下促进创新和经济增长提供新的发展机遇和空间。（央视新闻）",
+    "published": "2026-11-28T03:11:27Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "ecefdc33b23cf6173f",
+    "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+    "summary": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchas",
+    "published": "2026-11-28T03:01:44Z",
+    "source": "Bloomberg · Markets",
+    "source_type": "publisher",
+    "publisher": "Bloomberg",
+    "language": "en",
+    "category": "finance",
+    "rank": null
+  },
+  {
+    "id": "92d0f8460fabb29d77",
+    "title": "外国人10年で倍増の群馬県「治安風紀が乱れる」72％ 受け入れ「適正規模」独自に調査",
+    "url": "https://www.sankei.com/article/20261128-OSBNR5BKTBOGZNOHLZSFSHYW5U",
+    "summary": "",
+    "published": "2026-11-28T03:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "1c35ee9e4d940123c1",
+    "title": "浪曲三味線の魅力たっぷりと 沢村さくらが「曲師の会」で解説、実演 大阪で12月5日",
+    "url": "https://www.sankei.com/article/20261128-WLBVBITUWZNP7DY7JYPAX4NQ6I",
+    "summary": "",
+    "published": "2026-11-28T03:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "b7827f3e5e142dd9f4",
+    "title": "沖縄・尖閣諸島周辺に中国船、35日連続で確認 海上保安庁の巡視船が警告",
+    "url": "https://www.sankei.com/article/20261128-QTY2OH3HZJKJFDE3CK7NQZHDMM",
+    "summary": "",
+    "published": "2026-11-28T02:47:18Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "2aef7d0c7b1a4c3ebb",
+    "title": "アマゾンのドローンがガレージの屋根に墜落…補償を約束、アマギフ1万6000円分を提供",
+    "url": "https://www.sankei.com/article/20261128-QY56ALD5PNON5NBTWTFTOANUEM",
+    "summary": "",
+    "published": "2026-11-28T02:41:22Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "5f6f0b506f4802e862",
+    "title": "アマゾンのドローンがガレージの屋根に墜落…補償を約束、アマギフ1万6000円分を提供",
+    "url": "https://www.sankei.com/article/20261128-QY56ALD5PNON5NBTWTFTOANUEM",
+    "summary": "",
+    "published": "2026-11-28T02:41:22Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "c672d8298864c0c06c",
+    "title": "预期向好，价值投资老将频出手",
+    "url": "https://36kr.com/newsflashes/4088791734647425?f=rss",
+    "summary": "看好后市投资机会，多位价值投资老将在当下出手。陈光明掌舵的睿远基金官宣亿元自购，董承非、曹名长等老将积极看多。在部分业内人士看来，当前利好因素正在不断积聚，随着中长期资金的积极入市，叠加上市公司更加强调资本回报，后市可期。（上证报）",
+    "published": "2026-11-28T02:40:54Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "a6c053a8d9a3f08705",
+    "title": "2026年全球系统重要性银行名单出炉，我国五大银行分组保持不变",
+    "url": "https://36kr.com/newsflashes/4088796793813635?f=rss",
+    "summary": "日前，金融稳定理事会（FSB）公布2026年全球系统重要性银行（G-SIB）名单，共计29家机构进入名单，数量与上年保持一致。其中，工商银行、农业银行、中国银行、建设银行、交通银行等5家中资银行进入名单，与2025年保持一致。具体来看，工商银行仍在第三组，对应的附加资本缓冲要求为2.0%；农业银行、中国银行、建设银行在第二组，附加资本缓冲要求均为1.5%；交通银行在第一组，附加资本缓冲要求为1.0%。（证券时报）",
+    "published": "2026-11-28T02:33:02Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "9be76ed240f6c67710",
+    "title": "台湾統一地方選の投票開始 2028年の総統選にらみ与野党激突、中国の対台湾政策に影響",
+    "url": "https://www.sankei.com/article/20261128-XUVLIHMBYFMGHMDGDO7GBFTPM4",
+    "summary": "",
+    "published": "2026-11-28T02:30:22Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "7949dfe04129fdbeb4",
+    "title": "台湾統一地方選の投票開始 2028年の総統選にらみ与野党激突、中国の対台湾政策に影響",
+    "url": "https://www.sankei.com/article/20261128-XUVLIHMBYFMGHMDGDO7GBFTPM4",
+    "summary": "",
+    "published": "2026-11-28T02:30:22Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "7a88777f76ebf1cade",
+    "title": "港股IPO全年募资料超4300亿港元，“A+H”与科技企业成主力",
+    "url": "https://36kr.com/newsflashes/4088792601311624?f=rss",
+    "summary": "数据显示，截至11月27日，128家公司完成港股IPO登陆港交所。机构预计全年IPO数量将超过140宗，筹资额超4300亿港元，宗数和筹资额同比分别增长23%和50%。预计2026年港股IPO筹资额将创近五年新高。“A+H”股成为推动筹资规模增长的重要力量，全年筹资额预计超2800亿港元。数据显示，目前，港交所聆讯处理中的公司有343家，聆讯通过等待上市的有12家，这些公司为2027年的发行延续提供了基础。（中证报）",
+    "published": "2026-11-28T02:25:48Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "8fe79069ac1493f441",
+    "title": "紅葉の皇居で「乾通り」一般公開始まる 12月6日まで、事前申し込み不要",
+    "url": "https://www.sankei.com/article/20261128-PB2F46AHZJLVDEH2TZ34CURLOY",
+    "summary": "",
+    "published": "2026-11-28T02:21:38Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "2ec137b833d0b94a6e",
+    "title": "美国强风暴影响持续，数十万用户停电",
+    "url": "https://36kr.com/newsflashes/4088762193869192?f=rss",
+    "summary": "席卷美国东部多地的强风当地时间27日暴逐渐减弱，但其影响仍在持续。全美停电信息网数据显示，截至27日下午，美国仍有超40万户居民和商家停电。航班跟踪网站数据显示，截至27日下午，已有超2400架次航班延误、超140架次航班取消。（央视新闻）",
+    "published": "2026-11-28T02:11:50Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "5de5ed93080ef8394e",
+    "title": "宮城の山中で2人の遺体発見、うち1人は横浜の女子高生か 誘拐容疑で33歳の男を逮捕",
+    "url": "https://www.sankei.com/article/20261128-V4XSFY5HYVO4VP7WES5325FI7A",
+    "summary": "",
+    "published": "2026-11-28T02:10:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "a3ff90808614a7eec3",
+    "title": "迪士尼首席技术官在AI初创公司破产案中收到传票",
+    "url": "https://36kr.com/newsflashes/4088761430686338?f=rss",
+    "summary": "Character Technologies的债权人委员会拟向该公司前首席执行官（现任华特迪士尼首席技术官）发出传票，这家传媒巨头正计划从这家娱乐AI初创企业授权部分知识产权。无担保债权人官方委员会周五向美国特拉华州破产法院提交通知，拟在12月4日听证会前传唤卡兰迪普·阿南德作证。阿南德于9月出任迪士尼首任首席技术官。领英信息显示，他在加入迪士尼前，曾在Character.ai任职两年。（新浪财经）",
+    "published": "2026-11-28T02:04:03Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "a2afac1450dd313fb1",
+    "title": "Atari Homebrew Awards Cancelled",
+    "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled",
+    "summary": "HN points: 138 | comments: 124",
+    "published": "2026-11-28T02:03:25Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "2b4800419ed32db9e2",
+    "title": "交易员缩减对美联储加息押注，预计明年晚些转向宽松",
+    "url": "https://36kr.com/newsflashes/4088756347828873?f=rss",
+    "summary": "隔夜指数互换合约显示，美联储到明年3月两次加息的可能性为100%，到明年年中第三次加息的可能性接近90%。两周前，互换合约显示，预计美联储到明年9月将加息三次，并显示第四次加息的可能性为35%。一些交易员目前预计，随着加息的影响以及股市下跌拖累这个全球最大经济体，美联储将在明年晚些时候转向宽松。（财联社）",
+    "published": "2026-11-28T02:01:04Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "6ffc332c4d9603d635",
+    "title": "水面智能驾驶公司获数千万融资，加速近海无人作业平台落地｜硬氪首发",
+    "url": "https://36kr.com/p/4081887385817988?f=rss",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，水面智能驾驶公司「仓潮科技」近日完成数千万元天使++轮融资，由兴业证券旗下兴证资本、上市公司高华科技联合投资，这是公司2026年完成的第三轮融资。资金将重点投向近海运维场景的数据化与产品落地、海洋物理AI技术研发、船级社认证及行业标准建设，同时推进近海世界模型的前沿探索。 本轮融资完成后，叠加此前种子轮、天使轮及天使+轮系列融资，仓潮科技累计融资规模近亿元。其中种子轮由连云港海洋基金出资，天使轮投资方包含云港集团、天汇资本、连云港金控集团，",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "e2413d66efb0213cd9",
+    "title": "上海で日本企業の出店や旗艦店刷新相次ぐ ミスドは7年ぶり中国再進出 日中関係緊張でも",
+    "url": "https://www.sankei.com/article/20261128-7KN2ADXN4FJV3CJP5256LHCJRU",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "fed6c3bb0f46f1cd4a",
+    "title": "暴力・いじめ・不登校、滋賀でいずれも過去最多 令和7年度 いじめ認知は14年連続更新",
+    "url": "https://www.sankei.com/article/20261128-DIONLDNSFJKRVG4Q4WPX7ZTVGA?outputType=asynd",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "81d1353e9ca99e1ff3",
+    "title": "伝説の背景には友の言葉があった 江夏豊がマウンド上で見た衣笠祥雄のきれいな歯",
+    "url": "https://www.sankei.com/article/20261128-FRXN2NDCSVPEFPQTZK2G4QMEIA",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "c3e2f7c323910cb85f",
+    "title": "中学受験、6年後の医学部受験に学校選びは関係ない 知っておきたい医進予備校",
+    "url": "https://www.sankei.com/article/20261128-VA7PJMD5ZZEA7ML6Z56PJMPIU4",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "c75b9cd3c22375910a",
+    "title": "自民「外国人の無制限な受け入れは阻止」も、量的マネジメントは盛り込まず 維新と温度差",
+    "url": "https://www.sankei.com/article/20261128-VUHNEWONHBLWZJE2C7FBTPYY5I",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "56f5662e0680e6bc67",
+    "title": "上海で日本企業の出店や旗艦店刷新相次ぐ ミスドは7年ぶり中国再進出 日中関係緊張でも",
+    "url": "https://www.sankei.com/article/20261128-7KN2ADXN4FJV3CJP5256LHCJRU",
+    "summary": "",
+    "published": "2026-11-28T02:00:00Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "d9c1ddd77a60143996",
+    "title": "我国加快构建汽车行业智能制造标准体系",
+    "url": "https://36kr.com/newsflashes/4088759406836358?f=rss",
+    "summary": "汽车行业智能制造标准体系建设指南（2026版）征求意见稿27日向行业正式公开。这将有力支撑我国汽车产业迈向新一代智能制造。新指南以汽车智能制造基础共性、关键技术、应用场景、新模式创新、细分行业适配五层架构为骨架，聚焦智能装备互联、工艺管理智能化、高质量数据集、工业大模型与具身智能、物流与供应链协同等重点方向。（央视新闻）",
+    "published": "2026-11-28T01:56:00Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "230028de8daf178b76",
+    "title": "イタリアのメローニ首相がウクライナのゼレンスキー大統領に苦言 リビアでの露軍艦攻撃で",
+    "url": "https://www.sankei.com/article/20261128-WHCDTA4ZKJIBVO4UZ26X7Z7VZU",
+    "summary": "",
+    "published": "2026-11-28T01:55:13Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "e41532b1b5805cf7e2",
+    "title": "イタリアのメローニ首相がウクライナのゼレンスキー大統領に苦言 リビアでの露軍艦攻撃で",
+    "url": "https://www.sankei.com/article/20261128-WHCDTA4ZKJIBVO4UZ26X7Z7VZU",
+    "summary": "",
+    "published": "2026-11-28T01:55:13Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "b577707f7a30ccf47b",
+    "title": "北朝鮮が12月下旬に党中央委員会総会を開催、政策方針決定へ 米朝会談への対応に注目",
+    "url": "https://www.sankei.com/article/20261128-GW73TI26AZMXBPKXE5EQZ7BDXU",
+    "summary": "",
+    "published": "2026-11-28T01:49:25Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "7e790088b4aa1088c3",
+    "title": "北朝鮮が12月下旬に党中央委員会総会を開催、政策方針決定へ 米朝会談への対応に注目",
+    "url": "https://www.sankei.com/article/20261128-GW73TI26AZMXBPKXE5EQZ7BDXU",
+    "summary": "",
+    "published": "2026-11-28T01:49:25Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "0ad3b0db7a13a5bc58",
+    "title": "英国就业和养老金部因“网络事件”中断部分线上服务",
+    "url": "https://36kr.com/newsflashes/4088758094526856?f=rss",
+    "summary": "英国就业和养老金部11月27日发布消息称，由于发现影响系统的“网络事件”，该部门中断部分线上服务。该部门表示，正与英国国家网络安全中心及政府网络协调中心密切合作展开调查，努力尽快恢复相关线上服务以将影响降到最低。消息称，常规的福利和养老金发放不受影响，将照常支付。英国就业和养老金部同时提醒公众，该部门不会通过短信或电子邮件索要私人信息，注意防范并举报网络诈骗和网络钓鱼。（新华社）",
+    "published": "2026-11-28T01:48:40Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d7808a916300363cf8",
+    "title": "アップルに「企業秘密を盗まれた」とオープンAIが反訴 両社の対立深まる",
+    "url": "https://www.sankei.com/article/20261128-BBWKXVA4SNIL7MNHJWI5EPWB7Y",
+    "summary": "",
+    "published": "2026-11-28T01:42:12Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "7f3ed157b3989173dd",
+    "title": "アップルに「企業秘密を盗まれた」とオープンAIが反訴 両社の対立深まる",
+    "url": "https://www.sankei.com/article/20261128-BBWKXVA4SNIL7MNHJWI5EPWB7Y",
+    "summary": "",
+    "published": "2026-11-28T01:42:12Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "935f49eee1817e66bf",
+    "title": "央企专业化整合取得积极进展，项目超1100个",
+    "url": "https://36kr.com/newsflashes/4088754200967561?f=rss",
+    "summary": "27日，国务院国资委对外通报了央企专业化整合工作新进展，并为下一步中央企业专业化整合工作做出部署。去年以来，各央企共开展整合项目1100余个，涉及资产规模约6.8万亿元。其中，战新领域整合项目共380余个，占比35%，资产规模2.3万亿元，主要涉及生物医药、人工智能、新能源汽车等领域。专业化整合呈现出增强核心功能和提高核心竞争力的导向，进一步推动产业升级和科技创新。（央视新闻）",
+    "published": "2026-11-28T01:35:51Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "9be51923c2daecab4f",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "summary": "HN points: 118 | comments: 91",
+    "published": "2026-11-28T01:32:56Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 21
+  },
+  {
+    "id": "eda9c3513e103e9f11",
+    "title": "Verizon洽谈以约60亿美元的交易收购Fidium",
+    "url": "https://36kr.com/newsflashes/4088740119493256?f=rss",
+    "summary": "引知情人士报道称，Verizon正就一笔约60亿美元收购光纤宽带运营商Fidium的交易进行谈判。报道称，Verizon与Fidium所有者之间的磋商仍在进行。这笔潜在交易可能在未来数周内达成。报道还称，仍有可能出现其他竞购方，而且无法保证相关谈判最终会促成交易。Verizon不予置评；Fidium及其所有者Searchlight和BCI未立即回应置评请求。（新浪财经）",
+    "published": "2026-11-28T01:28:24Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "d52621def9f7fd22c4",
+    "title": "欧洲央行Nagel暗示12月或需再次加息，此前法国和西班牙通胀超预期放缓",
+    "url": "https://36kr.com/newsflashes/4088740180261510?f=rss",
+    "summary": "欧洲央行管理委员会委员Joachim Nagel表示，通胀顽固意味着欧洲央行下个月可能不得不再次加息。Nagel在法兰克福面向青年群体发表讲话时指出，高企的价格压力对欧洲央行而言依然是一项挑战。尽管通胀前景预计将在2028年改善，但“那距离现在还有很长一段时间”。“我们预计2027年全年通胀率都将高于3% —— 由于能源价格具有较强的传导效应，总体通胀和核心通胀都将如此，”Nagel在其所在机构举办的Euro20+活动上表示。“就货币政策而言，这意味着我们可能还需要采取更多行",
+    "published": "2026-11-28T01:21:35Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "8818e380c2e78f28d1",
+    "title": "静岡・清水の市街地でイノシシに襲われ7人けが 体重100キロ超、麻酔吹き矢で駆除",
+    "url": "https://www.sankei.com/article/20261128-EJX7KYVQ2ZPJLFKDZUTW3T4C2A",
+    "summary": "",
+    "published": "2026-11-28T01:21:10Z",
+    "source": "産経新聞 · 速報",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "04272aeb28d92879e4",
+    "title": "湘财股份：撤回换股吸收合并大智慧申请",
+    "url": "https://36kr.com/newsflashes/4088734709315973?f=rss",
+    "summary": "36氪获悉，湘财股份公告，公司董事会审议通过撤回换股吸收合并上海大智慧并募集配套资金暨关联交易申请，并与大智慧签署解除协议。因外部环境变化及公司发展需要，经双方协商一致决定撤回。公司承诺自公告披露起至少1个月内不再筹划重大资产重组。本次撤回不会对公司现有业务、财务状况和持续经营能力产生不利影响。",
+    "published": "2026-11-28T01:16:01Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "befb9b10e1aeef548c",
+    "title": "ウクライナが黒海停戦をロシアに提案 農産物輸出の再開狙う、露は石油も含めるべきと主張",
+    "url": "https://www.sankei.com/article/20261128-HHFCP6GDLBJAXLDB43JDJSM2PQ",
+    "summary": "",
+    "published": "2026-11-28T01:10:47Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "ac7e5a236fb42d6705",
+    "title": "大智慧：撤回湘财股份换股吸收合并公司申请",
+    "url": "https://36kr.com/newsflashes/4088718637808008?f=rss",
+    "summary": "36氪获悉，大智慧公告，公司召开董事会审议通过撤回湘财股份换股吸收合并公司并募集配套资金暨关联交易申请，并与湘财股份签署解除协议。鉴于外部环境变化和公司发展需要，经交易双方审慎研究、协商一致，决定向上交所撤回本次交易申请。本次交易撤回不会对公司现有业务、财务状况和持续经营能力产生不利影响。公司承诺自公告披露之日起至少1个月内，不再筹划重大资产重组。",
+    "published": "2026-11-28T01:10:29Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "86610a7e9182317f27",
+    "title": "9点1氪丨DeepSeek或将推出付费模式；广电正式禁播电视开机广告；李斌：“速成车”是对国产车的污名化",
+    "url": "https://36kr.com/p/4088718976268932?f=rss",
+    "summary": "今日热点导览 晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应 丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧 爱马仕部分二手包价格暴跌 韩国高考作弊查处量激增，涉智能设备案件增至去年3.6倍 取消大小周后调整日工作时长、降薪，遭员工抵制？海康威视回应 TOP3大新闻 DeepSeek或将推出付费模式 近日，DeepSeek安卓端App更新2.10.0版本后，新增了功能按钮，用户可查看每轮对话消耗额度对应的具体资费，其计费模式和API的官方文档计费模式相同。 此",
+    "published": "2026-11-28T01:07:21Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "ee0a419ae03dec4e1e",
+    "title": "OpenAI反诉苹果窃取商业秘密",
+    "url": "https://36kr.com/newsflashes/4088717934950787?f=rss",
+    "summary": "当地时间11月27日，据报道，OpenAI对苹果提起反诉，指控这家大型科技巨头窃取其商业秘密，并劝阻硬件供应商不要参与OpenAI未来设备的研发。此前，苹果已起诉OpenAI，称其涉嫌挖角苹果员工以获取技术。OpenAI在加利福尼亚州联邦法院提交反诉请求，该公司在法庭文件中表示，苹果通过重新聘用一名曾在OpenAI工作六个月的员工获取了机密信息。报道称，苹果否认利用这名返聘员工获取OpenAI的机密信息，也否认试图抑制人工智能设备制造领域的竞争。苹果在一份声明中表示，Open",
+    "published": "2026-11-28T01:04:51Z",
+    "source": "36氪 · 综合",
+    "source_type": "publisher",
+    "publisher": "36氪",
+    "language": "zh",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "43bdd26425b353551a",
+    "title": "サウジ、トルコ、パキスタン3カ国高官が会合、サウジ防衛を確認 フーシ派の攻撃を非難",
+    "url": "https://www.sankei.com/article/20261128-5TMXTWSECNJQHOQ7VBBKWZWRS4",
+    "summary": "",
+    "published": "2026-11-28T01:04:12Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "e17fcff4aa59798db5",
+    "title": "The Chinese car champion turning to police and nurse robots",
+    "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+    "summary": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+    "published": "2026-11-28T01:00:07Z",
+    "source": "FT · Technology",
+    "source_type": "publisher",
+    "publisher": "Financial Times",
+    "language": "en",
+    "category": "tech",
+    "rank": null
+  },
+  {
+    "id": "5cbec382a9f4266f1f",
+    "title": "セルビア大統領選候補にベオグラード大サイチッチ教授 新興政治勢力「学生リスト」が擁立",
+    "url": "https://www.sankei.com/article/20261128-DNQMT5E7VRNZTEQP3LY76TQKP4",
+    "summary": "",
+    "published": "2026-11-28T00:48:27Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "0cd62d70c54e559390",
+    "title": "ロシア「ウクライナのドローン攻撃の様子を撮影して投稿するのを禁止する」←逆効果だぞ (by ロシアの軍事ブロガー)",
+    "url": "https://anond.hatelabo.jp/20261128093004",
+    "summary": "ロシア下院で新たに提出された「ウクライナのドローン攻撃の様子を撮影して投稿するのを禁止する」という最大5年の懲役刑を伴う法律について(これまでも地域ごとに罰金の条例はあったが、国家法として強化された)、ロシアの軍事ブロガー Two Majors が熱心に連投していたので貼っておこう。 https://t.me/dva_majors/102...",
+    "published": "2026-11-28T00:45:39Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 6
+  },
+  {
+    "id": "f126e78e2f9a975b25",
+    "title": "マイクロソフト幹部がAI企業への規制強化を提唱 「徹底して疑ってかかる姿勢が必要」",
+    "url": "https://www.sankei.com/article/20261128-O5OJAJYNXNJKDILDHMKVX37HVU",
+    "summary": "",
+    "published": "2026-11-28T00:42:29Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "be625d998da13a7a29",
+    "title": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」",
+    "url": "https://www.cnn.co.jp/world/35255529.html",
+    "summary": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」 （CNN） ロシアの最も緊密な同盟国であるベラルーシが、ウクライナに対するロシアの領有権主張の背後にある論理に疑問を呈している。例えるなら、モンゴルがロシアに領土割譲を要求するようなものだと指...",
+    "published": "2026-11-28T00:39:07Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 1
+  },
+  {
+    "id": "2cb1b40037074bb94d",
+    "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+    "url": "https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335",
+    "summary": "Meguro River, in the uppermost reaches of the Shimanto River, Shikoku, Japan. Leica M10-P, Summilux-M 50mm f/1.4 ASPH., RAW. AIはすごい、これを感じていない人は僕の周りではもう殆どいない。 ちょっと指示を出せばメールの返信を書いてくれる。かなり面倒な分析も、こういうことをやりたいと伝えれば、それな...",
+    "published": "2026-11-28T00:34:06Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 7
+  },
+  {
+    "id": "272d07450891305661",
+    "title": "トランプ政権の戦略で台湾有事は防げるか 高市政権が足並みそろえる「拒否的防衛」の死角",
+    "url": "https://www.sankei.com/article/20261128-XAELQ3EJ5NKZHA32COKGZXJADI",
+    "summary": "",
+    "published": "2026-11-28T00:00:00Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "2a2db0ad396a93ef69",
+    "title": "「ロシアの狙いは民族抹殺」 ウクライナ・ザポリージャのハルチェンコ市長代行",
+    "url": "https://www.sankei.com/article/20261128-FZ3PUOCO55NNBAZERGRJA4N5WI",
+    "summary": "",
+    "published": "2026-11-27T23:45:41Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "8eefbeb767ae470944",
+    "title": "サッカー日本代表の鎌田大地選手、英で起訴され裁判所に出頭 不注意運転と地元報道",
+    "url": "https://www.sankei.com/article/20261128-XZETUBZ7QNLIBL6NP3YWSCX5HE",
+    "summary": "",
+    "published": "2026-11-27T23:31:24Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
     "id": "e81f71e5eac341049b",
     "title": "ロシア最新鋭の原子力潜水艦「ペルミ」が極東配備へ 極超音速弾「ツィルコン」を常備",
     "url": "https://www.sankei.com/article/20261128-4YOYOYJ7CZMDHMN5PYXPIPC264",
@@ -13,6 +871,32 @@
     "rank": null
   },
   {
+    "id": "e747b53e7c944cb553",
+    "title": "ロシア最新鋭の原子力潜水艦「ペルミ」が極東配備へ 極超音速弾「ツィルコン」を常備",
+    "url": "https://www.sankei.com/article/20261128-4YOYOYJ7CZMDHMN5PYXPIPC264",
+    "summary": "",
+    "published": "2026-11-27T23:20:33Z",
+    "source": "産経新聞 · 国際",
+    "source_type": "publisher",
+    "publisher": "産経新聞",
+    "language": "ja",
+    "category": "general",
+    "rank": null
+  },
+  {
+    "id": "bf79580eedd8f2f714",
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+    "summary": "HN points: 234 | comments: 81",
+    "published": "2026-11-27T23:06:29Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 1
+  },
+  {
     "id": "468772b560a728fd9a",
     "title": "高橋光成がダイヤモンドバックスと合意、1年契約 西武からFA権行使し大リーグ移籍へ",
     "url": "https://www.sankei.com/article/20261128-G6UQI4EO4ZKM5B64O4AMUWK6QM",
@@ -24,6 +908,19 @@
     "language": "ja",
     "category": "general",
     "rank": null
+  },
+  {
+    "id": "981caa21816e50b4c9",
+    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+    "url": "https://tabernet.es/",
+    "summary": "HN points: 60 | comments: 27",
+    "published": "2026-11-27T23:00:30Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 16
   },
   {
     "id": "0bfcdefacaba87d452",
@@ -234,6 +1131,19 @@
     "rank": null
   },
   {
+    "id": "8ba6e0023b1accefcd",
+    "title": "GMO、サーバー貸出事業で不正アクセス 顧客情報51万件漏洩 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC27B210X21C26A1000000",
+    "summary": "GMOインターネットグループ傘下のGMOペパボは27日、サーバーの貸し出しサービスで不正アクセスがあったと発表した。顧客情報51万6564件が流出した可能性がある。個人情報に加え、一部顧客のパスワード計約12万件の漏洩も確認されたという。不正アクセスがあったのはGMOペパボが提供する「ロリポップ！レンタルサーバー」...",
+    "published": "2026-11-27T22:28:30Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 8
+  },
+  {
     "id": "01c000139a9d858dd2",
     "title": "ドイツで2027年予算案可決 歳出97兆円、防衛費やウクライナ支援で債務膨らむ",
     "url": "https://www.sankei.com/article/20261128-X5X6MEUTJJJRLEROY757CCPBZA",
@@ -387,20 +1297,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 2
   },
   {
     "id": "88975db1c9cc8e18ba",
     "title": "9/UX: a Macintosh-inspired desktop for 9front",
     "url": "https://progrium.github.io/9ux",
-    "summary": "HN points: 42 | comments: 9",
+    "summary": "HN points: 94 | comments: 24",
     "published": "2026-11-27T21:48:14Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "fe4aef9fba22c334b1",
@@ -439,7 +1349,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 5
+    "rank": 20
   },
   {
     "id": "eda36a94aad0648d2b",
@@ -575,14 +1485,14 @@
     "id": "a9fffe07e9c555ceba",
     "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
     "url": "https://github.com/skeeto/prospero",
-    "summary": "HN points: 21 | comments: 3",
+    "summary": "HN points: 50 | comments: 10",
     "published": "2026-11-27T20:23:14Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 14
+    "rank": 20
   },
   {
     "id": "24fc307ae2af304e1f",
@@ -653,40 +1563,40 @@
     "id": "131a2fe6a6248243aa",
     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-    "summary": "HN points: 210 | comments: 114",
+    "summary": "HN points: 321 | comments: 178",
     "published": "2026-11-27T19:42:25Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 9
+    "rank": 19
   },
   {
     "id": "852c57fe2574fe99fb",
     "title": "The AT&T Unix PC (3B1) VM",
     "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps",
-    "summary": "HN points: 49 | comments: 8",
+    "summary": "HN points: 73 | comments: 13",
     "published": "2026-11-27T19:40:33Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 7
+    "rank": 17
   },
   {
     "id": "1b36a7b58297ae51e7",
     "title": "Michael Nielsen took down his book on neural nets",
     "url": "https://neuralnetworksanddeeplearning.com/",
-    "summary": "HN points: 328 | comments: 214",
+    "summary": "HN points: 450 | comments: 284",
     "published": "2026-11-27T19:31:01Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 13
+    "rank": 23
   },
   {
     "id": "838ff984d7f74d1063",
@@ -822,27 +1732,27 @@
     "id": "22779c5a3948b2d9c9",
     "title": "Convex skills send the user's app idea to a remote server without telling them",
     "url": "https://github.com/convex/convex-backend-skill/issues/64",
-    "summary": "HN points: 202 | comments: 58",
+    "summary": "HN points: 257 | comments: 82",
     "published": "2026-11-27T18:02:45Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 3
+    "rank": 6
   },
   {
     "id": "a2a056fdddf93212c3",
     "title": "Show HN: DragDropMath – Learn math by feel",
     "url": "https://dragdropmath.com/",
-    "summary": "HN points: 78 | comments: 20",
+    "summary": "HN points: 117 | comments: 33",
     "published": "2026-11-27T17:56:28Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 17
+    "rank": 25
   },
   {
     "id": "e2bd1f8657c9b11157",
@@ -856,6 +1766,19 @@
     "language": "en",
     "category": "tech",
     "rank": null
+  },
+  {
+    "id": "416088cdc06f34c595",
+    "title": "通勤流出入マップ",
+    "url": "https://commuter-inflow-map.idoajob.chatgpt.site/?city=none",
+    "summary": "2020年の国勢調査に基づき、市区町村間の通勤者（15歳以上、男女計）を表示します。「同じ市区町村内で通勤」は、住んでいる市区町村内の自宅以外の職場で働く人の数です。 ランキングと矢印 流入は他の市区町村から選んだ市区町村に通勤する人数、流出は選んだ市区町村から他の市区町村に通勤する人数です。差分は流入...",
+    "published": "2026-11-27T17:41:10Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 10
   },
   {
     "id": "79bdf09b115131b8e7",
@@ -907,7 +1830,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 7
+    "rank": 2
   },
   {
     "id": "9aad1e54130e5a27ee",
@@ -946,7 +1869,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 9
+    "rank": 21
   },
   {
     "id": "33d9c63c65c6234ed1",
@@ -1108,14 +2031,14 @@
     "id": "cebaa628735e57da7e",
     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
     "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-    "summary": "HN points: 389 | comments: 199",
+    "summary": "HN points: 473 | comments: 242",
     "published": "2026-11-27T15:40:31Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 2
+    "rank": 5
   },
   {
     "id": "281dff5e2bb11f68be",
@@ -1134,14 +2057,14 @@
     "id": "36b85c36b2afc84ba2",
     "title": "False computer-checked proofs",
     "url": "https://cr.yp.to/proofs/falseccp.html",
-    "summary": "HN points: 170 | comments: 75",
+    "summary": "HN points: 200 | comments: 79",
     "published": "2026-11-27T15:26:09Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 18
+    "rank": 24
   },
   {
     "id": "61ea908e6a9b527136",
@@ -1225,14 +2148,14 @@
     "id": "8d32d6b392f0042f8e",
     "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
     "url": "https://bouncemarket.minhanhday.com/",
-    "summary": "HN points: 318 | comments: 109",
+    "summary": "HN points: 344 | comments: 116",
     "published": "2026-11-27T15:01:50Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 8
+    "rank": 13
   },
   {
     "id": "723f775997d27eb92e",
@@ -1368,14 +2291,14 @@
     "id": "c50ff018bc46d241f0",
     "title": "Rayshader 1.0: Exit the Matrix",
     "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-    "summary": "HN points: 61 | comments: 10",
+    "summary": "HN points: 98 | comments: 13",
     "published": "2026-11-27T14:30:20Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 11
+    "rank": 18
   },
   {
     "id": "5460a2eaa9ef52414e",
@@ -1414,7 +2337,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 2
+    "rank": 6
   },
   {
     "id": "32fe41c17eeef571a2",
@@ -1443,6 +2366,19 @@
     "rank": null
   },
   {
+    "id": "2251fcde7a22c808a9",
+    "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
+    "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+    "summary": "ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報告が英語です。 4 回目は特に目立ちました。私は返答の中の 1 文を音声で読み上げる仕組みを使っています。その読み上げ用の文も英語になり、日本語の音声が英語を読み始めました。 原因 4 回目をたどると、こう...",
+    "published": "2026-11-27T13:49:22Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 4
+  },
+  {
     "id": "3f7564147192db11af",
     "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》（文春オンライン） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/1e2c7d1635f2f5dd7062e28c78c319c0e6f4bcc0",
@@ -1453,7 +2389,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 1
+    "rank": 4
   },
   {
     "id": "5a7da5856f6fc775db",
@@ -1729,6 +2665,19 @@
     "rank": null
   },
   {
+    "id": "8ff85950fabd1c4414",
+    "title": "Eduardo Garzón @edugaresp スペイン語からの翻訳 これは衝撃的だ。極右、あるいは極右に支えられた右派が政権を握る国では、経済が壊滅的な状況に陥る。危機、景気後退、さらには預金封鎖まで起きる。これは意見ではなく、データだ（しかもGDPや雇用といった従来の指標を使っている）。国別に振り返ってみよう 🧵",
+    "url": "https://x.com/edugaresp/status/2125504212981133527",
+    "summary": "",
+    "published": "2026-11-27T12:40:49Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 5
+  },
+  {
     "id": "99ebf66f89a7af6b5d",
     "title": "AI数据中心开发商LIAN选定伦敦上市，IPO拟募资5亿美元",
     "url": "https://36kr.com/newsflashes/4087980989577607?f=rss",
@@ -1791,7 +2740,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 3
+    "rank": 19
   },
   {
     "id": "8d4d6b6d447f23a663",
@@ -1804,7 +2753,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 2
+    "rank": 3
   },
   {
     "id": "ebbd1a522d77cd4938",
@@ -1830,7 +2779,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 6
+    "rank": 13
   },
   {
     "id": "4039b30139ad8612cd",
@@ -1869,7 +2818,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 5
+    "rank": 7
   },
   {
     "id": "4cb885a9e6ecc5c232",
@@ -1960,7 +2909,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "38ce098318caf83a3f",
@@ -2262,6 +3211,19 @@
     "rank": null
   },
   {
+    "id": "120098af82e52e0b8c",
+    "title": "スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2160150.html",
+    "summary": "",
+    "published": "2026-11-27T11:50:35Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 16
+  },
+  {
     "id": "cc0d2378f6f22564a3",
     "title": "居住実体のないマンションへの「空室税」関連条例案など32議案を提案 神戸市",
     "url": "https://www.sankei.com/article/20261127-OHRG665XYBOTJNIM5GEIVLNLIM?outputType=asynd",
@@ -2337,7 +3299,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 20
+    "rank": 28
   },
   {
     "id": "e4894c42d86768efe1",
@@ -2363,7 +3325,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 4
+    "rank": 9
   },
   {
     "id": "4515ae11d1f250618d",
@@ -2480,7 +3442,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 1
+    "rank": 12
   },
   {
     "id": "424956d36de1f1f0c4",
@@ -2585,6 +3547,19 @@
     "language": "ja",
     "category": "general",
     "rank": null
+  },
+  {
+    "id": "eb2c46b15f51ddc56c",
+    "title": "AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計",
+    "url": "https://speakerdeck.com/j5ik2o/archcon2026",
+    "summary": "AIに正しさの基準を与えるのはドメインモデルです。今日はAWSのAI-DLC v2を解剖し、まず標準の基盤だけでタスク管理APIを作らせます。そのうえで自作プラグインを通じ、設計の形・入口の境界・層の依存の向きがどう変わったかを実例で整理します。検証対象は1つのAPIの中までとし、今後の拡張余地と人間が…",
+    "published": "2026-11-27T10:26:22Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 5
   },
   {
     "id": "9ecd236958c6e215cf",
@@ -2740,7 +3715,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 3
+    "rank": 14
   },
   {
     "id": "4dee1615b4fb98cb66",
@@ -2766,7 +3741,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 18
   },
   {
     "id": "56f793d7a1c0d608bc",
@@ -2779,7 +3754,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 11
+    "rank": 23
   },
   {
     "id": "0287b75de69dad3ade",
@@ -2805,7 +3780,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 12
+    "rank": 29
   },
   {
     "id": "cad1a3433fcee7e9bd",
@@ -2961,7 +3936,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 27
   },
   {
     "id": "c96045f210915ad076",
@@ -3039,7 +4014,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 9
+    "rank": 12
   },
   {
     "id": "adb6f889d2a574c2ae",
@@ -3053,6 +4028,19 @@
     "language": "ja",
     "category": "finance",
     "rank": null
+  },
+  {
+    "id": "e649efb58718502c46",
+    "title": "「日本の利益配慮しない」トランプ氏 過度な米国依存脱却の時期 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261125/k00/00m/030/282000c",
+    "summary": "米中間選挙で野党・民主党が連邦上下両院の過半数を奪還し、トランプ大統領の与党・共和党は大敗した。三牧聖子・同志社大大学院教授は、外交分野で単独行動を強めるトランプ氏が「日本の利益や立場にほとんど配慮」しないのは明確だと指摘。日本は「米国への過度の依存を脱却」すべきだと主張した。 強烈な不信任に反省...",
+    "published": "2026-11-27T07:37:11Z",
+    "source": "はてな · Economics",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "finance",
+    "rank": 8
   },
   {
     "id": "73a4ecdf286409b723",
@@ -3130,7 +4118,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 15
+    "rank": 25
   },
   {
     "id": "4b7ffc3c80d6257d9b",
@@ -3169,7 +4157,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 10
+    "rank": 22
   },
   {
     "id": "5d7f89ae1baf0641a2",
@@ -3263,6 +4251,19 @@
     "rank": null
   },
   {
+    "id": "f894de4ac1a3088541",
+    "title": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも",
+    "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
+    "summary": "",
+    "published": "2026-11-27T07:00:16Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 3
+  },
+  {
     "id": "55a28ebb165f1b4fe2",
     "title": "Equities Extend Recovery as AI Trade Rebounds",
     "url": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video",
@@ -3286,7 +4287,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 11
+    "rank": 19
   },
   {
     "id": "37b9b9aad19c6dbeb2",
@@ -3326,6 +4327,19 @@
     "language": "ja",
     "category": "finance",
     "rank": null
+  },
+  {
+    "id": "3bbc7607e2b843c2a0",
+    "title": "なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ",
+    "url": "https://kei-1010.hatenablog.com/entry/2026/11/27/133416",
+    "summary": "最近のAI関連のニュースでは、人間離れした成果が次々に出ている。 167年間どの天才数学者も解けなかったリーマン予想をAnthropicのClaudeが約1,700万行のコードで形式証明したかと思えば、OpenAIのGPT-6.2 Astraは200年以上も作者不明だった1808年のスケッチブックの描き手をたった22分で突き止めた。さらに新興企業のA...",
+    "published": "2026-11-27T06:22:00Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 1
   },
   {
     "id": "27e597ed4ae41bd4e8",
@@ -4160,6 +5174,32 @@
     "rank": 30
   },
   {
+    "id": "d6e4f68a8ccd6e7fa5",
+    "title": "Windowsで定番のターミナルエミュレーター「Tera Term」にMac版が登場、原作者公認／本家の設定ファイル、「.ttl」ファイルもそのまま扱える【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2159779.html",
+    "summary": "",
+    "published": "2026-11-27T04:19:49Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 15
+  },
+  {
+    "id": "c70ddd1039f8c8cd0c",
+    "title": "Docker HubのPHP公式イメージから自前ビルドへ移行 〜Debian移行と最適化で稼働Pod数を約25%削減〜 - COLOPL Tech Blog",
+    "url": "https://blog.colopl.dev/entry/2026/11/27/110000",
+    "summary": "こんにちは、サーバー基盤グループの駒崎です。 Google Kubernetes Engine（GKE）などコンテナ上で動く複数のゲームタイトル向けに、社内共通のPHPベースイメージを運用しています。インフラのCPU効率を基盤側から改善しようと手を入れた結果、Docker Hubの php 公式イメージをやめて、php.net のソースコードから自前で...",
+    "published": "2026-11-27T04:05:22Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 13
+  },
+  {
     "id": "d86f1b178161da2332",
     "title": "増田陸「自分自身に期待」 堤聖也「勝機見えている」 29日にボクシングトリプル世界戦",
     "url": "https://www.sankei.com/article/20261127-46NASZWTAVLH5DRMHTC7ZZXPHU?outputType=asynd",
@@ -4430,7 +5470,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 14
+    "rank": 17
   },
   {
     "id": "d0a434419fbb4b6842",
@@ -4534,20 +5574,20 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 13
+    "rank": 16
   },
   {
     "id": "a20217030efe7ed791",
     "title": "Citroën Hydraulic System",
     "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-    "summary": "HN points: 114 | comments: 42",
+    "summary": "HN points: 151 | comments: 50",
     "published": "2026-11-27T03:10:19Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 6
+    "rank": 10
   },
   {
     "id": "7d86acb30c38bddd8f",
@@ -4573,7 +5613,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 19
+    "rank": 30
   },
   {
     "id": "210a5d7c1ac52bffd3",
@@ -4668,16 +5708,16 @@
   },
   {
     "id": "bade11692d8d13ca4c",
-    "title": "関芳弘文部科学相の問責決議案、4票差で否決 与党などが反対 - 日本経済新聞",
+    "title": "関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUA270RH0X21C26A1000000",
-    "summary": "参院は27日の本会議で、関芳弘文部科学相への問責決議案を与党などの反対多数で否決した。244票の投票のうち反対が124、賛成が120だった。関氏が政治資金パーティーに官僚を呼んで企業に説明させた問題を受け、野党8党派が26日に提出していた。関氏は国会答弁で2024年3月と6月のパーティーで経済産業省や厚生労働省の職...",
+    "summary": "参院は27日の本会議で、関芳弘文部科学相への問責決議案を与党などの反対多数で否決した。244票の投票のうち反対が124、賛成が120だった。否決を受け、参院で消費税減税の関連法案の審議が再開する見通しとなった。野党8党派が26日、関氏が政治資金パーティーに官僚を呼んで企業に説明させた問題を受け問責決議案を提出...",
     "published": "2026-11-27T02:39:04Z",
     "source": "はてな · Economics",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 22
+    "rank": 24
   },
   {
     "id": "45ccdf4aec1c84d15e",
@@ -4693,8 +5733,21 @@
     "rank": 4
   },
   {
+    "id": "de0b5b619fca9aac9d",
+    "title": "NumPyroで混合正規分布モデリング - ドワンゴ教育サービス開発者ブログ",
+    "url": "https://blog.nnn.dev/entry/2026/11/27/110000",
+    "summary": "はじめに データ活用システム開発セクションの田沼です。部署の名前の通り、データを活用した仕組みの企画、検証、開発などを広めに担当しています。 我々のチームでは学力や問題特性の分析に確率的プログラミングライブラリであるNumPyroを利用しています。NumPyroはモデルを設計すれば、こちらでアルゴリズム実装に頭...",
+    "published": "2026-11-27T02:33:03Z",
+    "source": "はてな · IT Hotentry",
+    "source_type": "aggregator",
+    "publisher": "はてな",
+    "language": "ja",
+    "category": "tech",
+    "rank": 17
+  },
+  {
     "id": "b637454ee3f534e261",
-    "title": "【更新中】関文科相への問責決議案 4票差で否決 参院本会議 | NHKニュース",
+    "title": "関文科相への問責決議案 4票差で否決 参院本会議 | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82148",
     "summary": "NHK ONEはどなたでもご利用になれます。受信契約がお済みの世帯の方は、別途の契約や追加のご負担なく利用できます。契約をされていない世帯の方が利用した場合は、放送法に基づき契約が必要です。 受信契約の詳細や、事業・学校での利用については下記のリンクをご覧ください。",
     "published": "2026-11-27T02:31:50Z",
@@ -4703,7 +5756,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 21
+    "rank": 23
   },
   {
     "id": "7a6d06175c59f146c7",
@@ -4833,7 +5886,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 6
+    "rank": 5
   },
   {
     "id": "005247d93eb75d9b12",
@@ -4976,7 +6029,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 7
+    "rank": 6
   },
   {
     "id": "007117d8034f5e1caf",
@@ -5002,7 +6055,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 27
+    "rank": 29
   },
   {
     "id": "ade538685f52d8cfa9",
@@ -5214,7 +6267,7 @@
   },
   {
     "id": "468ee525e9fe4d8d53",
-    "title": "史上空前、ウラジミール・プーチン チンギス・ハン、ハンニバル、アレクサンドロス大王、ナポレオンに比肩すべき天才",
+    "title": "史上空前、ウラジーミル・プーチン チンギス・ハン、ハンニバル、アレクサンドロス大王、ナポレオンに比肩すべき天才",
     "url": "https://anond.hatelabo.jp/20261127090618",
     "summary": "25年もの間、絶対的な権力を振るい、底なしの石油マネーの海に浸かりながら、結局はチリ並みでコスタリカを下回る一人当たり名目GDPに落ち着いたんだから、世界政治の真のグランドマスターでなければできないことだと認めないとな。 まさに天才としか言いようがない。わずか15年前までロシアに最も近く、最も友好的だっ...",
     "published": "2026-11-27T00:13:38Z",
@@ -5223,7 +6276,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 12
+    "rank": 27
   },
   {
     "id": "863cf403bfbb683925",
@@ -5236,7 +6289,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "tech",
-    "rank": 13
+    "rank": 24
   },
   {
     "id": "74f9919f635104e78a",
@@ -5782,7 +6835,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 10
+    "rank": 15
   },
   {
     "id": "65ebd9561ad2f5e264",
@@ -5808,7 +6861,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 23
+    "rank": 25
   },
   {
     "id": "57e76b8d4f72fd79c8",
@@ -6685,14 +7738,27 @@
     "id": "5010b5ccc7fc18e1fd",
     "title": "First images of the impact of DART asteroid deflection experiment",
     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
-    "summary": "HN points: 178 | comments: 54",
+    "summary": "HN points: 198 | comments: 58",
     "published": "2026-11-26T17:24:37Z",
     "source": "Hacker News · Top",
     "source_type": "aggregator",
     "publisher": "Hacker News",
     "language": "en",
     "category": "tech",
-    "rank": 12
+    "rank": 15
+  },
+  {
+    "id": "45e0b91b575ac89c3b",
+    "title": "The Balatro Timeline",
+    "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "summary": "HN points: 183 | comments: 41",
+    "published": "2026-11-26T17:20:27Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 3
   },
   {
     "id": "7b87faaf3222ad40bd",
@@ -6874,7 +7940,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 15
+    "rank": 18
   },
   {
     "id": "e45053e78ecd2b7060",
@@ -6932,14 +7998,14 @@
     "id": "ff00a93e86eb7421b6",
     "title": "「団地のノリでタワマンが並んでる」中国・西安郊外の光景に驚きの声→空室率やインフラ維持への懸念のほか、中国語圏ユーザーも交えて高層化・土地制度の背景を議論",
     "url": "https://togetter.com/li/2775341",
-    "summary": "「団地のノリでタワマンが並んでる」中国・西安郊外の光景に驚きの声→空室率やインフラ維持への懸念のほか、中国語圏ユーザーも交えて高層化・土地制度の背景を議論",
+    "summary": "井口智明 @kisoyamabito これが中国内陸部の西安から高速で20分くらいの場所 ここからまだまだ永遠にタワマンが立ち並んでいます。 北京でも上海でもなく西安の外れです。 pic.x.com/xti8VJ5NVn 2026-11-25 08:27:32",
     "published": "2026-11-26T14:58:13Z",
     "source": "はてな · Economics",
     "source_type": "aggregator",
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 8
+    "rank": 11
   },
   {
     "id": "71ce64788105959932",
@@ -7017,7 +8083,7 @@
     "publisher": "Zenn",
     "language": "ja",
     "category": "tech",
-    "rank": 8
+    "rank": 7
   },
   {
     "id": "da2ff628a8a5ab1715",
@@ -7160,7 +8226,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 20
+    "rank": 22
   },
   {
     "id": "52b8bfc998a09d08e0",
@@ -7199,7 +8265,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 16
+    "rank": 20
   },
   {
     "id": "12a206a01cb935dbbe",
@@ -7434,6 +8500,19 @@
     "language": "en",
     "category": "finance",
     "rank": null
+  },
+  {
+    "id": "b355997d2790d9988a",
+    "title": "How WinHelp Files Work",
+    "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+    "summary": "HN points: 20 | comments: 17",
+    "published": "2026-11-26T12:51:37Z",
+    "source": "Hacker News · Top",
+    "source_type": "aggregator",
+    "publisher": "Hacker News",
+    "language": "en",
+    "category": "tech",
+    "rank": 14
   },
   {
     "id": "bdd3c6948eebfd0a4c",
@@ -7940,7 +9019,7 @@
     "publisher": "はてな",
     "language": "ja",
     "category": "finance",
-    "rank": 18
+    "rank": 21
   },
   {
     "id": "25d60d46cb4c28c204",
@@ -8019,1084 +9098,5 @@
     "language": "zh",
     "category": "tech",
     "rank": null
-  },
-  {
-    "id": "d8e67bda9eb35c55ec",
-    "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
-    "summary": "The startup offers companies a way to keep employees’ AI use private from model makers",
-    "published": "2026-11-26T12:02:01Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "1380e81ec90f230e8c",
-    "title": "Dressmaker review – delightful business sim is a cut above",
-    "url": "https://www.theguardian.com/games/2026/nov/26/dressmaker-review-delightful-business-sim-is-a-cut-above",
-    "summary": "PC; Cosy Lives/Free Lives Catering to the exacting whims of a small town preparing for some grand visitors presents absorbing, beautifully designed – and surprisingly thrilling – challenges The small town of Twillford is abuzz with intrigue",
-    "published": "2026-11-26T12:00:34Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "ecd925b6c2f3e8fc41",
-    "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
-    "url": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
-    "summary": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges Electrical goods that were returned as faulty to leading British stores including Tesco, Argos and Asda ",
-    "published": "2026-11-26T12:00:34Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "8316ec55efdc7a6436",
-    "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
-    "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
-    "summary": "Rivals engage law firm Wiggin as they seek damages Claim could be worth hundreds of millions of pounds Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the ",
-    "published": "2026-11-26T12:00:34Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "fb39f91a9f926f833d",
-    "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-    "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-    "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary mea",
-    "published": "2026-11-26T12:00:22Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "536b7f8401a7aa6075",
-    "title": "Texas resumes data centre permitting before Democrats take over",
-    "url": "https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3?syn-25a6b1a6=1",
-    "summary": "Incoming governor Gina Hinojosa pledged to rein in construction of new projects during her campaign",
-    "published": "2026-11-26T12:00:10Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "72f59fe71bff2791eb",
-    "title": "Nintendo and Sony ready for a two-level battle with AI",
-    "url": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1",
-    "summary": "Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for",
-    "published": "2026-11-26T11:59:32Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "8330a7f3e73c7c769f",
-    "title": "OPEC+考虑将现行石油产量配额延续至明年1月",
-    "url": "https://36kr.com/newsflashes/4086505941576325?f=rss",
-    "summary": "11月26日，据报道，受伊朗战争影响及其他不确定因素困扰，OPEC+正在考虑将目前的石油产量配额延续至明年1月。两名代表透露，由沙特阿拉伯牵头的OPEC+计划于本周日举行线上会议，讨论2027年新的石油生产目标。（界面）",
-    "published": "2026-11-26T11:57:51Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "5f17c1b7d1c7019e8e",
-    "title": "腾讯以第一单位首登《Nature》，AI从头设计双靶点多肽",
-    "url": "https://36kr.com/newsflashes/4086514623723652?f=rss",
-    "summary": "36氪获悉，11月26日，国际顶刊《Nature》主刊正式刊发腾讯生命科学实验室主导完成的最新研究论文《De novo design of high-potency dual-target therapeutic peptides with ORIDTP》。该研究构建的高活性双靶点治疗性多肽AI从头设计平台ORIDTP，为破解双靶点药物研发“创新空间窄、靶点平衡难、筛选效率低”三大难题，提供了有效解决方案。这是腾讯生命科学实验室首次以第一单位登上《Nature》主刊，标志着团",
-    "published": "2026-11-26T11:53:35Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "214fe971d4a436ab5d",
-    "title": "摩根大通将贵州茅台评级上调至超配，目标价1800元人民币",
-    "url": "https://36kr.com/newsflashes/4086529034958976?f=rss",
-    "summary": "摩根大通证券股份有限公司将贵州茅台评级上调至超配，目标价1800元人民币，即上涨23%。摩根大通分析师Jessie Xu之前的评级为中性。（财联社）",
-    "published": "2026-11-26T11:52:18Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "305d1ec9854f2076f0",
-    "title": "Nextcloud Office Desktop app",
-    "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app",
-    "summary": "HN points: 413 | comments: 212",
-    "published": "2026-11-26T11:50:49Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "e7a8fb621b07791ba4",
-    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
-    "url": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
-    "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation ",
-    "published": "2026-11-26T11:49:59Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "e3446abd89c9528d27",
-    "title": "中鼎股份：拟以1亿元-2亿元回购公司股份",
-    "url": "https://36kr.com/newsflashes/4086511619241865?f=rss",
-    "summary": "36氪获悉，中鼎股份公告，公司拟使用自有或自筹资金以集中竞价方式回购公司已发行A股股票，回购资金总额不低于1亿元且不超过2亿元，回购价格不超过25元/股。本次回购股份将用于股权激励或员工持股计划，回购期限为董事会审议通过之日起12个月内。",
-    "published": "2026-11-26T11:49:37Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "39f1b69a9ab5289723",
-    "title": "引望发布辅助驾驶新品牌“星驰”，明年预计超10款新车搭载上市",
-    "url": "https://36kr.com/newsflashes/4086525598693510?f=rss",
-    "summary": "36氪获悉，11月26日，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌——“星驰”，预计明年有超过10款搭载星驰辅助驾驶的新车上市。",
-    "published": "2026-11-26T11:48:48Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "b8a3e63d85fa5b878a",
-    "title": "J3奈良クラブ、5位で後半戦へ折り返し 第19節松本山雅FC戦で3試合ぶりに勝利",
-    "url": "https://www.sankei.com/article/20261126-WRYMDNXNAJLTHE36Q5FCHUSVVU?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-26T11:46:05Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "12d8b4213f8eccb99c",
-    "title": "天齐锂业：拟以4亿元-8亿元回购公司A股股份",
-    "url": "https://36kr.com/newsflashes/4086511002086020?f=rss",
-    "summary": "36氪获悉，天齐锂业公告，公司拟使用自有资金或自筹资金以集中竞价方式回购A股股份，回购资金总额不低于4亿元且不超过8亿元，回购价格不超过53.08元/股。按回购金额上限测算，预计回购股份数量约1507.16万股，占公司总股本的0.88%；按下限测算，预计回购约753.58万股，占总股本的0.44%。回购股份将用于股权激励或员工持股计划，实施期限为自董事会审议通过之日起12个月内。",
-    "published": "2026-11-26T11:44:54Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "2ea867053a851c136d",
-    "title": "Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた",
-    "url": "https://zenn.dev/nooop/articles/00cde2e1a825ad",
-    "summary": "llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Experts)モデルを動かしてみました。 やったことは llama.cpp の速度計測のみ です。設定ファイルと起動スクリプトは GitHub に置いています。 こ",
-    "published": "2026-11-26T11:41:19Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 2
-  },
-  {
-    "id": "3bf8b7a2d02e7f57fe",
-    "title": "英国央行警告全球金融体系面临多重风险",
-    "url": "https://36kr.com/newsflashes/4086507343424133?f=rss",
-    "summary": "当地时间11月26日，英国央行英格兰银行公布最新金融政策委员会会议纪要。纪要警告称，中东冲突持续以及全球主权债务压力加剧等问题，正在加大全球金融体系面临的风险，多重金融风险同时显现的可能性有所上升。纪要指出，中东冲突持续扰乱全球能源市场和供应链，对全球经济造成长期负面冲击。能源价格上涨进一步加剧通胀压力，推高利率。未来通胀和利率走势仍存在较大不确定性。（央视新闻）",
-    "published": "2026-11-26T11:40:18Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "fbf2576f4d0e4c8a13",
-    "title": "逆転勝訴、熱中症小1女児「お茶買って」訴訟 母の願いと高裁が問いかけた教師の“義務”",
-    "url": "https://www.sankei.com/article/20261126-NDM66RJUYVLU7I7CU7VDZITM2Y",
-    "summary": "",
-    "published": "2026-11-26T11:30:00Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "c0eaf94dadda8d126c",
-    "title": "Aniwaffle | Expressive, lovable AI voices for your characters",
-    "url": "https://aniwaffle.com/",
-    "summary": "Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it yourself.",
-    "published": "2026-11-26T11:26:19Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 8
-  },
-  {
-    "id": "faa758ea92283469e1",
-    "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
-    "url": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
-    "summary": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this? Meta has rolled out its Muse AI assistant, which can be tasked with shopping, booking tickets and carry",
-    "published": "2026-11-26T11:23:41Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "8c324186d1297c330e",
-    "title": "Malaysia Says May Intervene If AirAsia’s Struggles Worsen",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
-    "summary": "Malaysia may consider stepping in to support AirAsia Group Bhd. if the airline’s financial difficulties worsen, Second Finance Minister Amir Hamzah Azizan said, as the government seeks to protect domestic air connectivity.",
-    "published": "2026-11-26T11:22:52Z",
-    "source": "Bloomberg · Markets",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "53defd9e9927381b94",
-    "title": "Agentforce エージェントからユーザー単位の認証で外部 MCP サーバーに接続する",
-    "url": "https://zenn.dev/hrendoh/articles/agentforce-mcp-per-user-auth",
-    "summary": "この記事は、「Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う」の続きでSalesforce の Agentforce Employee エージェントから外部の MCP（Model Context Protocol）サーバーに接続するときの認証を、全ユーザーで共用する形から、ユーザーごとの認証（ユーザー単位認証）に切り替える手順をまとめたものです。題材は前回と同様に Asana の MCP サーバーで、Salesforce のケースから",
-    "published": "2026-11-26T11:22:02Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 1
-  },
-  {
-    "id": "d3e8baf90cb5ceed6c",
-    "title": "「ICCを守り抜くことに集中したい」 赤根所長が慶応大で会見 米制裁の影響に憂慮",
-    "url": "https://www.sankei.com/article/20261126-56ICJSAOVVOYJHEVOANASMAMTI?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-26T11:18:36Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "12eb89fdbe49601f78",
-    "title": "「ICCを守り抜くことに集中したい」 赤根所長が慶応大で会見 米制裁の影響に憂慮",
-    "url": "https://www.sankei.com/article/20261126-56ICJSAOVVOYJHEVOANASMAMTI?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-26T11:18:36Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "49b6fd5fbf133c32f8",
-    "title": "福島復興・廃炉へ新本社 東電、人材確保へ体制強化 2027年度中の設置目指す",
-    "url": "https://www.sankei.com/article/20261126-STGD7HYDWJIJJO3FOLWSYRJYYM",
-    "summary": "",
-    "published": "2026-11-26T11:12:14Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "3e1a966e0a4b8eb7e4",
-    "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
-    "url": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
-    "summary": "12GB に qwen3-14b と Phi-4（14B）が載りましたが、ピークはカード全体の 96% 前後で余裕はほとんどありません。生成は 14B で毎秒 54〜61 トークン、ロードは 2.5 秒未満でした。gpt-oss-20b は、この記事の回避策の構成では読み込みの時点でエラーになり、載るかどうかを確かめられませんでした。 ローカルのモデル 2 つ（qwen3-8b と Phi-4）を「得意な種類」で振り分けても、qwen3-14b 1 本と差が出ませんでした（プ",
-    "published": "2026-11-26T11:10:15Z",
-    "source": "Zenn · Trending",
-    "source_type": "community",
-    "publisher": "Zenn",
-    "language": "ja",
-    "category": "tech",
-    "rank": 2
-  },
-  {
-    "id": "e18560d10d41becd38",
-    "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-    "url": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery",
-    "summary": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2 Astra Solves a Historical Mystery https://generativehistory.substack.com/p/gpt-62-astra-solves-a-hi...",
-    "published": "2026-11-26T11:08:57Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 21
-  },
-  {
-    "id": "d85722bb19300d9e45",
-    "title": "ススキノ5店舗でノロ検出 16人症状、ビル給水影響か 地下の受水槽に亀裂、水に濁り",
-    "url": "https://www.sankei.com/article/20261126-B5MAT55BNNKBXENCOLRCYADCZQ",
-    "summary": "",
-    "published": "2026-11-26T11:08:26Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "01e787c72319c4fd3e",
-    "title": "高齢者の介護保険料増額へ、控除後の所得120万円以上が対象 支払い能力応じた徴収徹底",
-    "url": "https://www.sankei.com/article/20261126-NME6TFEIGZL4XF4XJLUYNK2TXI",
-    "summary": "",
-    "published": "2026-11-26T11:05:06Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "308705e3c76577719a",
-    "title": "今年入った新卒の子がほんとに仕事ができないが、素行が悪いヤンチャ系でもないからどうしていいか分からず、全員で困って詰んでいる",
-    "url": "https://togetter.com/li/2775280",
-    "summary": "ハヤテ @HayateV_sanya @0714373Minami 本人に学ぼう、直そうって姿勢があればいいんですけどね… 新卒だけじゃなくて、ベテランといわれる奴にも自主性ないのいるからもう終わりですよそういうのは 2026-11-26 12:37:30 みなみ🥍🧪 @0714373Minami @HayateV_sanya 結局はやる姿勢ですよね… 仕事なんてみんなやる気ないの...",
-    "published": "2026-11-26T11:05:01Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 28
-  },
-  {
-    "id": "12cae222a4eb906351",
-    "title": "現代美術家、川島猛さん死去 高松市拠点に活動",
-    "url": "https://www.sankei.com/article/20261126-KSQRBWC7ZVOMFM72SJPATR3KKE",
-    "summary": "",
-    "published": "2026-11-26T11:02:19Z",
-    "source": "産経新聞 · 速報",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "ac7a4d0be0915f287c",
-    "title": "Backlash over AI power costs threatens $67bn NextEra-Dominion deal",
-    "url": "https://www.ft.com/content/1f4095cb-c032-414f-9858-554c8b82b145?syn-25a6b1a6=1",
-    "summary": "Tie-up faces fierce opposition as anger over soaring electricity bills spills into Wall Street dealmaking",
-    "published": "2026-11-26T11:00:06Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "e2cc0cfa71641d8b18",
-    "title": "VC investors dump old funds at steep discounts to chase AI riches",
-    "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
-    "summary": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
-    "published": "2026-11-26T11:00:06Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "cb5cd400220c6e5ada",
-    "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-    "url": "https://www.sankei.com/article/20261126-SG3WMQDULBJXZKWHEDHQFVMZBY?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-26T10:54:58Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "78c2020a14f1973e18",
-    "title": "定数削減、衆院委で採決先送り 「６０日ルール」与党断念：時事ドットコム",
-    "url": "https://www.jiji.com/jc/article?k=2026112600982&g=pol",
-    "summary": "定数削減、衆院委で採決先送り 「６０日ルール」与党断念 時事通信 政治部2026年11月26日18時03分配信 衆院政治改革特別委員会＝２６日、国会内 衆院政治改革特別委員会は２６日、衆院比例代表定数３１削減法案の同日の採決を見送った。与党は衆院の３分の２以上による再可決が可能になる「６０日ルール」を念頭に週内...",
-    "published": "2026-11-26T10:52:37Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 27
-  },
-  {
-    "id": "05e1eb825f6dd47e11",
-    "title": "CPTPPとEU、重要鉱物などの需給情報共有 不足を早期把握",
-    "url": "https://www.nikkei.com/article/DGXZQOGM268VE0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:45:03Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "0af0d7852ad4b16e5a",
-    "title": "「M7プラス」ETFの残高、2週で40倍 オープンAIも組み入れ",
-    "url": "https://www.nikkei.com/article/DGXZQOUB264PD0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:35:24Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "5929e919f8ac63e690",
-    "title": "2次補正予算でガソリン補助、政府検討 継続へ財源確保",
-    "url": "https://www.nikkei.com/article/DGXZQOUA26AP20W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:26:41Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "a8d3c32e8d7e789bdc",
-    "title": "SSDでGPUメモリをペタバイト級に拡張、キオクシアとNVIDIAがAI向けの実証",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2159567.html",
-    "summary": "",
-    "published": "2026-11-26T10:21:05Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 24
-  },
-  {
-    "id": "fba2d5a10f1be197e9",
-    "title": "変動利付国債、27年1〜3月の発行見送り 6月に再検討",
-    "url": "https://www.nikkei.com/article/DGXZQOUA269EB0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:19:36Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "0e4fa18398a6ecdd1a",
-    "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
-    "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
-    "summary": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing Business live – latest updates Norse Atlantic Airways has suspended all flights and said it will file for bankruptcy i",
-    "published": "2026-11-26T10:15:18Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "03fadc6bae8276b850",
-    "title": "Intel One Mono font (2023)",
-    "url": "https://github.com/intel/intel-one-mono",
-    "summary": "HN points: 556 | comments: 265",
-    "published": "2026-11-26T10:11:01Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "bc8ecbe8a283122dd7",
-    "title": "法人事業税、自民税調が地方に再分配提起 都連は小池知事援護で反対",
-    "url": "https://www.nikkei.com/article/DGXZQOUA242LA0U6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:05:30Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "f6884d14322ba3c291",
-    "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-    "url": "https://gigazine.net/news/20261126-muse-amazon-discuss",
-    "summary": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 Exclusive: Meta and Amazon discuss ending Muse blockade; ads, sear...",
-    "published": "2026-11-26T10:04:37Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 25
-  },
-  {
-    "id": "c9e50f1b41c0bba4a5",
-    "title": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース",
-    "url": "https://digital-agency-news.digital.go.jp/articles/2026-11-26",
-    "summary": "ホームニュース一覧デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る 2026年8月6日に開催した事業者向けの勉強会で、デジタル庁デザインシステムをローカルデザインシステム...",
-    "published": "2026-11-26T10:02:29Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 9
-  },
-  {
-    "id": "c5421579059807707e",
-    "title": "19日の熊本地震後、断層の「割れ残り」活発化か 地震予知連で報告",
-    "url": "https://www.nikkei.com/article/DGXZQOSG265XE0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T10:01:27Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "65d9cf1b462d0f8bb8",
-    "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-    "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-    "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the re",
-    "published": "2026-11-26T10:00:52Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "c66dcc0390b5660d8e",
-    "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-    "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-    "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the re",
-    "published": "2026-11-26T10:00:52Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "175dd815d4e15e4da1",
-    "title": "The dhow builders crafting giant historic ships in India – in pictures",
-    "url": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi",
-    "summary": "It takes three years for shipbuilders in the 16th-century port of Mandvi to complete a commission, in a trade that is as cultural as it is technical In the 16th century, the port city of Mandvi on India’s west coast was founded by the ruler",
-    "published": "2026-11-26T10:00:52Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "352b804ecc08505569",
-    "title": "始于爆款，困于爆款，北极狐不想只当「卖包的」",
-    "url": "https://36kr.com/p/4086378667600512?f=rss",
-    "summary": "一只小狐狸蜷缩着，尾巴遮住大半身子，只探出一个头。 这是北极狐（Fjällräven）的商标，也像它在中国市场的长期处境： 它的一款单品太过耀眼：十几年前，旗下Kanken背包风靡街头，样式至今几乎没变，仍随处可见。你多半见过，甚至买过，却未必叫得对名字；整个品牌则不显山露水：它对外向来“低调”，不签明星代言人，也很少大规模投放广告——自媒体盘“小众户外品牌”时，常漏掉它，入行多年的从业者中，也有人对它“缺乏感知”。 进入中国18年，这个品牌依然没被真正看清。 图源：北极狐 ",
-    "published": "2026-11-26T10:00:00Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "3e8896947f7f79fe35",
-    "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
-    "url": "https://gigazine.net/news/20261126-nvidia-china-company",
-    "summary": "NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。 2 California companies are buying Nvidia's most advanced chips. Those companies are actually ...",
-    "published": "2026-11-26T09:52:34Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 27
-  },
-  {
-    "id": "11e924752c81e2217e",
-    "title": "一款AI心理产品，靠「挽回前任挑战」活了下来",
-    "url": "https://36kr.com/p/4086400100706693?f=rss",
-    "summary": "AI无法取代心理咨询师。 访谈 | 刘思洁、刘孜妍 文 | 刘思洁 编辑 | 张薇 封面来源 | Unsplash 2026年6月，Tess一年半前融到的天使轮的钱，快花完了。 “如果没办法再看到数据，我们也不确定能不能继续投。”资方对Tess这么说，态度显然很犹疑。有FA告诉Tess，去讲个关于AI心理+硬件的故事，这样好融钱。 24年，Tess做了AI心理软件Moor AI——一款聚焦焦虑型依恋、以情感支持为切口的AI产品。但她不是因为赛道热门好融钱，而是母亲患有双相情感",
-    "published": "2026-11-26T09:51:53Z",
-    "source": "36氪 · 综合",
-    "source_type": "publisher",
-    "publisher": "36氪",
-    "language": "zh",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "ccd7ac0a4d92feb250",
-    "title": "中国、米国の新関税案に反発 「必要な措置で正当な利益守る」 首脳会談からわずか1週間",
-    "url": "https://www.sankei.com/article/20261126-UZYD7CSZYBMP3G2DNMETWRPX2Q?outputType=asynd",
-    "summary": "",
-    "published": "2026-11-26T09:48:52Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "80ae5f63462e389fae",
-    "title": "「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2159560.html",
-    "summary": "",
-    "published": "2026-11-26T09:47:01Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "3ff6c16cf4384f5e0b",
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-    "summary": "HN points: 381 | comments: 318",
-    "published": "2026-11-26T09:44:23Z",
-    "source": "Hacker News · Top",
-    "source_type": "aggregator",
-    "publisher": "Hacker News",
-    "language": "en",
-    "category": "tech",
-    "rank": 22
-  },
-  {
-    "id": "3d12dc1ac49ac8269a",
-    "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp",
-    "url": "https://gihyo.jp/article/2026/11/skills-over-mcp",
-    "summary": "Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skill...",
-    "published": "2026-11-26T09:44:20Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 16
-  },
-  {
-    "id": "dc7f3fbd3d135de705",
-    "title": "Investec Sees Opportunities in Three Key AI Buckets",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-26/investec-sees-opportunities-in-three-key-ai-buckets-video",
-    "summary": "Jimmy Muchechetere, equity research analyst at Investec, says the AI trade isn't over and there are value opportunities across the spectrum. He speaks on Bloomberg Television. (Source: Bloomberg)",
-    "published": "2026-11-26T09:40:56Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "7513972b72a88a7ee7",
-    "title": "東電、福島に廃炉・復興「新本社」 27年度にも発足",
-    "url": "https://www.nikkei.com/article/DGXZQOUA265M90W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T09:40:51Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "1cad03e8a4af9ae2bc",
-    "title": "‘Chicken nuggets’ meme ensnares both Burnham and Badenoch",
-    "url": "https://www.ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341?syn-25a6b1a6=1",
-    "summary": "Row over influencer’s video has exposed both leaders’ inability to handle online misinformation",
-    "published": "2026-11-26T09:30:00Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "3e05d0bb2b709f9dc5",
-    "title": "パナソニックHDなど50社、AI活用へ協会設立 知見共有や官民連携",
-    "url": "https://www.nikkei.com/article/DGXZQOUF247S80U6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T09:27:35Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "a82b5b64d35f2ac632",
-    "title": "エヌビディアCEO復帰ごり押し「裏側」 トランプ大統領が対中リスクより優先したのは",
-    "url": "https://www.sankei.com/article/20261126-5U6IBBEKI5PBZIVJUROXSA2UWI",
-    "summary": "",
-    "published": "2026-11-26T09:24:22Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "3b3bcea279fab13fdc",
-    "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
-    "url": "https://www.theguardian.com/games/2026/nov/26/seven-beautiful-places-to-visit-in-gta-vi-from-mountains-trails-to-an-afternoon-at-the-zoo",
-    "summary": "Need a break from all the crime and violence? There are plenty of places to get away from it all in Leonida As Leonida goes, Mount Kalaga is the top of the world. There are bike trails and hiking trails all the way up the mountain, as well ",
-    "published": "2026-11-26T09:20:50Z",
-    "source": "The Guardian · Technology",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "137c7dfb216b6e4786",
-    "title": "UK regulator admits error in calculating car finance compensation payments",
-    "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
-    "summary": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live – latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the c",
-    "published": "2026-11-26T09:18:11Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "0a50fe38e8752e1626",
-    "title": "Details of two treaties at heart of Andy Burnham’s EU reset to be published",
-    "url": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
-    "summary": "Government also to publish bill that will enact EU deals as Tories and Reform hit out over 10-year termination clause Europe live – latest updates Business live – latest updates Details of two treaties at the heart of Andy Burnham’s post- B",
-    "published": "2026-11-26T09:16:19Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "6578fb0605d787fd78",
-    "title": "Marc Levinson on How UPS Created Modern Logistics",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video",
-    "summary": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. It is now hard to imagine modern, globalized life, and the logistics required to prop it up, without the innova",
-    "published": "2026-11-26T09:12:58Z",
-    "source": "Bloomberg · Technology",
-    "source_type": "publisher",
-    "publisher": "Bloomberg",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "9c2a5e2531c1c463cb",
-    "title": "京都大学の小川誠司教授「医学の進歩につなげる」 慶応医学賞授賞式",
-    "url": "https://www.nikkei.com/article/DGXZQOSG261SS0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T09:06:06Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "5b863b9d399d4d8c9d",
-    "title": "東京電力、AIインフラに10兆円 データセンター向け送電網・原発増強",
-    "url": "https://www.nikkei.com/article/DGXZQOUA048R70U6A101C2000000",
-    "summary": "",
-    "published": "2026-11-26T09:00:00Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "8a486c3ef75d7ca316",
-    "title": "エルサレムを再訪して感じた昔と今、世代交代で保守化しパレスチナ和平は見えず 宮家邦彦",
-    "url": "https://www.sankei.com/article/20261126-7437NDYYVNJQDPVF2V5XOTA2RA",
-    "summary": "",
-    "published": "2026-11-26T09:00:00Z",
-    "source": "産経新聞 · 国際",
-    "source_type": "publisher",
-    "publisher": "産経新聞",
-    "language": "ja",
-    "category": "general",
-    "rank": null
-  },
-  {
-    "id": "51b0dc21743282dcf8",
-    "title": "WordPressのシェア低下をどう見るか——使っている人、静的HTMLやEmDashへ動く人の違い | WP Calm",
-    "url": "https://www.wpcalm.jp/topic/wordpress-market-share-decline-static-html-and-new-cms",
-    "summary": "Web技術の調査でWordPressのシェアが数ポイント下がったという話題をきっかけに、SNSなどでは「WordPressはもう終わりに向かっている」「これからはAIによる静的サイトや新しいCMSへ移るべきだ」といった声を見かけることが増えました。現在WordPressで企業サイトやメディアを運営している担当者からすれば、「今のまま...",
-    "published": "2026-11-26T08:55:17Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 29
-  },
-  {
-    "id": "d541b81af24fb60f10",
-    "title": "麻生系生コン不正、190現場に波及 「処分費負担」の重荷が招いた統治不全",
-    "url": "https://business.nikkei.com/atcl/gen/19/00304/112400281",
-    "summary": "",
-    "published": "2026-11-26T08:45:08Z",
-    "source": "はてな · Economics",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "finance",
-    "rank": 30
-  },
-  {
-    "id": "472f4a27fba8806334",
-    "title": "所得連動給付、扶養家族は年収56万円で対象外も 税・社保負担を考慮",
-    "url": "https://www.nikkei.com/article/DGXZQOUA112BE0R11C26A1000000",
-    "summary": "",
-    "published": "2026-11-26T08:36:27Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "c403bdc5c6bf56c7e4",
-    "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
-    "url": "https://gigazine.net/news/20261126-openai-matrix-multiplication",
-    "summary": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきま...",
-    "published": "2026-11-26T08:35:02Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "ab2e3f95ead656b53d",
-    "title": "経済成長へ専門組織、同友会提言 名目GDPは40年度1170兆円目標",
-    "url": "https://www.nikkei.com/article/DGXZQOUA260GB0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T08:32:22Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "44d87e6ff6fd784de2",
-    "title": "China made Shenzhen a showcase for tech prowess at Apec summit",
-    "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
-    "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
-    "published": "2026-11-26T08:27:59Z",
-    "source": "FT · Technology",
-    "source_type": "publisher",
-    "publisher": "Financial Times",
-    "language": "en",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "dcac90a66c1c390b0a",
-    "title": "【重要】「ASOBI STORE(電子書籍)」サービス終了のお知らせ",
-    "url": "https://shop.asobistore.jp/news/324",
-    "summary": "平素はASOBI STOREをご利用いただき、誠にありがとうございます。 このたび、「ASOBI STORE(電子書籍)」で使用しているプログラム言語「PHP」において、セキュリティ上の脆弱性が公表されました。 これを受け、サービス再開に向けて検討してまいりましたが、既存のシステム環境では、当該脆弱性への対応を行い、十分なセ...",
-    "published": "2026-11-26T08:22:59Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 15
-  },
-  {
-    "id": "72b6242a68e012d9c6",
-    "title": "京セラ、部品事業に8100億円投資 AI需要取り込みへ従来計画上積み",
-    "url": "https://www.nikkei.com/article/DGXZQOUF261Z30W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T08:22:00Z",
-    "source": "日経新聞 · Technology",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "40c61966388f26a256",
-    "title": "謎多い希少サンショウウオ、繁殖に国内で初めて成功…野生下で卵や赤ちゃん見つからず",
-    "url": "https://www.yomiuri.co.jp/science/20261124-GYT1T00074",
-    "summary": "",
-    "published": "2026-11-26T08:20:00Z",
-    "source": "読売新聞 · 科学・IT",
-    "source_type": "publisher",
-    "publisher": "読売新聞",
-    "language": "ja",
-    "category": "tech",
-    "rank": null
-  },
-  {
-    "id": "aabe1882d80b4f7342",
-    "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
-    "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
-    "summary": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’ Tell us: what is your experience of UK private dentistry? Business live – latest updates The UK’s competition watchdog has",
-    "published": "2026-11-26T08:13:01Z",
-    "source": "The Guardian · Business",
-    "source_type": "publisher",
-    "publisher": "The Guardian",
-    "language": "en",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "5c7762e999fde9d174",
-    "title": "税理士試験の受験料引き上げへ、1科目5000円に 政府・与党検討",
-    "url": "https://www.nikkei.com/article/DGXZQOUA264FA0W6A121C2000000",
-    "summary": "",
-    "published": "2026-11-26T08:12:53Z",
-    "source": "日経新聞 · 政治・経済",
-    "source_type": "publisher",
-    "publisher": "日本経済新聞",
-    "language": "ja",
-    "category": "finance",
-    "rank": null
-  },
-  {
-    "id": "f2c0ee2e8954849296",
-    "title": "OpenAI「GPT-6.2」利用枠上限に達するのが最大40％早くなるように",
-    "url": "https://ascii.jp/elem/000/004/455/4455163",
-    "summary": "sponsored AI時代の個人PCのセキュリティ、どうしたらいい？ にズバリ答える sponsored LiberNovo「Omni Pro」「Omni Gen」「Omni SE」 LiberNovoの次世代ワークチェア、自分はどれを選ぶのが正解なのかを徹底解説 sponsored ブラックフライデーでUGREEN製品をお得にゲットしよう！ sponsored 「ベンダー丸投げ」でも成...",
-    "published": "2026-11-26T08:09:12Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 28
-  },
-  {
-    "id": "15007664265a00b9b4",
-    "title": "「知らない〝私〟が血を流し罵倒」中国AI短編ドラマで「顔盗用」急増 俳優は泣き寝入り",
-    "url": "https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE",
-    "summary": "インタビューに答えるモデルの七海さん。奥はモニターに映し出された自身の顔とうり二つのAI俳優＝8月、中国浙江省杭州市（共同）人工知能（AI）を活用した短編ドラマが急増する中国で、AIで作られた「俳優」に顔や声を盗用されたと実在の俳優が訴えるトラブルが多発している。短編ドラマは低コストと制作期間の短さが強...",
-    "published": "2026-11-26T08:06:59Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 17
-  },
-  {
-    "id": "562047a7212e3c6d4b",
-    "title": "みずほ銀行、顧客の管理番号3万件が漏洩 委託先に不正アクセス - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUB266I30W6A121C2000000",
-    "summary": "みずほ銀行は26日、メール配信業務などの委託先企業に不正アクセスがあり、一部の情報が漏洩したと発表した。対象は行内向けの顧客管理番号で最大3万3224件。同日午後3時時点で氏名や住所、口座の暗証番号などは漏洩していない。",
-    "published": "2026-11-26T08:06:01Z",
-    "source": "はてな · IT Hotentry",
-    "source_type": "aggregator",
-    "publisher": "はてな",
-    "language": "ja",
-    "category": "tech",
-    "rank": 14
   }
 ]
